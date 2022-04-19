@@ -1,0 +1,4727 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "94",
+    "season": "2021"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 663,
+        "name": "M. Terrier",
+        "firstname": "Martin",
+        "lastname": "Terrier",
+        "age": 25,
+        "birth": {
+          "date": "1997-03-04",
+          "place": "Armenti\u00e8res",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/663.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 30,
+            "minutes": 2204,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.253333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 25,
+            "bench": 0
+          },
+          "shots": {
+            "total": 55,
+            "on": 39
+          },
+          "goals": {
+            "total": 18,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 696,
+            "key": 31,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": 44,
+            "blocks": 2,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 249,
+            "won": 125
+          },
+          "dribbles": {
+            "attempts": 45,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 65,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 5,
+            "minutes": 512,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.083333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 3
+          },
+          "shots": {
+            "total": 8,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 120,
+            "key": 10,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 59,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1173,
+        "name": "B. Meling",
+        "firstname": "Birger",
+        "lastname": "Solberg Meling",
+        "age": 28,
+        "birth": {
+          "date": "1994-12-17",
+          "place": "Stavanger",
+          "country": "Norway"
+        },
+        "nationality": "Norway",
+        "height": "173 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1173.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 19,
+            "minutes": 1701,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.954166",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 6,
+            "bench": 8
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 843,
+            "key": 15,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 43,
+            "blocks": 7,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 126,
+            "won": 81
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 3,
+            "minutes": 272,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.775000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 65,
+            "key": 4,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 10,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1321,
+        "name": "Lovro Majer",
+        "firstname": "Lovro",
+        "lastname": "Majer",
+        "age": 24,
+        "birth": {
+          "date": "1998-01-17",
+          "place": "Zagreb",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "179 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1321.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 15,
+            "minutes": 1335,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.136363",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 13,
+            "bench": 7
+          },
+          "shots": {
+            "total": 27,
+            "on": 13
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 713,
+            "key": 36,
+            "accuracy": 26
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 146,
+            "won": 56
+          },
+          "dribbles": {
+            "attempts": 34,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 170,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 306,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.940000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 182,
+            "key": 11,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 37,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1422,
+        "name": "J. Doku",
+        "firstname": "J\u00e9r\u00e9my",
+        "lastname": "Doku",
+        "age": 20,
+        "birth": {
+          "date": "2002-05-27",
+          "place": "Antwerp",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "171 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1422.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 4,
+            "minutes": 435,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.880000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 4,
+            "bench": 8
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 133,
+            "key": 8,
+            "accuracy": 8
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 105,
+            "won": 57
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 33,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 75,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 162,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 22,
+            "key": 1,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 19,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1472,
+        "name": "R. Salin",
+        "firstname": "Romain Jules",
+        "lastname": "Salin",
+        "age": 38,
+        "birth": {
+          "date": "1984-07-29",
+          "place": "Mayenne",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1472.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 19
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 1
+          },
+          "passes": {
+            "total": 25,
+            "key": null,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 34,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 4
+          },
+          "passes": {
+            "total": 46,
+            "key": null,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2199,
+        "name": "J. Gelin",
+        "firstname": "J\u00e9r\u00e9my Pierre Sinc\u00e8re",
+        "lastname": "Gelin",
+        "age": 25,
+        "birth": {
+          "date": "1997-04-24",
+          "place": "Quimper",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2199.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2202,
+        "name": "H. Traor\u00e9",
+        "firstname": "Hamari",
+        "lastname": "Traor\u00e9",
+        "age": 30,
+        "birth": {
+          "date": "1992-01-27",
+          "place": "Bamako",
+          "country": "Mali"
+        },
+        "nationality": "Mali",
+        "height": "175 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2202.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 26,
+            "minutes": 2277,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.126923",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 2
+          },
+          "shots": {
+            "total": 17,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 1394,
+            "key": 30,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 6,
+            "interceptions": 31
+          },
+          "duels": {
+            "total": 195,
+            "won": 101
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 38
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 695,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.783333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 5,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 294,
+            "key": 8,
+            "accuracy": 41
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 3,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 52,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2206,
+        "name": "B. Bourigeaud",
+        "firstname": "Benjamin",
+        "lastname": "Bourigeaud",
+        "age": 28,
+        "birth": {
+          "date": "1994-01-14",
+          "place": "Calais",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2206.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2635,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.590322",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 19,
+            "bench": 0
+          },
+          "shots": {
+            "total": 27,
+            "on": 16
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 11,
+            "saves": null
+          },
+          "passes": {
+            "total": 1291,
+            "key": 107,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 2,
+            "interceptions": 24
+          },
+          "duels": {
+            "total": 185,
+            "won": 62
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 669,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.228571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 9,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 233,
+            "key": 21,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 3,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 53,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2985,
+        "name": "A. Gomis",
+        "firstname": "Amigo Alfred Benjamin Junior",
+        "lastname": "Gomis",
+        "age": 29,
+        "birth": {
+          "date": "1993-09-05",
+          "place": "Ziguinchor",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "196 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2985.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 22,
+            "minutes": 1980,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.763636",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 21,
+            "assists": null,
+            "saves": 40
+          },
+          "passes": {
+            "total": 580,
+            "key": null,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 56,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.825000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 7,
+            "assists": null,
+            "saves": 13
+          },
+          "passes": {
+            "total": 119,
+            "key": null,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21153,
+        "name": "B. Santamar\u00eda",
+        "firstname": "Baptiste",
+        "lastname": "Santamar\u00eda",
+        "age": 27,
+        "birth": {
+          "date": "1995-03-09",
+          "place": "Saint-Doulchard",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21153.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 21,
+            "minutes": 1891,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.829629",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 4,
+            "bench": 7
+          },
+          "shots": {
+            "total": 21,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1002,
+            "key": 17,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 43,
+            "blocks": 7,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 238,
+            "won": 125
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 100,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 754,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 9,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 356,
+            "key": 6,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 3,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 70,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21154,
+        "name": "F. Tait",
+        "firstname": "Flavien",
+        "lastname": "Tait",
+        "age": 29,
+        "birth": {
+          "date": "1993-02-02",
+          "place": "Longjumeau",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21154.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 17,
+            "minutes": 1541,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.880952",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 6,
+            "bench": 5
+          },
+          "shots": {
+            "total": 16,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 866,
+            "key": 29,
+            "accuracy": 35
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 3,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 162,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 36,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 173,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 6,
+            "minutes": 550,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.914285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 3,
+            "bench": 3
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 212,
+            "key": 7,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 39,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21393,
+        "name": "S. Guirassy",
+        "firstname": "Serhou Yadaly",
+        "lastname": "Guirassy",
+        "age": 26,
+        "birth": {
+          "date": "1996-03-12",
+          "place": "Arles",
+          "country": "France"
+        },
+        "nationality": "Guinea",
+        "height": "187 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21393.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 6,
+            "minutes": 823,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.818518",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 24,
+            "out": 6,
+            "bench": 24
+          },
+          "shots": {
+            "total": 29,
+            "on": 15
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 242,
+            "key": 4,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 133,
+            "won": 66
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 85,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 5,
+            "minutes": 478,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.985714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 5,
+            "bench": 4
+          },
+          "shots": {
+            "total": 10,
+            "on": 5
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 105,
+            "key": 13,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 55,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21592,
+        "name": "G. Laborde",
+        "firstname": "Ga\u00ebtan",
+        "lastname": "Laborde",
+        "age": 28,
+        "birth": {
+          "date": "1994-05-03",
+          "place": "Mont-de-Marsan",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "182 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21592.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 26,
+            "minutes": 2282,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 10,
+            "bench": 1
+          },
+          "shots": {
+            "total": 8,
+            "on": 5
+          },
+          "goals": {
+            "total": 11,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 93,
+            "key": 4,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 46,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 170,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 6,
+            "minutes": 462,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.214285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 5,
+            "bench": 1
+          },
+          "shots": {
+            "total": 13,
+            "on": 7
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 105,
+            "key": 8,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 52,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21694,
+        "name": "N. Aguerd",
+        "firstname": "Nayef",
+        "lastname": "Aguerd",
+        "age": 26,
+        "birth": {
+          "date": "1996-03-30",
+          "place": "K\u00e9nitra",
+          "country": "Morocco"
+        },
+        "nationality": "Morocco",
+        "height": "188 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21694.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2410,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.081481",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 23,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1911,
+            "key": 4,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 12,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 205,
+            "won": 130
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 810,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.871428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 444,
+            "key": 1,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 65,
+            "won": 45
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22258,
+        "name": "J. Martin",
+        "firstname": "Jonas",
+        "lastname": "Martin",
+        "age": 32,
+        "birth": {
+          "date": "1990-04-09",
+          "place": "Besan\u00e7on",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22258.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 20,
+            "minutes": 1717,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.866666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 11,
+            "bench": 4
+          },
+          "shots": {
+            "total": 13,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1303,
+            "key": 9,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 31,
+            "blocks": 3,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 138,
+            "won": 65
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 143,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.525000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 4
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 99,
+            "key": null,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 16,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 161622,
+        "name": "Matthis Abline",
+        "firstname": "Matthis",
+        "lastname": "Abline",
+        "age": 19,
+        "birth": {
+          "date": "2003-03-28",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "176 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/161622.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 1,
+            "minutes": 98,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 1,
+            "bench": 15
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": null,
+            "accuracy": 1
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 19,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 29,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": null,
+            "accuracy": 2
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162347,
+        "name": "Brandon Soppy",
+        "firstname": "Brandon",
+        "lastname": "Soppy",
+        "age": 20,
+        "birth": {
+          "date": "2002-02-21",
+          "place": "Aubervilliers",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162347.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 174918,
+        "name": "Lo\u00efc Bad\u00e9",
+        "firstname": "Lo\u00efc",
+        "lastname": "Bad\u00e9",
+        "age": 22,
+        "birth": {
+          "date": "2000-04-11",
+          "place": "S\u00e8vres",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "191 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/174918.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 11,
+            "minutes": 984,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.869230",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 12
+          },
+          "shots": {
+            "total": 4,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 724,
+            "key": 2,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 10,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 63,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 433,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.066666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 194,
+            "key": null,
+            "accuracy": 59
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 24,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 180731,
+        "name": "Lorenz Assignon",
+        "firstname": "Lorenz",
+        "lastname": "Assignon",
+        "age": 22,
+        "birth": {
+          "date": "2000-06-22",
+          "place": "Grasse",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "179 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/180731.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 5,
+            "minutes": 551,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.821428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 0,
+            "bench": 25
+          },
+          "shots": {
+            "total": 4,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 256,
+            "key": 4,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 1,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 69,
+            "won": 41
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 115,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 128,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 74,
+            "key": 2,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 2,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 19,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 199837,
+        "name": "Kamaldeen Sulemana",
+        "firstname": "Kamaldeen",
+        "lastname": "Sulemana",
+        "age": 20,
+        "birth": {
+          "date": "2002-02-15",
+          "place": null,
+          "country": "Ghana"
+        },
+        "nationality": "Ghana",
+        "height": "174 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/199837.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 11,
+            "minutes": 1017,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.915000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 10,
+            "bench": 9
+          },
+          "shots": {
+            "total": 19,
+            "on": 8
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 320,
+            "key": 22,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 187,
+            "won": 96
+          },
+          "dribbles": {
+            "attempts": 92,
+            "success": 54,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 25,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 94,
+            "name": "Rennes",
+            "logo": "https://media.api-sports.io/football/teams/94.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 4,
+            "minutes": 353,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 3
+          },
+          "shots": {
+            "total": 13,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 77,
+            "key": 3,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 51,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3247 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "106",
+    "season": "2021"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 99,
+        "name": "R. Pierre-Gabriel",
+        "firstname": "Rona\u00ebl Julien",
+        "lastname": "Pierre-Gabriel",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-13",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "177 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/99.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 24,
+            "minutes": 2103,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.862500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 913,
+            "key": 15,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 64,
+            "blocks": 5,
+            "interceptions": 41
+          },
+          "duels": {
+            "total": 223,
+            "won": 125
+          },
+          "dribbles": {
+            "attempts": 46,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1932,
+        "name": "J. Uronen",
+        "firstname": "Jere Juhani",
+        "lastname": "Uronen",
+        "age": 28,
+        "birth": {
+          "date": "1994-07-13",
+          "place": "Turku",
+          "country": "Finland"
+        },
+        "nationality": "Finland",
+        "height": "177 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1932.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 9,
+            "minutes": 773,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.763636",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 6,
+            "bench": 16
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 293,
+            "key": 2,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 3,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 60,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 95,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2214,
+        "name": "R. Del Castillo",
+        "firstname": "Romain",
+        "lastname": "Del Castillo",
+        "age": 26,
+        "birth": {
+          "date": "1996-03-29",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "172 cm",
+        "weight": "56 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2214.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 10,
+            "minutes": 820,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.735714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 10,
+            "bench": 8
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 292,
+            "key": 12,
+            "accuracy": 15
+          },
+          "tackles": {
+            "total": 24,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 140,
+            "won": 61
+          },
+          "dribbles": {
+            "attempts": 36,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3395,
+        "name": "S. Mouni\u00e9",
+        "firstname": "Steve Michel",
+        "lastname": "Mouni\u00e9",
+        "age": 28,
+        "birth": {
+          "date": "1994-09-29",
+          "place": "Parakou",
+          "country": "Benin"
+        },
+        "nationality": "Benin",
+        "height": "190 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3395.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 19,
+            "minutes": 1778,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.866666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 9,
+            "bench": 9
+          },
+          "shots": {
+            "total": 44,
+            "on": 18
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 530,
+            "key": 14,
+            "accuracy": 11
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 393,
+            "won": 219
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 33
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 206,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": 1,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 7,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20546,
+        "name": "B. Chardonnet",
+        "firstname": "Brendan",
+        "lastname": "Chardonnet",
+        "age": 28,
+        "birth": {
+          "date": "1994-12-22",
+          "place": "Saint-Renan",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20546.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 25,
+            "minutes": 2189,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.129166",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 13,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1027,
+            "key": 8,
+            "accuracy": 34
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 22,
+            "interceptions": 42
+          },
+          "duels": {
+            "total": 171,
+            "won": 106
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 65,
+            "key": 1,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 10,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20547,
+        "name": "J. Faussurier",
+        "firstname": "Julien",
+        "lastname": "Faussurier",
+        "age": 35,
+        "birth": {
+          "date": "1987-01-14",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "173 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20547.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 3,
+            "minutes": 355,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 1,
+            "bench": 27
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 155,
+            "key": 7,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 40,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 30,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 16,
+            "key": null,
+            "accuracy": 11
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20554,
+        "name": "H. Belkebla",
+        "firstname": "Haris",
+        "lastname": "Belkebla",
+        "age": 28,
+        "birth": {
+          "date": "1994-01-28",
+          "place": "Drancy",
+          "country": "France"
+        },
+        "nationality": "Algeria",
+        "height": "177 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20554.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 21,
+            "minutes": 1809,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.777272",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 7,
+            "bench": 6
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 723,
+            "key": 9,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 35,
+            "blocks": 6,
+            "interceptions": 38
+          },
+          "duels": {
+            "total": 169,
+            "won": 97
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 49,
+            "key": null,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20558,
+        "name": "Hugo Magnetti",
+        "firstname": "Hugo",
+        "lastname": "Magnetti",
+        "age": 24,
+        "birth": {
+          "date": "1998-05-30",
+          "place": "Marseille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20558.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 14,
+            "minutes": 1257,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.772222",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 7,
+            "bench": 17
+          },
+          "shots": {
+            "total": 9,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 550,
+            "key": 6,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 2,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 135,
+            "won": 66
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 70,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20655,
+        "name": "J. Duverne",
+        "firstname": "Jean-K\u00e9vin",
+        "lastname": "Duverne",
+        "age": 25,
+        "birth": {
+          "date": "1997-07-12",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20655.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 27,
+            "minutes": 2495,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.686666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1150,
+            "key": 18,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 52,
+            "blocks": 4,
+            "interceptions": 47
+          },
+          "duels": {
+            "total": 244,
+            "won": 119
+          },
+          "dribbles": {
+            "attempts": 36,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 265,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 55,
+            "key": null,
+            "accuracy": 38
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 7,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20684,
+        "name": "D. Bain",
+        "firstname": "D\u00e9nys",
+        "lastname": "Bain",
+        "age": 29,
+        "birth": {
+          "date": "1993-07-02",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20684.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 15
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 85,
+            "key": null,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 15,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20784,
+        "name": "F. Honorat",
+        "firstname": "Franck",
+        "lastname": "Honorat",
+        "age": 26,
+        "birth": {
+          "date": "1996-08-11",
+          "place": "Toulon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20784.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2707,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.246666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 11,
+            "bench": 0
+          },
+          "shots": {
+            "total": 46,
+            "on": 28
+          },
+          "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 896,
+            "key": 56,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 51,
+            "blocks": 1,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 246,
+            "won": 122
+          },
+          "dribbles": {
+            "attempts": 72,
+            "success": 34,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 195,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 45,
+            "key": 5,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 9,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21004,
+        "name": "Lucien Jefferson Agoume",
+        "firstname": "Lucien",
+        "lastname": "Jefferson Agoume",
+        "age": 20,
+        "birth": {
+          "date": "2002-02-09",
+          "place": "Yaound\u00e9",
+          "country": "Cameroon"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21004.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 18,
+            "minutes": 1596,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.914285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 7,
+            "bench": 6
+          },
+          "shots": {
+            "total": 9,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 801,
+            "key": 12,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": 42,
+            "blocks": 7,
+            "interceptions": 44
+          },
+          "duels": {
+            "total": 183,
+            "won": 93
+          },
+          "dribbles": {
+            "attempts": 28,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 158,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 45,
+            "key": 1,
+            "accuracy": 35
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21580,
+        "name": "P. Lasne",
+        "firstname": "Paul",
+        "lastname": "Lasne",
+        "age": 33,
+        "birth": {
+          "date": "1989-01-16",
+          "place": "St-Cloud",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "186 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21580.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 4,
+            "minutes": 420,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.755555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 3,
+            "bench": 8
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 190,
+            "key": 5,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 55,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 134,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22164,
+        "name": "C. H\u00e9relle",
+        "firstname": "Christophe",
+        "lastname": "H\u00e9relle",
+        "age": 30,
+        "birth": {
+          "date": "1992-08-22",
+          "place": "Sochaux",
+          "country": "France"
+        },
+        "nationality": "Martinique",
+        "height": "188 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22164.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 17,
+            "minutes": 1440,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.918750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 557,
+            "key": 2,
+            "accuracy": 29
+          },
+          "tackles": {
+            "total": 31,
+            "blocks": 9,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 97,
+            "won": 64
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 62,
+            "key": null,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 36878,
+        "name": "M. Bizot",
+        "firstname": "Marco",
+        "lastname": "Bizot",
+        "age": 31,
+        "birth": {
+          "date": "1991-03-10",
+          "place": "Hoorn",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "193 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/36878.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2790,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.760000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 44,
+            "assists": 1,
+            "saves": 85
+          },
+          "passes": {
+            "total": 755,
+            "key": 2,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 9,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 49416,
+        "name": "Y. Bela\u00efli",
+        "firstname": "Mohamed Youcef",
+        "lastname": "Bela\u00efli",
+        "age": 30,
+        "birth": {
+          "date": "1992-03-14",
+          "place": "Oran",
+          "country": "Algeria"
+        },
+        "nationality": "Algeria",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/49416.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 5,
+            "minutes": 385,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.733333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 5,
+            "bench": 2
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 159,
+            "key": 7,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 59,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 84082,
+        "name": "Romain Faivre",
+        "firstname": "Romain",
+        "lastname": "Faivre",
+        "age": 24,
+        "birth": {
+          "date": "1998-07-14",
+          "place": "Asni\u00e8res-sur-Seine",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/84082.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 20,
+            "minutes": 1800,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.138095",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 6,
+            "bench": 1
+          },
+          "shots": {
+            "total": 27,
+            "on": 18
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 735,
+            "key": 38,
+            "accuracy": 29
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": null,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 229,
+            "won": 106
+          },
+          "dribbles": {
+            "attempts": 89,
+            "success": 43,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 126757,
+        "name": "Lilian Brassier",
+        "firstname": "Lilian",
+        "lastname": "Brassier",
+        "age": 23,
+        "birth": {
+          "date": "1999-11-02",
+          "place": "Argenteuil",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/126757.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 19,
+            "minutes": 1800,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.818181",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 0,
+            "bench": 11
+          },
+          "shots": {
+            "total": 7,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 959,
+            "key": 6,
+            "accuracy": 35
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 15,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 127,
+            "won": 79
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 52,
+            "key": null,
+            "accuracy": 41
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 10,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 175000,
+        "name": "Killian Benvindo",
+        "firstname": "Killian",
+        "lastname": "Benvindo",
+        "age": 21,
+        "birth": {
+          "date": "2001-04-26",
+          "place": "Cenon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/175000.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 195512,
+        "name": "Mart\u00edn Adri\u00e1n Satriano Costa",
+        "firstname": "Mart\u00edn Adri\u00e1n",
+        "lastname": "Satriano Costa",
+        "age": 21,
+        "birth": {
+          "date": "2001-02-20",
+          "place": "Montevideo",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "187 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/195512.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 7,
+            "minutes": 602,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 7,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 4,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 60,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

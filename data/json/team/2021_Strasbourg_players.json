@@ -1,0 +1,3099 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "95",
+    "season": "2021"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 103,
+        "name": "J. Aholou",
+        "firstname": "Jean-Eud\u00e8s",
+        "lastname": "Aholou",
+        "age": 28,
+        "birth": {
+          "date": "1994-03-20",
+          "place": "Yopougnon",
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "186 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/103.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 9,
+            "minutes": 795,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.605555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 9,
+            "bench": 16
+          },
+          "shots": {
+            "total": 9,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 334,
+            "key": 4,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 86,
+            "won": 40
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 70,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 22,
+            "key": 1,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 11,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2200,
+        "name": "G. Nyamsi",
+        "firstname": "Gerzino",
+        "lastname": "Nyamsi",
+        "age": 25,
+        "birth": {
+          "date": "1997-01-22",
+          "place": "Saint-Brieuc",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "195 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2200.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 26,
+            "minutes": 2353,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.911111",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 20,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1125,
+            "key": 6,
+            "accuracy": 35
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 10,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 185,
+            "won": 111
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 74,
+            "key": null,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 6,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2919,
+        "name": "M. Sels",
+        "firstname": "Matz Willy Els",
+        "lastname": "Sels",
+        "age": 30,
+        "birth": {
+          "date": "1992-02-26",
+          "place": "Duffel",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "188 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2919.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 30,
+            "minutes": 2700,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 33,
+            "assists": null,
+            "saves": 68
+          },
+          "passes": {
+            "total": 660,
+            "key": 1,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 11,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19019,
+        "name": "M. Le Marchand",
+        "firstname": "Maxime",
+        "lastname": "Le Marchand",
+        "age": 33,
+        "birth": {
+          "date": "1989-10-11",
+          "place": "Saint-Malo",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19019.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 7,
+            "minutes": 649,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.087500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 368,
+            "key": 1,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 4,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 43,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20665,
+        "name": "Jean-Ricner Bellegarde",
+        "firstname": "Jean-Ricner",
+        "lastname": "Bellegarde",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-27",
+          "place": "Colombes",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "170 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20665.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 21,
+            "minutes": 1886,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.872413",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 10,
+            "bench": 8
+          },
+          "shots": {
+            "total": 17,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 805,
+            "key": 16,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": 39,
+            "blocks": 2,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 242,
+            "won": 139
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 29,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 55,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 48,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 16,
+            "key": 1,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20896,
+        "name": "Maham\u00e9 Siby",
+        "firstname": "Maham\u00e9",
+        "lastname": "Siby",
+        "age": 26,
+        "birth": {
+          "date": "1996-07-07",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "Mali",
+        "height": "191 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20896.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 15,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2,
+            "key": null,
+            "accuracy": 1
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21633,
+        "name": "A. Djiku",
+        "firstname": "Alexander Kwabena",
+        "lastname": "Baidoo Djiku",
+        "age": 28,
+        "birth": {
+          "date": "1994-08-09",
+          "place": "Montpellier",
+          "country": "France"
+        },
+        "nationality": "Ghana",
+        "height": "182 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21633.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 24,
+            "minutes": 2163,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.020000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 14,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1278,
+            "key": 10,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 13,
+            "interceptions": 53
+          },
+          "duels": {
+            "total": 205,
+            "won": 122
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 35
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 86,
+            "key": null,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 10,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21636,
+        "name": "F. Guilbert",
+        "firstname": "Fr\u00e9d\u00e9ric",
+        "lastname": "Guilbert",
+        "age": 28,
+        "birth": {
+          "date": "1994-12-24",
+          "place": "Valognes",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21636.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 23,
+            "minutes": 2067,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.166666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 6,
+            "bench": 4
+          },
+          "shots": {
+            "total": 14,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 815,
+            "key": 38,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 55,
+            "blocks": 10,
+            "interceptions": 46
+          },
+          "duels": {
+            "total": 248,
+            "won": 125
+          },
+          "dribbles": {
+            "attempts": 51,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "8.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 1,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22242,
+        "name": "E. Kawashima",
+        "firstname": "Eiji",
+        "lastname": "Kawashima",
+        "age": 39,
+        "birth": {
+          "date": "1983-03-20",
+          "place": "Yono",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "185 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22242.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 26
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": 1
+          },
+          "passes": {
+            "total": 25,
+            "key": null,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": 1
+          },
+          "passes": {
+            "total": 27,
+            "key": null,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22244,
+        "name": "A. Caci",
+        "firstname": "Anthony",
+        "lastname": "Caci",
+        "age": 25,
+        "birth": {
+          "date": "1997-07-01",
+          "place": "Forbach",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22244.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 22,
+            "minutes": 1969,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.007692",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 5,
+            "bench": 8
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1129,
+            "key": 20,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 60,
+            "blocks": 3,
+            "interceptions": 29
+          },
+          "duels": {
+            "total": 224,
+            "won": 133
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 86,
+            "key": null,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 7,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22257,
+        "name": "D. Li\u00e9nard",
+        "firstname": "Dimitri",
+        "lastname": "Li\u00e9nard",
+        "age": 34,
+        "birth": {
+          "date": "1988-02-13",
+          "place": "Belfort",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22257.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 18,
+            "minutes": 1667,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.007407",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 10,
+            "bench": 11
+          },
+          "shots": {
+            "total": 13,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 870,
+            "key": 32,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 61,
+            "blocks": null,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 198,
+            "won": 108
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 51,
+            "key": 1,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 9,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22259,
+        "name": "S. Prci\u0107",
+        "firstname": "Sanjin",
+        "lastname": "Prci\u0107",
+        "age": 29,
+        "birth": {
+          "date": "1993-11-20",
+          "place": "Belfort",
+          "country": "France"
+        },
+        "nationality": "Bosnia and Herzegovina",
+        "height": "181 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22259.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 22,
+            "minutes": 1749,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.124000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 13,
+            "bench": 7
+          },
+          "shots": {
+            "total": 30,
+            "on": 10
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1050,
+            "key": 19,
+            "accuracy": 36
+          },
+          "tackles": {
+            "total": 40,
+            "blocks": 2,
+            "interceptions": 33
+          },
+          "duels": {
+            "total": 122,
+            "won": 66
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 165,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 77,
+            "key": null,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 7,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22260,
+        "name": "Ibrahima Sissoko",
+        "firstname": "Ibrahima",
+        "lastname": "Sissoko",
+        "age": 25,
+        "birth": {
+          "date": "1997-10-27",
+          "place": "Meaux",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "193 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22260.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 24,
+            "minutes": 2083,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.989285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 11,
+            "bench": 4
+          },
+          "shots": {
+            "total": 18,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 932,
+            "key": 27,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 45,
+            "blocks": 11,
+            "interceptions": 34
+          },
+          "duels": {
+            "total": 290,
+            "won": 147
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 51
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 83,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22261,
+        "name": "A. Thomasson",
+        "firstname": "Adrien",
+        "lastname": "Thomasson",
+        "age": 29,
+        "birth": {
+          "date": "1993-12-10",
+          "place": "Bourg-Saint-Maurice",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "177 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22261.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 21,
+            "minutes": 1900,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.126086",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 3
+          },
+          "shots": {
+            "total": 27,
+            "on": 14
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 981,
+            "key": 26,
+            "accuracy": 32
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 4,
+            "interceptions": 24
+          },
+          "duels": {
+            "total": 252,
+            "won": 117
+          },
+          "dribbles": {
+            "attempts": 45,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 118,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 3,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 12,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24279,
+        "name": "M. Chahiri",
+        "firstname": "Mehdi",
+        "lastname": "Chahiri",
+        "age": 26,
+        "birth": {
+          "date": "1996-07-25",
+          "place": "Grande-Synthe",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24279.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 15,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": null,
+            "accuracy": 1
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 40445,
+        "name": "Karol Fila",
+        "firstname": "Karol",
+        "lastname": "Fila",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-13",
+          "place": "Gda\u0144sk",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/40445.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 6,
+            "minutes": 478,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.655555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 6,
+            "bench": 19
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 248,
+            "key": 3,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 52,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 62,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 67953,
+        "name": "L. Perrin",
+        "firstname": "Lucas",
+        "lastname": "Perrin",
+        "age": 24,
+        "birth": {
+          "date": "1998-11-19",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "187 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/67953.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 24,
+            "minutes": 2079,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.880000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 5,
+            "bench": 6
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1177,
+            "key": 8,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 32,
+            "blocks": 7,
+            "interceptions": 29
+          },
+          "duels": {
+            "total": 177,
+            "won": 99
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 36
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 91,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": null,
+            "accuracy": 1
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 174768,
+        "name": "Alexandre Pierre",
+        "firstname": "Alexandre",
+        "lastname": "Pierre",
+        "age": 21,
+        "birth": {
+          "date": "2001-02-25",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "Haiti",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/174768.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 191240,
+        "name": "Marvin Senaya",
+        "firstname": "Marvin",
+        "lastname": "Senaya",
+        "age": 21,
+        "birth": {
+          "date": "2001-01-28",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/191240.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 271542,
+        "name": "Isma\u00ebl  Landry Doukour\u00e9",
+        "firstname": "Isma\u00ebl",
+        "lastname": "Landry Doukour\u00e9",
+        "age": 19,
+        "birth": {
+          "date": "2003-07-24",
+          "place": "Lille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "182 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/271542.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media.api-sports.io/football/teams/95.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

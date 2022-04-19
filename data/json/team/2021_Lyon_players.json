@@ -1,0 +1,3321 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "80",
+    "season": "2021"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 307,
+        "name": "X. Shaqiri",
+        "firstname": "Xherdan",
+        "lastname": "Shaqiri",
+        "age": 31,
+        "birth": {
+          "date": "1991-10-10",
+          "place": "Gjilan",
+          "country": "Kosovo"
+        },
+        "nationality": "Switzerland",
+        "height": "169 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/307.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 9,
+            "minutes": 686,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.045454",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 8,
+            "bench": 9
+          },
+          "shots": {
+            "total": 10,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 306,
+            "key": 15,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 43,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 4,
+            "minutes": 311,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.660000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 2
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 160,
+            "key": 7,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 13,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 499,
+        "name": "J. Boateng",
+        "firstname": "J\u00e9r\u00f4me",
+        "lastname": "Boateng",
+        "age": 34,
+        "birth": {
+          "date": "1988-09-03",
+          "place": "Berlin",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/499.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 17,
+            "minutes": 1435,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.894736",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 8,
+            "bench": 5
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1031,
+            "key": 6,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 10,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 67,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 198,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 160,
+            "key": 2,
+            "accuracy": 44
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 647,
+        "name": "Anthony Lopes",
+        "firstname": "Anthony",
+        "lastname": "Lopes",
+        "age": 32,
+        "birth": {
+          "date": "1990-10-01",
+          "place": "Givors",
+          "country": "France"
+        },
+        "nationality": "Portugal",
+        "height": "184 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/647.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 30,
+            "minutes": 2624,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.948275",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 38,
+            "assists": null,
+            "saves": 93
+          },
+          "passes": {
+            "total": 836,
+            "key": null,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 9,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 720,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.875000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 6,
+            "assists": null,
+            "saves": 17
+          },
+          "passes": {
+            "total": 247,
+            "key": null,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 649,
+        "name": "J. Denayer",
+        "firstname": "Jason Gr\u00e9gory Marianne",
+        "lastname": "Denayer",
+        "age": 27,
+        "birth": {
+          "date": "1995-06-28",
+          "place": "Jette",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "184 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/649.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 12,
+            "minutes": 1001,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.960000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 5
+          },
+          "shots": {
+            "total": 5,
+            "on": 4
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 733,
+            "key": 1,
+            "accuracy": 49
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 7,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 64,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 221,
+            "key": null,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 6,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 18,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 650,
+        "name": "L. Dubois",
+        "firstname": "L\u00e9o",
+        "lastname": "Dubois",
+        "age": 28,
+        "birth": {
+          "date": "1994-09-14",
+          "place": "Segr\u00e9",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/650.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 20,
+            "minutes": 1701,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.842857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 6,
+            "bench": 5
+          },
+          "shots": {
+            "total": 7,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1056,
+            "key": 17,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 42,
+            "blocks": 3,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 154,
+            "won": 85
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 299,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.020000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 4
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 162,
+            "key": 6,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 29,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 658,
+        "name": "Houssem Aouar",
+        "firstname": "Houssem",
+        "lastname": "Aouar",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-30",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/658.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 24,
+            "minutes": 2088,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.803571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 8,
+            "bench": 5
+          },
+          "shots": {
+            "total": 39,
+            "on": 21
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1106,
+            "key": 31,
+            "accuracy": 34
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 1,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 295,
+            "won": 136
+          },
+          "dribbles": {
+            "attempts": 113,
+            "success": 62,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 6,
+            "minutes": 563,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.837500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 3,
+            "bench": 4
+          },
+          "shots": {
+            "total": 12,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 287,
+            "key": 9,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 61,
+            "won": 30
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1646,
+        "name": "Lucas Tolentino Coelho de Lima",
+        "firstname": "Lucas",
+        "lastname": "Tolentino Coelho de Lima",
+        "age": 25,
+        "birth": {
+          "date": "1997-08-27",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1646.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 26,
+            "minutes": 2245,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.075000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 10,
+            "bench": 3
+          },
+          "shots": {
+            "total": 50,
+            "on": 29
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 1159,
+            "key": 30,
+            "accuracy": 32
+          },
+          "tackles": {
+            "total": 52,
+            "blocks": 4,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 418,
+            "won": 217
+          },
+          "dribbles": {
+            "attempts": 107,
+            "success": 74,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 52,
+            "committed": 45
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 5,
+            "minutes": 567,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 16,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 295,
+            "key": 13,
+            "accuracy": 29
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 105,
+            "won": 47
+          },
+          "dribbles": {
+            "attempts": 28,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2196,
+        "name": "D. Da Silva",
+        "firstname": "Damien",
+        "lastname": "Da Silva",
+        "age": 34,
+        "birth": {
+          "date": "1988-05-17",
+          "place": "Talence",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2196.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 8,
+            "minutes": 748,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.808333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 18
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 608,
+            "key": 1,
+            "accuracy": 44
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 3,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 64,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 354,
+            "key": null,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 36,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2284,
+        "name": "Emerson",
+        "firstname": "Emerson",
+        "lastname": "Palmieri dos Santos",
+        "age": 28,
+        "birth": {
+          "date": "1994-08-03",
+          "place": "Santos",
+          "country": "Brazil"
+        },
+        "nationality": "Italy",
+        "height": "176 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2284.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 23,
+            "minutes": 1969,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.843478",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 5,
+            "bench": 3
+          },
+          "shots": {
+            "total": 8,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1282,
+            "key": 23,
+            "accuracy": 48
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 3,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 182,
+            "won": 117
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 494,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.933333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 316,
+            "key": 3,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 35,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9994,
+        "name": "Jean Lucas de Souza Oliveira",
+        "firstname": "Jean Lucas",
+        "lastname": "de Souza Oliveira",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-22",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "181 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9994.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.771428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 161,
+            "key": 4,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 68,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10561,
+        "name": "Henrique",
+        "firstname": "Henrique",
+        "lastname": "Silva Milagres",
+        "age": 28,
+        "birth": {
+          "date": "1994-04-25",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "173 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10561.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 8,
+            "minutes": 753,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.575000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 2,
+            "bench": 20
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 446,
+            "key": 3,
+            "accuracy": 29
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": null,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 68,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 316,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.775000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 5
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 213,
+            "key": 2,
+            "accuracy": 48
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 34,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24864,
+        "name": "J. Pollersbeck",
+        "firstname": "Julian",
+        "lastname": "Pollersbeck",
+        "age": 28,
+        "birth": {
+          "date": "1994-08-16",
+          "place": "Emmerting",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "195 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24864.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 164,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.066666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 27
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 9
+          },
+          "passes": {
+            "total": 51,
+            "key": null,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 1
+          },
+          "passes": {
+            "total": 26,
+            "key": null,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 153708,
+        "name": "M. Barcola",
+        "firstname": "Malcolm",
+        "lastname": "Barcola",
+        "age": 23,
+        "birth": {
+          "date": "1999-05-14",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "Togo",
+        "height": "195 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/153708.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 161907,
+        "name": "Malo Gusto",
+        "firstname": "Malo",
+        "lastname": "Gusto",
+        "age": 19,
+        "birth": {
+          "date": "2003-05-19",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/161907.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 14,
+            "minutes": 1320,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.804761",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 4,
+            "bench": 16
+          },
+          "shots": {
+            "total": 6,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 926,
+            "key": 15,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": 44,
+            "blocks": 4,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 145,
+            "won": 81
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 5,
+            "minutes": 445,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 310,
+            "key": 5,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 34,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162198,
+        "name": "Florent da Silva",
+        "firstname": "Florent",
+        "lastname": "da Silva",
+        "age": 19,
+        "birth": {
+          "date": "2003-04-02",
+          "place": "Vaulx-en-Velin",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162198.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162466,
+        "name": "Sinaly Diomand\u00e9",
+        "firstname": "Sinaly",
+        "lastname": "Diomand\u00e9",
+        "age": 21,
+        "birth": {
+          "date": "2001-04-09",
+          "place": null,
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "184 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162466.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 5,
+            "minutes": 574,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.944444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 1,
+            "bench": 12
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 476,
+            "key": 1,
+            "accuracy": 39
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 6,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 38,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 226,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 145,
+            "key": null,
+            "accuracy": 32
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 16,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162761,
+        "name": "Castello Junior Lukeba",
+        "firstname": "Castello Junior",
+        "lastname": "Lukeba",
+        "age": 20,
+        "birth": {
+          "date": "2002-12-17",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162761.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 17,
+            "minutes": 1467,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 7
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1187,
+            "key": 4,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 6,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 116,
+            "won": 72
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.650000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 460,
+            "key": null,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 4,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 44,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 163063,
+        "name": "K. Bonnevie",
+        "firstname": "Kayne",
+        "lastname": "Bonnevie",
+        "age": 21,
+        "birth": {
+          "date": "2001-07-22",
+          "place": "Ecully",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "191 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/163063.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 270812,
+        "name": "Irwyn Lomami",
+        "firstname": "Irwyn",
+        "lastname": "Lomami",
+        "age": 19,
+        "birth": {
+          "date": "2003-12-30",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/270812.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 327698,
+        "name": "Hugo Marius Gilbert Vogel",
+        "firstname": "Hugo Marius Gilbert",
+        "lastname": "Vogel",
+        "age": 18,
+        "birth": {
+          "date": "2004-01-04",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/327698.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 65,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 40,
+            "key": null,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

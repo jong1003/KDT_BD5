@@ -1,0 +1,2581 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "112",
+    "season": "2021"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 96,
+        "name": "Jemerson",
+        "firstname": "Jemerson",
+        "lastname": "de Jesus Nascimento",
+        "age": 30,
+        "birth": {
+          "date": "1992-08-24",
+          "place": "Jeremoabo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "184 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/96.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 13,
+            "minutes": 1039,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.591666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 5
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 334,
+            "key": 2,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 31,
+            "blocks": 5,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 76,
+            "won": 41
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2945,
+        "name": "D. Bronn",
+        "firstname": "Dylan Daniel Mahmoud",
+        "lastname": "Bronn",
+        "age": 27,
+        "birth": {
+          "date": "1995-06-19",
+          "place": "Cannes",
+          "country": "France"
+        },
+        "nationality": "Tunisia",
+        "height": "186 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2945.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 25,
+            "minutes": 2250,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.695833",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 13,
+            "on": 8
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 997,
+            "key": 4,
+            "accuracy": 33
+          },
+          "tackles": {
+            "total": 35,
+            "blocks": 15,
+            "interceptions": 35
+          },
+          "duels": {
+            "total": 136,
+            "won": 75
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3335,
+        "name": "Boubakar Kiki Kouyat\u00e9",
+        "firstname": "Boubakar Kiki",
+        "lastname": "Kouyat\u00e9",
+        "age": 25,
+        "birth": {
+          "date": "1997-04-15",
+          "place": "Bamako",
+          "country": "Mali"
+        },
+        "nationality": "Mali",
+        "height": "192 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3335.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 23,
+            "minutes": 2036,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.054545",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 802,
+            "key": 2,
+            "accuracy": 29
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 20,
+            "interceptions": 50
+          },
+          "duels": {
+            "total": 224,
+            "won": 141
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3400,
+        "name": "J. Kana-Biyik",
+        "firstname": "Jean-Armel",
+        "lastname": "Kana-Biyik",
+        "age": 33,
+        "birth": {
+          "date": "1989-07-03",
+          "place": "Metz",
+          "country": "France"
+        },
+        "nationality": "Cameroon",
+        "height": "184 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3400.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 564,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 287,
+            "key": null,
+            "accuracy": 35
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 4,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 34,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20519,
+        "name": "A. Oukidja",
+        "firstname": "Alexandre Roger",
+        "lastname": "Oukidja",
+        "age": 34,
+        "birth": {
+          "date": "1988-07-19",
+          "place": "Nevers",
+          "country": "France"
+        },
+        "nationality": "Algeria",
+        "height": "184 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20519.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 18,
+            "minutes": 1618,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.594444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 11
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 36,
+            "assists": null,
+            "saves": 48
+          },
+          "passes": {
+            "total": 393,
+            "key": null,
+            "accuracy": 11
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 26,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20521,
+        "name": "T. Delaine",
+        "firstname": "Thomas",
+        "lastname": "Delaine",
+        "age": 30,
+        "birth": {
+          "date": "1992-03-24",
+          "place": "Lens",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20521.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 21,
+            "minutes": 1888,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.809090",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 3
+          },
+          "shots": {
+            "total": 9,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 618,
+            "key": 23,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 40,
+            "blocks": 7,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 150,
+            "won": 71
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20525,
+        "name": "M. Udol",
+        "firstname": "Matthieu",
+        "lastname": "Udol",
+        "age": 26,
+        "birth": {
+          "date": "1996-03-20",
+          "place": "Metz",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20525.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 11,
+            "minutes": 1006,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.025000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 433,
+            "key": 6,
+            "accuracy": 32
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 7,
+            "interceptions": 31
+          },
+          "duels": {
+            "total": 87,
+            "won": 61
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20534,
+        "name": "C. Sabaly",
+        "firstname": "Cheikh Tidiane",
+        "lastname": "Sabaly",
+        "age": 23,
+        "birth": {
+          "date": "1999-03-04",
+          "place": "Kolda",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "168 cm",
+        "weight": "56 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20534.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 2,
+            "minutes": 148,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.480000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 9
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": 2,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 22,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 69,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20654,
+        "name": "F. Centonze",
+        "firstname": "Fabien",
+        "lastname": "Centonze",
+        "age": 26,
+        "birth": {
+          "date": "1996-01-16",
+          "place": "Voiron",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "182 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20654.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 17,
+            "minutes": 1530,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.923529",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 13,
+            "on": 7
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 567,
+            "key": 11,
+            "accuracy": 26
+          },
+          "tackles": {
+            "total": 32,
+            "blocks": 7,
+            "interceptions": 31
+          },
+          "duels": {
+            "total": 181,
+            "won": 97
+          },
+          "dribbles": {
+            "attempts": 51,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20884,
+        "name": "Sikou Niakat\u00e9",
+        "firstname": "Sikou",
+        "lastname": "Niakat\u00e9",
+        "age": 23,
+        "birth": {
+          "date": "1999-07-10",
+          "place": "Montreuil",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "186 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20884.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 5,
+            "minutes": 383,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.514285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 16
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 128,
+            "key": 2,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 3,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 33,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20940,
+        "name": "M. Cabit",
+        "firstname": "Manuel",
+        "lastname": "Cabit",
+        "age": 29,
+        "birth": {
+          "date": "1993-06-03",
+          "place": "Fort de France",
+          "country": "Martinique"
+        },
+        "nationality": "Martinique",
+        "height": "182 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20940.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20967,
+        "name": "D. Oberhauser",
+        "firstname": "David",
+        "lastname": "Oberhauser",
+        "age": 32,
+        "birth": {
+          "date": "1990-11-29",
+          "place": "Bitche",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "186 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20967.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21483,
+        "name": "M. Caillard",
+        "firstname": "Marc-Aur\u00e8le",
+        "lastname": "Caillard",
+        "age": 28,
+        "birth": {
+          "date": "1994-05-12",
+          "place": "Melun",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "191 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21483.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 13,
+            "minutes": 1172,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.758333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 14
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 20,
+            "assists": null,
+            "saves": 36
+          },
+          "passes": {
+            "total": 252,
+            "key": null,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 6,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 23126,
+        "name": "M. Gueye",
+        "firstname": "Mamadou Lamine",
+        "lastname": "Gueye",
+        "age": 24,
+        "birth": {
+          "date": "1998-03-13",
+          "place": null,
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "178 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/23126.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 7,
+            "minutes": 555,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 7,
+            "bench": 13
+          },
+          "shots": {
+            "total": 10,
+            "on": 7
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 151,
+            "key": 15,
+            "accuracy": 8
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 68,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41371,
+        "name": "Fali Cand\u00e9",
+        "firstname": "Fali",
+        "lastname": "Cand\u00e9",
+        "age": 24,
+        "birth": {
+          "date": "1998-01-24",
+          "place": "Bissau",
+          "country": "Guinea-Bissau"
+        },
+        "nationality": "Guinea-Bissau",
+        "height": "184 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41371.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 795,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.862500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 268,
+            "key": 8,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 88,
+            "won": 47
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182311,
+        "name": "Lenny Lacroix",
+        "firstname": "Lenny",
+        "lastname": "Lacroix",
+        "age": 19,
+        "birth": {
+          "date": "2003-02-06",
+          "place": "Strasbourg",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182311.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 20,
+            "key": null,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 237198,
+        "name": "O. Ba",
+        "firstname": "Ousmane",
+        "lastname": "Ba",
+        "age": 20,
+        "birth": {
+          "date": "2002-06-06",
+          "place": null,
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/237198.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 276553,
+        "name": "Amadou Salif Mbengue",
+        "firstname": "Amadou Salif",
+        "lastname": "Mbengue",
+        "age": 20,
+        "birth": {
+          "date": "2002-01-05",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "Senegal",
+        "height": "180 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/276553.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 4,
+            "minutes": 497,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.422222",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 0,
+            "bench": 17
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 221,
+            "key": 1,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 2,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 47,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 302632,
+        "name": "William  Mikelbrencis",
+        "firstname": "William",
+        "lastname": "Mikelbrencis",
+        "age": 18,
+        "birth": {
+          "date": "2004-02-25",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/302632.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 212,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.433333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 5
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 72,
+            "key": null,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 327549,
+        "name": "Noah Zilliox",
+        "firstname": "Noah",
+        "lastname": "Zilliox",
+        "age": 19,
+        "birth": {
+          "date": "2003-03-17",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/327549.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 112,
+            "name": "Metz",
+            "logo": "https://media.api-sports.io/football/teams/112.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

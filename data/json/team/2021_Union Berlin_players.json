@@ -1,0 +1,4653 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "182",
+    "season": "2021"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 404,
+        "name": "B. Oczipka",
+        "firstname": "Bastian",
+        "lastname": "Oczipka",
+        "age": 33,
+        "birth": {
+          "date": "1989-01-12",
+          "place": "Bergisch Gladbach",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "185 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/404.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 7,
+            "minutes": 727,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.081818",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 3,
+            "bench": 15
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 333,
+            "key": 16,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 2,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 70,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 78,
+            "key": 2,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 19,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 425,
+        "name": "C. Teuchert",
+        "firstname": "Cedric",
+        "lastname": "Teuchert",
+        "age": 25,
+        "birth": {
+          "date": "1997-01-14",
+          "place": "Coburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "182 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/425.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 0,
+            "minutes": 99,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.516666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 26,
+            "key": 2,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 17,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 48,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 8,
+            "key": null,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 111,
+            "number": null,
+            "position": "Attacker",
+            "rating": "5.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": null,
+            "accuracy": 2
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1798,
+        "name": "F. R\u00f8nnow",
+        "firstname": "Frederik",
+        "lastname": "Riis R\u00f8nnow",
+        "age": 30,
+        "birth": {
+          "date": "1992-08-04",
+          "place": "Horsens",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "190 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1798.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.775000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 25
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 3,
+            "assists": null,
+            "saves": 10
+          },
+          "passes": {
+            "total": 127,
+            "key": null,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 65,
+            "key": null,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.166666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 9
+          },
+          "passes": {
+            "total": 108,
+            "key": null,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24836,
+        "name": "J. Jensen",
+        "firstname": "Jakob",
+        "lastname": "Busk Jensen",
+        "age": 29,
+        "birth": {
+          "date": "1993-09-12",
+          "place": "K\u00f8benhavn",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "189 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24836.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24845,
+        "name": "J. Ryerson",
+        "firstname": "Julian",
+        "lastname": "Ryerson",
+        "age": 25,
+        "birth": {
+          "date": "1997-11-17",
+          "place": null,
+          "country": "Norway"
+        },
+        "nationality": "Norway",
+        "height": "183 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24845.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 10,
+            "minutes": 1082,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.776190",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": 0,
+            "bench": 16
+          },
+          "shots": {
+            "total": 13,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 344,
+            "key": 15,
+            "accuracy": 11
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 4,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 120,
+            "won": 60
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 79,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": null,
+            "accuracy": 4
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 1,
+            "minutes": 148,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 7
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 44,
+            "key": 1,
+            "accuracy": 8
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 22,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24848,
+        "name": "C. Trimmel",
+        "firstname": "Christopher",
+        "lastname": "Trimmel",
+        "age": 35,
+        "birth": {
+          "date": "1987-02-24",
+          "place": "Oberpullendorf",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "189 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24848.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 19,
+            "minutes": 1644,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.060000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 8,
+            "bench": 9
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 649,
+            "key": 24,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 40,
+            "blocks": 3,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 158,
+            "won": 85
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.225000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 117,
+            "key": 6,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 26,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 587,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 168,
+            "key": 11,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 36,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24903,
+        "name": "R. Andrich",
+        "firstname": "Robert",
+        "lastname": "Andrich",
+        "age": 28,
+        "birth": {
+          "date": "1994-09-22",
+          "place": "Potsdam",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24903.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.909090",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 18,
+            "on": 7
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 856,
+            "key": 11,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 7,
+            "interceptions": 27
+          },
+          "duels": {
+            "total": 151,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 33
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 65,
+            "key": 2,
+            "accuracy": 59
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25147,
+        "name": "P. Jaeckel",
+        "firstname": "Paul",
+        "lastname": "Jaeckel",
+        "age": 24,
+        "birth": {
+          "date": "1998-07-22",
+          "place": "Eisenh\u00fcttenstadt",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "189 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25147.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 17,
+            "minutes": 1595,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.905263",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 10
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 893,
+            "key": 5,
+            "accuracy": 36
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 9,
+            "interceptions": 51
+          },
+          "duels": {
+            "total": 190,
+            "won": 101
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 211,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 147,
+            "key": null,
+            "accuracy": 39
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 20,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 210,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.150000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 119,
+            "key": null,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 24,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25284,
+        "name": "A. Luthe",
+        "firstname": "Andreas",
+        "lastname": "Luthe",
+        "age": 35,
+        "birth": {
+          "date": "1987-03-10",
+          "place": "Velbert",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "197 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25284.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 25,
+            "minutes": 2250,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.716000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 36,
+            "assists": null,
+            "saves": 65
+          },
+          "passes": {
+            "total": 803,
+            "key": null,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 2
+          },
+          "passes": {
+            "total": 64,
+            "key": null,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.633333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 8,
+            "assists": null,
+            "saves": 13
+          },
+          "passes": {
+            "total": 110,
+            "key": null,
+            "accuracy": 26
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25300,
+        "name": "R. Khedira",
+        "firstname": "Rani",
+        "lastname": "Khedira",
+        "age": 28,
+        "birth": {
+          "date": "1994-01-27",
+          "place": "Stuttgart",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25300.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2322,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.770370",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 1
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 766,
+            "key": 8,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 60,
+            "blocks": 7,
+            "interceptions": 42
+          },
+          "duels": {
+            "total": 259,
+            "won": 136
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 46
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 333,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 112,
+            "key": 2,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 37,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 647,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.716666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 156,
+            "key": null,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 52,
+            "won": 30
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25403,
+        "name": "R. Knoche",
+        "firstname": "Robin",
+        "lastname": "Knoche",
+        "age": 30,
+        "birth": {
+          "date": "1992-05-22",
+          "place": "Braunschweig",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25403.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 28,
+            "minutes": 2520,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.928571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 8,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1433,
+            "key": 2,
+            "accuracy": 41
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 22,
+            "interceptions": 43
+          },
+          "duels": {
+            "total": 206,
+            "won": 116
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 390,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 280,
+            "key": 3,
+            "accuracy": 59
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 32,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 720,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 349,
+            "key": 2,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 5,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 57,
+            "won": 30
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25452,
+        "name": "N. Gie\u00dfelmann",
+        "firstname": "Niko",
+        "lastname": "Gie\u00dfelmann",
+        "age": 31,
+        "birth": {
+          "date": "1991-09-26",
+          "place": "Hannover",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "182 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25452.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 22,
+            "minutes": 1861,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 8,
+            "bench": 4
+          },
+          "shots": {
+            "total": 22,
+            "on": 12
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 683,
+            "key": 26,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 4,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 157,
+            "won": 70
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 204,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 109,
+            "key": null,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 26,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 2,
+            "minutes": 245,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.620000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 83,
+            "key": 4,
+            "accuracy": 11
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 17,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25922,
+        "name": "L. \u00d6ztunali",
+        "firstname": "Levin Mete",
+        "lastname": "\u00d6ztunali",
+        "age": 26,
+        "birth": {
+          "date": "1996-03-15",
+          "place": "Hamburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25922.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 5,
+            "minutes": 550,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.443750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 5,
+            "bench": 17
+          },
+          "shots": {
+            "total": 4,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 154,
+            "key": 5,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 88,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 64,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 14,
+            "key": 1,
+            "accuracy": 10
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 15,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 247,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.275000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 5
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": null,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 18,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26237,
+        "name": "D. Heintz",
+        "firstname": "Dominique",
+        "lastname": "Heintz",
+        "age": 29,
+        "birth": {
+          "date": "1993-08-15",
+          "place": "Neustadt an der Weinstra\u00dfe",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188 cm",
+        "weight": "89 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26237.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 365,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": null,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 89,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26297,
+        "name": "T. Baumgartl",
+        "firstname": "Timo",
+        "lastname": "Baumgartl",
+        "age": 26,
+        "birth": {
+          "date": "1996-03-04",
+          "place": "B\u00f6blingen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190 cm",
+        "weight": "89 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26297.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 24,
+            "minutes": 2079,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.916666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 4
+          },
+          "shots": {
+            "total": 9,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1151,
+            "key": 6,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": 56,
+            "blocks": 10,
+            "interceptions": 36
+          },
+          "duels": {
+            "total": 208,
+            "won": 122
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 390,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.150000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 232,
+            "key": null,
+            "accuracy": 48
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 51,
+            "won": 30
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 431,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.233333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 136,
+            "key": 1,
+            "accuracy": 34
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 25,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 40984,
+        "name": "T. Puchacz",
+        "firstname": "Tymoteusz",
+        "lastname": "Puchacz",
+        "age": 23,
+        "birth": {
+          "date": "1999-01-23",
+          "place": "Sulech\u00f3w",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "180 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/40984.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 6,
+            "minutes": 467,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.580000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 6,
+            "bench": 2
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 86,
+            "key": 2,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 32,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 202488,
+        "name": "Fabio Schneider",
+        "firstname": "Fabio",
+        "lastname": "Schneider",
+        "age": 20,
+        "birth": {
+          "date": "2002-07-31",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "177 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/202488.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 279987,
+        "name": "M. Bruns",
+        "firstname": "Mathis",
+        "lastname": "Bruns",
+        "age": 17,
+        "birth": {
+          "date": "2004-03-31",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/279987.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 286728,
+        "name": "Y. Stein",
+        "firstname": "Yannic",
+        "lastname": "Stein",
+        "age": 18,
+        "birth": {
+          "date": "2004-09-17",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/286728.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 298339,
+        "name": "N. Petzsch",
+        "firstname": "Niklas",
+        "lastname": "Petzsch",
+        "age": 18,
+        "birth": {
+          "date": "2004-06-18",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/298339.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 848,
+            "name": "UEFA Europa Conference League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/848.png",
+            "flag": null,
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    }
+  ]
+}

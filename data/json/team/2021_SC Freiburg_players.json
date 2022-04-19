@@ -1,0 +1,3321 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "160",
+    "season": "2021"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 2917,
+        "name": "M. Eggestein",
+        "firstname": "Maximilian",
+        "lastname": "Eggestein",
+        "age": 26,
+        "birth": {
+          "date": "1996-12-08",
+          "place": "Hannover",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "181 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2917.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 21,
+            "minutes": 1775,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.796153",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 15,
+            "bench": 6
+          },
+          "shots": {
+            "total": 13,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 687,
+            "key": 19,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 41,
+            "blocks": 10,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 230,
+            "won": 108
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 324,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.633333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 140,
+            "key": 2,
+            "accuracy": 32
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 25,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21153,
+        "name": "B. Santamar\u00eda",
+        "firstname": "Baptiste",
+        "lastname": "Santamar\u00eda",
+        "age": 27,
+        "birth": {
+          "date": "1995-03-09",
+          "place": "Saint-Doulchard",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21153.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 20,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": null,
+            "accuracy": 1
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25303,
+        "name": "J. Schmid",
+        "firstname": "Jonathan",
+        "lastname": "Schmid",
+        "age": 32,
+        "birth": {
+          "date": "1990-06-22",
+          "place": "Strasbourg",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "179 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25303.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 6,
+            "minutes": 494,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 7
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 204,
+            "key": 5,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 41,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 52,
+            "key": 3,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 4,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26087,
+        "name": "B. Uphoff",
+        "firstname": "Benjamin",
+        "lastname": "Uphoff",
+        "age": 29,
+        "birth": {
+          "date": "1993-08-08",
+          "place": "Burghausen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26087.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "5.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 26
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 7,
+            "assists": null,
+            "saves": 5
+          },
+          "passes": {
+            "total": 76,
+            "key": null,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 120,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 43,
+            "key": null,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26232,
+        "name": "M. Flekken",
+        "firstname": "Mark",
+        "lastname": "Flekken",
+        "age": 29,
+        "birth": {
+          "date": "1993-06-13",
+          "place": null,
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "193 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26232.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2430,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.011111",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 27,
+            "assists": null,
+            "saves": 94
+          },
+          "passes": {
+            "total": 1029,
+            "key": 1,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.733333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 6
+          },
+          "passes": {
+            "total": 106,
+            "key": null,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26235,
+        "name": "M. Gulde",
+        "firstname": "Manuel",
+        "lastname": "Gulde",
+        "age": 31,
+        "birth": {
+          "date": "1991-02-12",
+          "place": "Mannheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26235.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 13,
+            "minutes": 1182,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.631578",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 7,
+            "bench": 13
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 553,
+            "key": 1,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 7,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 91,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 215,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 122,
+            "key": null,
+            "accuracy": 36
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 3,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 18,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26236,
+        "name": "C. G\u00fcnter",
+        "firstname": "Christian",
+        "lastname": "G\u00fcnter",
+        "age": 29,
+        "birth": {
+          "date": "1993-02-28",
+          "place": "Villingen-Schwenningen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26236.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 29,
+            "minutes": 2610,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.824137",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 13,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 967,
+            "key": 54,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": 5,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 177,
+            "won": 73
+          },
+          "dribbles": {
+            "attempts": 39,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 420,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 177,
+            "key": 12,
+            "accuracy": 34
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 20,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26239,
+        "name": "L. K\u00fcbler",
+        "firstname": "Lukas",
+        "lastname": "K\u00fcbler",
+        "age": 30,
+        "birth": {
+          "date": "1992-08-30",
+          "place": "Bonn",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "182 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26239.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 22,
+            "minutes": 1954,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.920833",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 9,
+            "bench": 3
+          },
+          "shots": {
+            "total": 9,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 757,
+            "key": 10,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 51,
+            "blocks": 8,
+            "interceptions": 36
+          },
+          "duels": {
+            "total": 192,
+            "won": 110
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 319,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.166666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 135,
+            "key": 3,
+            "accuracy": 33
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 43,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26240,
+        "name": "P. Lienhart",
+        "firstname": "Philipp",
+        "lastname": "Lienhart",
+        "age": 26,
+        "birth": {
+          "date": "1996-07-11",
+          "place": "Lilienfeld",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "189 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26240.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2421,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.022222",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 11,
+            "on": 6
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1394,
+            "key": 2,
+            "accuracy": 44
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 20,
+            "interceptions": 41
+          },
+          "duels": {
+            "total": 169,
+            "won": 103
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 327,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 201,
+            "key": null,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 2,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 21,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26242,
+        "name": "Keven Schlotterbeck",
+        "firstname": "Keven",
+        "lastname": "Schlotterbeck",
+        "age": 25,
+        "birth": {
+          "date": "1997-04-28",
+          "place": "Weinstadt",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "189 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26242.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 3,
+            "minutes": 303,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.883333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 1,
+            "bench": 22
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 116,
+            "key": 1,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 4,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 36,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 120,
+            "number": null,
+            "position": "Defender",
+            "rating": "8.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 52,
+            "key": null,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 24,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26243,
+        "name": "Nico Schlotterbeck",
+        "firstname": "Nico",
+        "lastname": "Schlotterbeck",
+        "age": 23,
+        "birth": {
+          "date": "1999-12-01",
+          "place": "Waiblingen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "191 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26243.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2339,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.392592",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 24,
+            "on": 13
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1371,
+            "key": 11,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 59,
+            "blocks": 29,
+            "interceptions": 49
+          },
+          "duels": {
+            "total": 288,
+            "won": 196
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 420,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 269,
+            "key": 1,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 5,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 60,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26249,
+        "name": "J. Haberer",
+        "firstname": "Janik",
+        "lastname": "Haberer",
+        "age": 28,
+        "birth": {
+          "date": "1994-04-02",
+          "place": "Wangen im Allg\u00e4u",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "186 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26249.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 7,
+            "minutes": 773,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.590476",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 6,
+            "bench": 22
+          },
+          "shots": {
+            "total": 9,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 294,
+            "key": 1,
+            "accuracy": 10
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 3,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 99,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 82,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 28,
+            "key": null,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26250,
+        "name": "N. H\u00f6fler",
+        "firstname": "Nicolas",
+        "lastname": "H\u00f6fler",
+        "age": 32,
+        "birth": {
+          "date": "1990-03-09",
+          "place": "\u00dcberlingen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "181 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26250.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 25,
+            "minutes": 2162,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.112000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 23,
+            "on": 10
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 958,
+            "key": 11,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 66,
+            "blocks": 19,
+            "interceptions": 39
+          },
+          "duels": {
+            "total": 297,
+            "won": 173
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 42
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 166,
+            "key": 3,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 29,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26252,
+        "name": "R. Sallai",
+        "firstname": "Roland",
+        "lastname": "Sallai",
+        "age": 25,
+        "birth": {
+          "date": "1997-05-22",
+          "place": "Budapest",
+          "country": "Hungary"
+        },
+        "nationality": "Hungary",
+        "height": "183 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26252.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 13,
+            "minutes": 1171,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.769230",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": 13,
+            "bench": 13
+          },
+          "shots": {
+            "total": 24,
+            "on": 7
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 316,
+            "key": 14,
+            "accuracy": 8
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": null,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 159,
+            "won": 74
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 82,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 36,
+            "key": null,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 14,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 178093,
+        "name": "Yannik Keitel",
+        "firstname": "Yannik",
+        "lastname": "Keitel",
+        "age": 22,
+        "birth": {
+          "date": "2000-02-15",
+          "place": "Breisach",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/178093.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 5,
+            "minutes": 500,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.354545",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 3,
+            "bench": 12
+          },
+          "shots": {
+            "total": 8,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 181,
+            "key": 3,
+            "accuracy": 11
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 66,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 96,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 46,
+            "key": null,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 8,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 178768,
+        "name": "N. Atubolu",
+        "firstname": "Noah",
+        "lastname": "Atubolu",
+        "age": 20,
+        "birth": {
+          "date": "2002-05-25",
+          "place": "Freiburg im Breisgau",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/178768.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 191233,
+        "name": "Kiliann Eric Sildillia",
+        "firstname": "Kiliann Eric",
+        "lastname": "Sildillia",
+        "age": 20,
+        "birth": {
+          "date": "2002-05-16",
+          "place": "Montigny-l\u00e8s-Metz",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "186 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/191233.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 1,
+            "minutes": 135,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.525000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 14
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 60,
+            "key": 2,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 20,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 11,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": null,
+            "accuracy": 5
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 202843,
+        "name": "Tan-Kenneth Jerico Leka-Schmidt",
+        "firstname": "Tan-Kenneth Jerico",
+        "lastname": "Leka-Schmidt",
+        "age": 20,
+        "birth": {
+          "date": "2002-06-03",
+          "place": null,
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "186 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/202843.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 202884,
+        "name": "Kimberly Chiwetalu Akwaeze Ezekwem",
+        "firstname": "Kimberly Chiwetalu",
+        "lastname": "Akwaeze Ezekwem",
+        "age": 21,
+        "birth": {
+          "date": "2001-06-19",
+          "place": "Munich",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/202884.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 290213,
+        "name": "Hugo Siquet",
+        "firstname": "Hugo",
+        "lastname": "Siquet",
+        "age": 20,
+        "birth": {
+          "date": "2002-07-09",
+          "place": "Marche-en-Famenne",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "180 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/290213.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 21,
+            "number": null,
+            "position": "Defender",
+            "rating": "5.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 12,
+            "key": null,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
