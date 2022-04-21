@@ -1,0 +1,4727 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "81",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 6,
+        "name": "L. Balerdi",
+        "firstname": "Leonardo Juli\u00e1n",
+        "lastname": "Balerdi Rosa",
+        "age": 23,
+        "birth": {
+          "date": "1999-01-26",
+          "place": "Villa Mercedes",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "187 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 19,
+            "minutes": 1634,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.655000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 17
+          },
+          "shots": {
+            "total": 12,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1039,
+            "key": 1,
+            "accuracy": 48
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 9,
+            "interceptions": 28
+          },
+          "duels": {
+            "total": 202,
+            "won": 101
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 71,
+            "key": null,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 250,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 181,
+            "key": null,
+            "accuracy": 54
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 15,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 26,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1689,
+        "name": "\u00c1lvaro Gonz\u00e1lez",
+        "firstname": "\u00c1lvaro",
+        "lastname": "Gonz\u00e1lez Sober\u00f3n",
+        "age": 32,
+        "birth": {
+          "date": "1990-01-08",
+          "place": "Potes",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1689.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2834,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.931250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 13,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1940,
+            "key": 5,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 18,
+            "interceptions": 33
+          },
+          "duels": {
+            "total": 186,
+            "won": 105
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 14,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 76,
+            "key": null,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.416666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 383,
+            "key": 1,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 41,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 88,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1897,
+        "name": "S. Mandanda",
+        "firstname": "Steve",
+        "lastname": "Mandanda",
+        "age": 37,
+        "birth": {
+          "date": "1985-03-28",
+          "place": "Kinshasa",
+          "country": "Congo DR"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1897.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 37,
+            "minutes": 3330,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.694594",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 45,
+            "assists": null,
+            "saves": 84
+          },
+          "passes": {
+            "total": 1104,
+            "key": 0,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 12,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.383333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 13,
+            "assists": null,
+            "saves": 13
+          },
+          "passes": {
+            "total": 229,
+            "key": null,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1898,
+        "name": "Y. Pel\u00e9",
+        "firstname": "Yohann",
+        "lastname": "Pel\u00e9",
+        "age": 39,
+        "birth": {
+          "date": "1982-11-04",
+          "place": "Brou-sur-Chantereine",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "196 cm",
+        "weight": "89 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1898.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 34
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 4
+          },
+          "passes": {
+            "total": 16,
+            "key": null,
+            "accuracy": 15
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 7
+          },
+          "passes": {
+            "total": 44,
+            "key": null,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1904,
+        "name": "B. Kamara",
+        "firstname": "Boubacar Bernard",
+        "lastname": "Kamara",
+        "age": 23,
+        "birth": {
+          "date": "1999-11-23",
+          "place": "Marseille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1904.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 2905,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.051428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 11,
+            "bench": 0
+          },
+          "shots": {
+            "total": 16,
+            "on": 7
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 2016,
+            "key": 25,
+            "accuracy": 51
+          },
+          "tackles": {
+            "total": 88,
+            "blocks": 13,
+            "interceptions": 34
+          },
+          "duels": {
+            "total": 408,
+            "won": 240
+          },
+          "dribbles": {
+            "attempts": 54,
+            "success": 34,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 55,
+            "committed": 49
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 178,
+            "key": null,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 19,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 387,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.560000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 239,
+            "key": null,
+            "accuracy": 39
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 47,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 80,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1912,
+        "name": "D. Payet",
+        "firstname": "Dimitri",
+        "lastname": "Payet",
+        "age": 35,
+        "birth": {
+          "date": "1987-03-29",
+          "place": "Saint-Pierre",
+          "country": "R\u00e9union"
+        },
+        "nationality": "France",
+        "height": "175 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1912.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 28,
+            "minutes": 2428,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.163636",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 14,
+            "bench": 5
+          },
+          "shots": {
+            "total": 38,
+            "on": 18
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 1206,
+            "key": 67,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 214,
+            "won": 114
+          },
+          "dribbles": {
+            "attempts": 61,
+            "success": 37,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 46,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 2
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 80,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 2,
+            "accuracy": 36
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 4,
+            "minutes": 341,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.216666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 2
+          },
+          "shots": {
+            "total": 8,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 150,
+            "key": 12,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 62,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1913,
+        "name": "Alexandre Phliponeau",
+        "firstname": "Alexandre",
+        "lastname": "Phliponeau",
+        "age": 22,
+        "birth": {
+          "date": "2000-01-26",
+          "place": "Marseille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1913.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2955,
+        "name": "S. Khaoui",
+        "firstname": "Sa\u00eef-Eddine",
+        "lastname": "Khaoui",
+        "age": 27,
+        "birth": {
+          "date": "1995-04-27",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "Tunisia",
+        "height": "180 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2955.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 5,
+            "minutes": 599,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.743750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 5,
+            "bench": 24
+          },
+          "shots": {
+            "total": 9,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 216,
+            "key": 5,
+            "accuracy": 10
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": null,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 88,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 101,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 57,
+            "key": 3,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 3,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 10,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21102,
+        "name": "V. Rongier",
+        "firstname": "Valentin",
+        "lastname": "Rongier",
+        "age": 28,
+        "birth": {
+          "date": "1994-12-07",
+          "place": "Macon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "172 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21102.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 21,
+            "minutes": 1894,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.015384",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 11,
+            "bench": 6
+          },
+          "shots": {
+            "total": 11,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1369,
+            "key": 13,
+            "accuracy": 49
+          },
+          "tackles": {
+            "total": 93,
+            "blocks": 2,
+            "interceptions": 28
+          },
+          "duels": {
+            "total": 294,
+            "won": 168
+          },
+          "dribbles": {
+            "attempts": 38,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 45
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 46,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 32,
+            "key": 1,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 443,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.916666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 5,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 280,
+            "key": 2,
+            "accuracy": 41
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 54,
+            "won": 30
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 62,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30525,
+        "name": "Pol Lirola",
+        "firstname": "Pol Mikel",
+        "lastname": "Lirola Kosok",
+        "age": 25,
+        "birth": {
+          "date": "1997-08-13",
+          "place": "Mollet del Vall\u00e8s",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "183 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30525.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 17,
+            "minutes": 1553,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.011111",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 8,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 614,
+            "key": 19,
+            "accuracy": 26
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 5,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 152,
+            "won": 89
+          },
+          "dribbles": {
+            "attempts": 46,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 136,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 71,
+            "key": 3,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 67953,
+        "name": "L. Perrin",
+        "firstname": "Lucas",
+        "lastname": "Perrin",
+        "age": 24,
+        "birth": {
+          "date": "1998-11-19",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "187 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/67953.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 3,
+            "minutes": 306,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.914285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 22
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 160,
+            "key": 1,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 4,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 36,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 5,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": null,
+            "accuracy": 4
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 2,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 129686,
+        "name": "Ahmadou Bamba Dia",
+        "firstname": "Ahmadou Bamba",
+        "lastname": "Dia",
+        "age": 23,
+        "birth": {
+          "date": "1999-10-13",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "182 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/129686.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 145060,
+        "name": "S. Ngapandouetnbu",
+        "firstname": "Simon Brady",
+        "lastname": "Ngapandouetnbu",
+        "age": 19,
+        "birth": {
+          "date": "2003-04-12",
+          "place": null,
+          "country": "Cameroon"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/145060.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 156490,
+        "name": "N. Nkounkou",
+        "firstname": "Niels Patrick",
+        "lastname": "Nkounkou",
+        "age": 22,
+        "birth": {
+          "date": "2000-11-01",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/156490.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 161972,
+        "name": "F. Tongya",
+        "firstname": "Franco Daryl",
+        "lastname": "Tongya Heubang",
+        "age": 20,
+        "birth": {
+          "date": "2002-03-13",
+          "place": "Torino",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "181 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/161972.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 175122,
+        "name": "Nassim Ahmed",
+        "firstname": "Nassim",
+        "lastname": "Ahmed",
+        "age": 22,
+        "birth": {
+          "date": "2000-10-09",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/175122.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 175189,
+        "name": "F. Vanni",
+        "firstname": "Fabio",
+        "lastname": "Vanni",
+        "age": 20,
+        "birth": {
+          "date": "2002-07-20",
+          "place": "Aubagne",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/175189.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 179443,
+        "name": "A. Kamardin",
+        "firstname": "Aaron Nassur",
+        "lastname": "Kamardin",
+        "age": 20,
+        "birth": {
+          "date": "2002-04-08",
+          "place": "Marseille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/179443.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 179445,
+        "name": "Richecard Richard",
+        "firstname": "Richecard",
+        "lastname": "Richard",
+        "age": 20,
+        "birth": {
+          "date": "2002-03-18",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/179445.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 179918,
+        "name": "P. Sciortino",
+        "firstname": "Paolo",
+        "lastname": "Sciortino",
+        "age": 19,
+        "birth": {
+          "date": "2003-11-05",
+          "place": "Marseille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/179918.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 81,
+            "name": "Marseille",
+            "logo": "https://media.api-sports.io/football/teams/81.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

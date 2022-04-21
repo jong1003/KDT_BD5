@@ -1,0 +1,3617 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "40",
+    "season": "2018"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 282,
+        "name": "S. Mignolet",
+        "firstname": "Simon Luc Hildebert",
+        "lastname": "Mignolet",
+        "age": 34,
+        "birth": {
+          "date": "1988-03-06",
+          "place": "Sint-Truiden",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "193 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/282.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 37
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 5
+          },
+          "passes": {
+            "total": 19,
+            "key": 0,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "5.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 1
+          },
+          "passes": {
+            "total": 31,
+            "key": 0,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 13
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 287,
+        "name": "D. Lovren",
+        "firstname": "Dejan",
+        "lastname": "Lovren",
+        "age": 33,
+        "birth": {
+          "date": "1989-07-05",
+          "place": "Zenica",
+          "country": "Bosnia and Herzegovina"
+        },
+        "nationality": "Croatia",
+        "height": "188 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/287.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 11,
+            "minutes": 985,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.136363",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 8
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 711,
+            "key": 1,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 7,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 116,
+            "won": 78
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 52,
+            "key": 1,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 8,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 6,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": 0,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 125,
+            "key": 0,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 14,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288,
+        "name": "Alberto Moreno",
+        "firstname": "Alberto",
+        "lastname": "Moreno P\u00e9rez",
+        "age": 30,
+        "birth": {
+          "date": "1992-07-05",
+          "place": "Sevilla",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "171 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 155,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 16
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 92,
+            "key": 3,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 12,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 34,
+            "key": 0,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 12,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 63,
+            "key": 0,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 9,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 8,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 11,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 210,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 298,
+        "name": "Rafael Camacho",
+        "firstname": "Rafael Euclides",
+        "lastname": "Soares Camacho",
+        "age": 22,
+        "birth": {
+          "date": "2000-05-22",
+          "place": "Lisboa",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "175 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/298.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 0,
+            "key": 0,
+            "accuracy": 0
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 23,
+            "key": 0,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 13,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 135,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 300,
+        "name": "G. Wijnaldum",
+        "firstname": "Georginio Gregion Emile",
+        "lastname": "Wijnaldum",
+        "age": 32,
+        "birth": {
+          "date": "1990-11-11",
+          "place": "Rotterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "175 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/300.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 32,
+            "minutes": 2735,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.871428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 13,
+            "bench": 3
+          },
+          "shots": {
+            "total": 30,
+            "on": 10
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1611,
+            "key": 25,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": 40,
+            "blocks": 7,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 253,
+            "won": 131
+          },
+          "dribbles": {
+            "attempts": 49,
+            "success": 29,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 11,
+            "minutes": 971,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.666666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 2
+          },
+          "shots": {
+            "total": 12,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 414,
+            "key": 6,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 83,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 108,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 301,
+        "name": "B. Woodburn",
+        "firstname": "Benjamin Luke",
+        "lastname": "Woodburn",
+        "age": 23,
+        "birth": {
+          "date": "1999-10-15",
+          "place": "Nottingham",
+          "country": "England"
+        },
+        "nationality": "Wales",
+        "height": "174 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/301.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 134,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 303,
+        "name": "R. Brewster",
+        "firstname": "Rhian Joel",
+        "lastname": "Brewster",
+        "age": 22,
+        "birth": {
+          "date": "2000-04-01",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/303.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 308,
+        "name": "D. Sturridge",
+        "firstname": "Daniel Andre",
+        "lastname": "Sturridge",
+        "age": 33,
+        "birth": {
+          "date": "1989-09-01",
+          "place": "Birmingham",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "188 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/308.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 4,
+            "minutes": 496,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.886666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 1,
+            "bench": 31
+          },
+          "shots": {
+            "total": 18,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 152,
+            "key": 9,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 60,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 16,
+            "key": 1,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 10,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 70,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 12,
+            "key": 0,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 6,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 2,
+            "minutes": 163,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.920000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 2,
+            "bench": 10
+          },
+          "shots": {
+            "total": 9,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": 4,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 14,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 1,
+            "minutes": 206,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1735,
+        "name": "Andrew Firth",
+        "firstname": "Andrew",
+        "lastname": "Firth",
+        "age": 26,
+        "birth": {
+          "date": "1996-09-26",
+          "place": "Ripon",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1735.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1756,
+        "name": "R. Kent",
+        "firstname": "Ryan",
+        "lastname": "Kent",
+        "age": 26,
+        "birth": {
+          "date": "1996-11-11",
+          "place": "Oldham",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "172 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1756.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 46,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15573,
+        "name": "Kamil Mieczys\u0142aw Grabara",
+        "firstname": "Kamil Mieczys\u0142aw",
+        "lastname": "Grabara",
+        "age": 23,
+        "birth": {
+          "date": "1999-01-08",
+          "place": "Ruda \u015al\u0105ska",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "195 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15573.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 28,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18883,
+        "name": "D. Solanke",
+        "firstname": "Dominic",
+        "lastname": "Solanke",
+        "age": 25,
+        "birth": {
+          "date": "1997-09-14",
+          "place": "Reading",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "187 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18883.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 164,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19028,
+        "name": "Lazar Markovi\u0107",
+        "firstname": "Lazar",
+        "lastname": "Markovi\u0107",
+        "age": 28,
+        "birth": {
+          "date": "1994-03-02",
+          "place": "\u010ca\u010dak",
+          "country": "Serbia"
+        },
+        "nationality": "Serbia",
+        "height": "175 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19028.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19221,
+        "name": "H. Wilson",
+        "firstname": "Harry",
+        "lastname": "Wilson",
+        "age": 25,
+        "birth": {
+          "date": "1997-03-22",
+          "place": "Wrexham",
+          "country": "Wales"
+        },
+        "nationality": "Wales",
+        "height": "173 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19221.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25350,
+        "name": "M. Gruji\u0107",
+        "firstname": "Marko",
+        "lastname": "Gruji\u0107",
+        "age": 26,
+        "birth": {
+          "date": "1996-04-13",
+          "place": "Belgrade",
+          "country": "Serbia"
+        },
+        "nationality": "Serbia",
+        "height": "191 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25350.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30550,
+        "name": "Ragnar Klavan",
+        "firstname": "Ragnar",
+        "lastname": "Klavan",
+        "age": 37,
+        "birth": {
+          "date": "1985-10-30",
+          "place": "Viljandi",
+          "country": "Estonia"
+        },
+        "nationality": "Estonia",
+        "height": "187 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30550.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 136,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 44827,
+        "name": "\u00c1d\u00e1m Bogd\u00e1n",
+        "firstname": "\u00c1d\u00e1m",
+        "lastname": "Bogd\u00e1n",
+        "age": 35,
+        "birth": {
+          "date": "1987-09-27",
+          "place": "Budapest",
+          "country": "Hungary"
+        },
+        "nationality": "Hungary",
+        "height": "193 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/44827.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 93671,
+        "name": "Chirivella",
+        "firstname": "Pedro",
+        "lastname": "Chirivella Burgos",
+        "age": 25,
+        "birth": {
+          "date": "1997-05-23",
+          "place": "Valencia",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "178 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/93671.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 88,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 127369,
+        "name": "George Johnston",
+        "firstname": "George",
+        "lastname": "Johnston",
+        "age": 24,
+        "birth": {
+          "date": "1998-09-01",
+          "place": "Manchester",
+          "country": "England"
+        },
+        "nationality": "Scotland",
+        "height": "181 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/127369.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 2,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 127472,
+        "name": "N. Phillips",
+        "firstname": "Nathaniel",
+        "lastname": "Phillips",
+        "age": 25,
+        "birth": {
+          "date": "1997-03-21",
+          "place": "Bolton",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "190 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/127472.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2018"
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 2,
+            "minutes": 236,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

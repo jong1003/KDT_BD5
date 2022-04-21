@@ -1,0 +1,4431 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "77",
+    "season": "2019"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 2198,
+        "name": "S. Doumbia",
+        "firstname": "Souleyman",
+        "lastname": "Doumbia",
+        "age": 26,
+        "birth": {
+          "date": "1996-09-24",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "177 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2198.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 143,
+            "key": 3,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2718,
+        "name": "R. Alioui",
+        "firstname": "Rachid",
+        "lastname": "Alioui",
+        "age": 30,
+        "birth": {
+          "date": "1992-06-18",
+          "place": "La Rochelle",
+          "country": "France"
+        },
+        "nationality": "Morocco",
+        "height": "186 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2718.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 17,
+            "minutes": 1564,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.977777",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 12,
+            "bench": 11
+          },
+          "shots": {
+            "total": 58,
+            "on": 22
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 329,
+            "key": 18,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 34,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 66,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": 1,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 102,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 140,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2993,
+        "name": "Cheikh N'Doye",
+        "firstname": "Cheikh",
+        "lastname": "N'Doye",
+        "age": 36,
+        "birth": {
+          "date": "1986-03-29",
+          "place": "Rufisque",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "192 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2993.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2996,
+        "name": "S. Thioub",
+        "firstname": "Sada",
+        "lastname": "Thioub",
+        "age": 27,
+        "birth": {
+          "date": "1995-06-01",
+          "place": "Nanterre",
+          "country": "France"
+        },
+        "nationality": "Senegal",
+        "height": "179 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2996.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 15,
+            "minutes": 1505,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.722727",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 5,
+            "bench": 9
+          },
+          "shots": {
+            "total": 12,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 497,
+            "key": 23,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 91,
+            "success": 59,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 34,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": 1,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 99,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3234,
+        "name": "A. Bamba",
+        "firstname": "Abdoulaye",
+        "lastname": "Bamba",
+        "age": 32,
+        "birth": {
+          "date": "1990-04-25",
+          "place": "Abidjan",
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "182 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3234.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 6,
+            "minutes": 553,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.733333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 125,
+            "key": 3,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 27,
+            "key": 0,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 120,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3237,
+        "name": "I. Traor\u00e9",
+        "firstname": "Isma\u00ebl",
+        "lastname": "Traor\u00e9",
+        "age": 36,
+        "birth": {
+          "date": "1986-08-18",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "184 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3237.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 23,
+            "minutes": 2053,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.877272",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 9,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 831,
+            "key": 4,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 13,
+            "interceptions": 24
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 4406,
+        "name": "Haithem Loucif",
+        "firstname": "Haithem",
+        "lastname": "Loucif",
+        "age": 26,
+        "birth": {
+          "date": "1996-07-08",
+          "place": "Batna",
+          "country": "Algeria"
+        },
+        "nationality": "Algeria",
+        "height": "165 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/4406.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20616,
+        "name": "Thomas Tour\u00e9",
+        "firstname": "Thomas",
+        "lastname": "Tour\u00e9",
+        "age": 29,
+        "birth": {
+          "date": "1993-12-27",
+          "place": "Grasse",
+          "country": "France"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "175 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20616.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21136,
+        "name": "Ludovic Butelle",
+        "firstname": "Ludovic",
+        "lastname": "Butelle",
+        "age": 39,
+        "birth": {
+          "date": "1983-04-03",
+          "place": "Reims",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "188 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21136.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 26,
+            "minutes": 2340,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.592000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 32,
+            "assists": null,
+            "saves": 47
+          },
+          "passes": {
+            "total": 323,
+            "key": 1,
+            "accuracy": 58
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21137,
+        "name": "A. Mandrea",
+        "firstname": "Anthony",
+        "lastname": "Mandrea",
+        "age": 26,
+        "birth": {
+          "date": "1996-12-25",
+          "place": "Grasse",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "186 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21137.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21144,
+        "name": "R. Thomas",
+        "firstname": "Romain",
+        "lastname": "Thomas",
+        "age": 34,
+        "birth": {
+          "date": "1988-06-12",
+          "place": "Landerneau",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "193 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21144.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2342,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 7,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 972,
+            "key": 4,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 16,
+            "interceptions": 39
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 9,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": 0,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 166,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21147,
+        "name": "Anthony Gomez Mancini",
+        "firstname": "Anthony",
+        "lastname": "Gomez Mancini",
+        "age": 21,
+        "birth": {
+          "date": "2001-04-06",
+          "place": "Saint Priest",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21147.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 18,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21149,
+        "name": "Kevin Mouanga",
+        "firstname": "Kevin",
+        "lastname": "Mouanga",
+        "age": 22,
+        "birth": {
+          "date": "2000-07-24",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21149.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21150,
+        "name": "V. Pajot",
+        "firstname": "Vincent",
+        "lastname": "Pajot",
+        "age": 32,
+        "birth": {
+          "date": "1990-08-19",
+          "place": "Domont",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21150.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 1,
+            "minutes": 109,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 1,
+            "bench": 16
+          },
+          "shots": {
+            "total": 3,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": 3,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 44,
+            "key": 1,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 71,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21152,
+        "name": "J. Reine-Ad\u00e9la\u00efde",
+        "firstname": "Jeff",
+        "lastname": "Reine-Ad\u00e9la\u00efde",
+        "age": 24,
+        "birth": {
+          "date": "1998-01-17",
+          "place": "Champigny-sur-Marne",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21152.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 80,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "8.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 28,
+            "key": 1,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 136,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21153,
+        "name": "B. Santamar\u00eda",
+        "firstname": "Baptiste",
+        "lastname": "Santamar\u00eda",
+        "age": 27,
+        "birth": {
+          "date": "1995-03-09",
+          "place": "Saint-Doulchard",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21153.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 28,
+            "minutes": 2506,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.025925",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 36,
+            "on": 11
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1025,
+            "key": 13,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 71,
+            "blocks": 4,
+            "interceptions": 40
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 38,
+            "success": 29,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21154,
+        "name": "F. Tait",
+        "firstname": "Flavien",
+        "lastname": "Tait",
+        "age": 29,
+        "birth": {
+          "date": "1993-02-02",
+          "place": "Longjumeau",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21154.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21155,
+        "name": "W. Kanga",
+        "firstname": "Aka Wilfried",
+        "lastname": "Kanga",
+        "age": 24,
+        "birth": {
+          "date": "1998-02-21",
+          "place": "Montreuil",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21155.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 0,
+            "minutes": 65,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 12
+          },
+          "shots": {
+            "total": 3,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": 3,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 24,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": 1,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 40,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21156,
+        "name": "Cristian L\u00f3pez Santamar\u00eda",
+        "firstname": "Cristian",
+        "lastname": "L\u00f3pez Santamar\u00eda",
+        "age": 33,
+        "birth": {
+          "date": "1989-04-27",
+          "place": "Elche",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21156.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 9,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 174723,
+        "name": "Z. Ould Khaled",
+        "firstname": "Zin\u00e9dine",
+        "lastname": "Ould Khaled",
+        "age": 22,
+        "birth": {
+          "date": "2000-01-14",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "195 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/174723.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 60,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 77,
+            "name": "Angers",
+            "logo": "https://media.api-sports.io/football/teams/77.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

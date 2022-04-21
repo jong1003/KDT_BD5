@@ -1,0 +1,2655 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "500",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 67,
+        "name": "S. Denswil",
+        "firstname": "Stefano",
+        "lastname": "Denswil",
+        "age": 29,
+        "birth": {
+          "date": "1993-05-07",
+          "place": "Zaandam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "188 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/67.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 1,
+            "minutes": 112,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.575000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 12
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 78,
+            "key": null,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 9,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2597,
+        "name": "T. Tomiyasu",
+        "firstname": "Takehiro",
+        "lastname": "Tomiyasu",
+        "age": 24,
+        "birth": {
+          "date": "1998-11-05",
+          "place": "Fukuoka",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "188 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2597.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2719,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.841935",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 11,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1510,
+            "key": 8,
+            "accuracy": 39
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 19,
+            "interceptions": 54
+          },
+          "duels": {
+            "total": 294,
+            "won": 166
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10997,
+        "name": "V. Antov",
+        "firstname": "Valentin",
+        "lastname": "Ivaylov Antov",
+        "age": 22,
+        "birth": {
+          "date": "2000-11-09",
+          "place": "Sofia",
+          "country": "Bulgaria"
+        },
+        "nationality": "Bulgaria",
+        "height": "187 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10997.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 2,
+            "minutes": 229,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.575000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 16
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 115,
+            "key": 1,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 5,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 24,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15916,
+        "name": "A. Skov Olsen",
+        "firstname": "Andreas",
+        "lastname": "Skov Olsen",
+        "age": 23,
+        "birth": {
+          "date": "1999-12-29",
+          "place": "Hiller\u00f8d",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "187 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15916.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 12,
+            "minutes": 1176,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.653846",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 11,
+            "bench": 15
+          },
+          "shots": {
+            "total": 23,
+            "on": 10
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 472,
+            "key": 20,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 118,
+            "won": 57
+          },
+          "dribbles": {
+            "attempts": 39,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30466,
+        "name": "Angelo da Costa",
+        "firstname": "Angelo Esmael",
+        "lastname": "da Costa J\u00fanior",
+        "age": 38,
+        "birth": {
+          "date": "1983-11-12",
+          "place": "S\u00e3o Bernardo do Campo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "186 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30466.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.633333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 30
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 9,
+            "assists": null,
+            "saves": 18
+          },
+          "passes": {
+            "total": 259,
+            "key": null,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 3
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30469,
+        "name": "A. Calabresi",
+        "firstname": "Arturo",
+        "lastname": "Calabresi",
+        "age": 26,
+        "birth": {
+          "date": "1996-03-17",
+          "place": "Roma",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "186 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30469.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 19,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 13
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": null,
+            "accuracy": 2
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30475,
+        "name": "N. Paz",
+        "firstname": "Nehu\u00e9n Mario",
+        "lastname": "Paz",
+        "age": 29,
+        "birth": {
+          "date": "1993-04-28",
+          "place": "Buenos Aires",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "191 cm",
+        "weight": "89 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30475.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 3,
+            "minutes": 362,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 14
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 234,
+            "key": 1,
+            "accuracy": 32
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 39,
+            "won": 32
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30482,
+        "name": "A. Poli",
+        "firstname": "Andrea",
+        "lastname": "Poli",
+        "age": 33,
+        "birth": {
+          "date": "1989-09-29",
+          "place": "Vittorio Veneto",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "182 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30482.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 4,
+            "minutes": 373,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.735714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 4,
+            "bench": 27
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 209,
+            "key": 6,
+            "accuracy": 11
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 42,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 53,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30563,
+        "name": "P. Farag\u00f2",
+        "firstname": "Paolo Pancrazio",
+        "lastname": "Farag\u00f2",
+        "age": 29,
+        "birth": {
+          "date": "1993-02-12",
+          "place": "Catanzaro",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "187 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30563.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 22,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 10
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 12,
+            "key": null,
+            "accuracy": 10
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30736,
+        "name": "M. Bani",
+        "firstname": "Mattia",
+        "lastname": "Bani",
+        "age": 29,
+        "birth": {
+          "date": "1993-12-10",
+          "place": "Borgo San Lorenzo",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "188 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30736.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31098,
+        "name": "F. Ravaglia",
+        "firstname": "Federico",
+        "lastname": "Ravaglia",
+        "age": 23,
+        "birth": {
+          "date": "1999-11-11",
+          "place": "Bologna",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "196 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31098.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.325000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 18
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 10,
+            "assists": null,
+            "saves": 10
+          },
+          "passes": {
+            "total": 120,
+            "key": null,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 3
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 56753,
+        "name": "M. Sarr",
+        "firstname": "Mouhamadou Fallou",
+        "lastname": "Mbacke Sarr",
+        "age": 25,
+        "birth": {
+          "date": "1997-01-05",
+          "place": "Kaolack",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "190 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/56753.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 56807,
+        "name": "S. Breza",
+        "firstname": "Sebastian",
+        "lastname": "Breza",
+        "age": 24,
+        "birth": {
+          "date": "1998-03-15",
+          "place": "Ottawa",
+          "country": "Canada"
+        },
+        "nationality": "Canada",
+        "height": "193 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/56807.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 89723,
+        "name": "Andri Fannar Baldursson",
+        "firstname": "Andri Fannar",
+        "lastname": "Baldursson",
+        "age": 20,
+        "birth": {
+          "date": "2002-01-10",
+          "place": "K\u00f3pavogur",
+          "country": "Iceland"
+        },
+        "nationality": "Iceland",
+        "height": "187 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/89723.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 1,
+            "minutes": 213,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.462500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 2,
+            "bench": 35
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 73,
+            "key": 1,
+            "accuracy": 7
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 33,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 46,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 134432,
+        "name": "E. Vergani",
+        "firstname": "Edoardo",
+        "lastname": "Vergani",
+        "age": 21,
+        "birth": {
+          "date": "2001-02-06",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/134432.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 11,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2,
+            "key": null,
+            "accuracy": 2
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 199772,
+        "name": "Dion Ruffo Luci",
+        "firstname": "Dion",
+        "lastname": "Ruffo Luci",
+        "age": 21,
+        "birth": {
+          "date": "2001-07-12",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/199772.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 287917,
+        "name": "Simone Rabbi",
+        "firstname": "Simone",
+        "lastname": "Rabbi",
+        "age": 21,
+        "birth": {
+          "date": "2001-10-30",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/287917.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 0,
+            "minutes": 31,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.225000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 13
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": 2,
+            "accuracy": 1
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 9,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 290182,
+        "name": "A. Arnofoli",
+        "firstname": "Alex",
+        "lastname": "Arnofoli",
+        "age": 18,
+        "birth": {
+          "date": "2003-02-21",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/290182.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 290183,
+        "name": "M. Rocchi",
+        "firstname": "Matias",
+        "lastname": "Rocchi",
+        "age": 19,
+        "birth": {
+          "date": "2002-10-23",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "177 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/290183.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 290688,
+        "name": "Omari Khailoti",
+        "firstname": "Omari",
+        "lastname": "Khailoti",
+        "age": 21,
+        "birth": {
+          "date": "2001-09-05",
+          "place": "Macerata",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "192 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/290688.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 500,
+            "name": "Bologna",
+            "logo": "https://media.api-sports.io/football/teams/500.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 27,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 12
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 19,
+            "key": null,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3099 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "161",
+    "season": "2018"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 400,
+        "name": "J. Bruma",
+        "firstname": "Jeffrey",
+        "lastname": "Bruma",
+        "age": 31,
+        "birth": {
+          "date": "1991-11-13",
+          "place": "Rotterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "190 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/400.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 253,
+            "key": 0,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 63,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2808,
+        "name": "A. Mehmedi",
+        "firstname": "Admir",
+        "lastname": "Mehmedi",
+        "age": 31,
+        "birth": {
+          "date": "1991-03-16",
+          "place": "Gostivar",
+          "country": "North Macedonia"
+        },
+        "nationality": "Switzerland",
+        "height": "183 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2808.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 20,
+            "minutes": 1699,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.015384",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 13,
+            "bench": 7
+          },
+          "shots": {
+            "total": 36,
+            "on": 13
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 518,
+            "key": 36,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 0,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 257,
+            "won": 121
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 38,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 101,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 28,
+            "key": 3,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2809,
+        "name": "R. Steffen",
+        "firstname": "Renato",
+        "lastname": "Steffen",
+        "age": 31,
+        "birth": {
+          "date": "1991-11-03",
+          "place": "Aarau",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "170 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2809.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 18,
+            "minutes": 1506,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": 15,
+            "bench": 15
+          },
+          "shots": {
+            "total": 27,
+            "on": 8
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 393,
+            "key": 14,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 2,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 168,
+            "won": 91
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 160,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.366666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 30,
+            "key": 1,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 29,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2918,
+        "name": "K. Casteels",
+        "firstname": "Koen",
+        "lastname": "Casteels",
+        "age": 30,
+        "birth": {
+          "date": "1992-06-25",
+          "place": "Bonheiden",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "197 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2918.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 26,
+            "minutes": 2296,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.888461",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 40,
+            "assists": null,
+            "saves": 80
+          },
+          "passes": {
+            "total": 794,
+            "key": 0,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 13,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.566666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 10
+          },
+          "passes": {
+            "total": 103,
+            "key": 0,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 3,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3006,
+        "name": "J. B\u0142aszczykowski",
+        "firstname": "Jakub",
+        "lastname": "B\u0142aszczykowski",
+        "age": 37,
+        "birth": {
+          "date": "1985-12-14",
+          "place": "Truskolasy",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "175 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3006.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 12,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 7,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 2,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25395,
+        "name": "P. Menzel",
+        "firstname": "Phillip",
+        "lastname": "Menzel",
+        "age": 24,
+        "birth": {
+          "date": "1998-08-18",
+          "place": "Kiel",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25395.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25396,
+        "name": "P. Pervan",
+        "firstname": "Pavao",
+        "lastname": "Pervan",
+        "age": 35,
+        "birth": {
+          "date": "1987-11-13",
+          "place": "Wien",
+          "country": "Bosnia and Herzegovina"
+        },
+        "nationality": "Austria",
+        "height": "194 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25396.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 8,
+            "minutes": 764,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.788888",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 26
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 11,
+            "assists": null,
+            "saves": 31
+          },
+          "passes": {
+            "total": 229,
+            "key": 1,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 5,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25397,
+        "name": "J. Brooks",
+        "firstname": "John Anthony",
+        "lastname": "Brooks",
+        "age": 29,
+        "birth": {
+          "date": "1993-01-28",
+          "place": "Berlin",
+          "country": "Germany"
+        },
+        "nationality": "USA",
+        "height": "193 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25397.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 29,
+            "minutes": 2610,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.931034",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 19,
+            "on": 6
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1496,
+            "key": 4,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 13,
+            "interceptions": 37
+          },
+          "duels": {
+            "total": 189,
+            "won": 122
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.666666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 194,
+            "key": 0,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 2,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 22,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25398,
+        "name": "William",
+        "firstname": "William",
+        "lastname": "de Asevedo Furtado",
+        "age": 27,
+        "birth": {
+          "date": "1995-04-03",
+          "place": "Pelotas",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25398.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 30,
+            "minutes": 2676,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.948387",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 25,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1008,
+            "key": 41,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 57,
+            "blocks": 2,
+            "interceptions": 82
+          },
+          "duels": {
+            "total": 335,
+            "won": 179
+          },
+          "dribbles": {
+            "attempts": 50,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 37
+          },
+          "cards": {
+            "yellow": 10,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 3,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 51,
+            "key": 1,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 23,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25400,
+        "name": "Y. Gerhardt",
+        "firstname": "Yannick",
+        "lastname": "Gerhardt",
+        "age": 28,
+        "birth": {
+          "date": "1994-03-13",
+          "place": "W\u00fcrselen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25400.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 28,
+            "minutes": 2460,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.793103",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 7,
+            "bench": 4
+          },
+          "shots": {
+            "total": 36,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 746,
+            "key": 26,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": 8,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 272,
+            "won": 128
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 41,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 246,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 80,
+            "key": 1,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 29,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25401,
+        "name": "G. Itter",
+        "firstname": "Gian-Luca",
+        "lastname": "Itter",
+        "age": 23,
+        "birth": {
+          "date": "1999-01-05",
+          "place": "Gie\u00dfen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25401.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 93,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": 0,
+            "accuracy": 93
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25402,
+        "name": "S. Jung",
+        "firstname": "Sebastian Alexander",
+        "lastname": "Jung",
+        "age": 32,
+        "birth": {
+          "date": "1990-06-22",
+          "place": "K\u00f6nigstein",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "179 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25402.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 57,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 40,
+            "key": 1,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25404,
+        "name": "J. Roussillon",
+        "firstname": "J\u00e9r\u00f4me",
+        "lastname": "Roussillon",
+        "age": 29,
+        "birth": {
+          "date": "1993-01-06",
+          "place": "Sarcelles",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "175 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25404.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 28,
+            "minutes": 2466,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.907142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 20,
+            "on": 10
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 793,
+            "key": 31,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 7,
+            "interceptions": 32
+          },
+          "duels": {
+            "total": 278,
+            "won": 156
+          },
+          "dribbles": {
+            "attempts": 81,
+            "success": 50,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 40,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.966666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 98,
+            "key": 2,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 29,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25405,
+        "name": "M. Tisserand",
+        "firstname": "Marcel Jany \u00c9mile",
+        "lastname": "Tisserand",
+        "age": 29,
+        "birth": {
+          "date": "1993-01-10",
+          "place": "Meaux",
+          "country": "France"
+        },
+        "nationality": "Congo DR",
+        "height": "190 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25405.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 10,
+            "minutes": 888,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.970000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 3
+          },
+          "shots": {
+            "total": 10,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 444,
+            "key": 2,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 4,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 106,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": 0,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 3,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25408,
+        "name": "M. Arnold",
+        "firstname": "Maximilian",
+        "lastname": "Arnold",
+        "age": 28,
+        "birth": {
+          "date": "1994-05-27",
+          "place": "Riesa",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25408.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2879,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 54,
+            "on": 23
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 1056,
+            "key": 49,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": 10,
+            "interceptions": 36
+          },
+          "duels": {
+            "total": 345,
+            "won": 182
+          },
+          "dribbles": {
+            "attempts": 31,
+            "success": 25,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 81,
+            "committed": 45
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.266666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 102,
+            "key": 4,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 38,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25409,
+        "name": "Ignacio Camacho",
+        "firstname": "Ignacio",
+        "lastname": "Camacho Barnola",
+        "age": 31,
+        "birth": {
+          "date": "1990-05-04",
+          "place": "Zaragoza",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "183 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25409.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.283333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 7,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 235,
+            "key": 2,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 86,
+            "won": 57
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25410,
+        "name": "J. Guilavogui",
+        "firstname": "Josuha",
+        "lastname": "Guilavogui",
+        "age": 32,
+        "birth": {
+          "date": "1990-09-19",
+          "place": "Toulon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "188 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25410.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 18,
+            "minutes": 1571,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.905555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 652,
+            "key": 8,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 8,
+            "interceptions": 43
+          },
+          "duels": {
+            "total": 138,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 43,
+            "key": 1,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 19,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25412,
+        "name": "Y. Mall\u0131",
+        "firstname": "Yunus",
+        "lastname": "Mall\u0131",
+        "age": 30,
+        "birth": {
+          "date": "1992-02-24",
+          "place": "Kassel",
+          "country": "Germany"
+        },
+        "nationality": "Turkey",
+        "height": "179 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25412.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 5,
+            "minutes": 688,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.647368",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 3,
+            "bench": 28
+          },
+          "shots": {
+            "total": 8,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 246,
+            "key": 17,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 84,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 83,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 22,
+            "key": 0,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 2,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 10,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25414,
+        "name": "J. Yeboah",
+        "firstname": "John",
+        "lastname": "Yeboah Zamora",
+        "age": 22,
+        "birth": {
+          "date": "2000-06-23",
+          "place": "Hamburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "170 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25414.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 53,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 16,
+            "key": 2,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 14,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 31,
+            "number": null,
+            "position": "Attacker",
+            "rating": "5.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": 0,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 16,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 90636,
+        "name": "P. Verhaegh",
+        "firstname": "Paul",
+        "lastname": "Verhaegh",
+        "age": 38,
+        "birth": {
+          "date": "1983-09-01",
+          "place": "Sevenum",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "178 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/90636.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 26
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 75,
+            "key": 1,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 34,
+            "key": 0,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 14,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

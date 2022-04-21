@@ -1,0 +1,2803 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "106",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 99,
+        "name": "R. Pierre-Gabriel",
+        "firstname": "Rona\u00ebl Julien",
+        "lastname": "Pierre-Gabriel",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-13",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "177 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/99.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 28,
+            "minutes": 2315,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.772413",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 12,
+            "bench": 4
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1106,
+            "key": 16,
+            "accuracy": 35
+          },
+          "tackles": {
+            "total": 60,
+            "blocks": 7,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 247,
+            "won": 144
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 35,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 148,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 40,
+            "key": null,
+            "accuracy": 38
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 7,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 255,
+        "name": "S. Cibois",
+        "firstname": "S\u00e9bastien",
+        "lastname": "Cibois",
+        "age": 24,
+        "birth": {
+          "date": "1998-03-02",
+          "place": "Argenteuil",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "192 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/255.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.266666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 25
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 4,
+            "assists": null,
+            "saves": 7
+          },
+          "passes": {
+            "total": 79,
+            "key": null,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 3,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 33,
+            "key": null,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2193,
+        "name": "Ludovic Baal",
+        "firstname": "Ludovic",
+        "lastname": "Baal",
+        "age": 36,
+        "birth": {
+          "date": "1986-05-24",
+          "place": "Cayenne",
+          "country": "French Guiana"
+        },
+        "nationality": "French Guiana",
+        "height": "176 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2193.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 3,
+            "minutes": 292,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 35
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 220,
+            "key": 2,
+            "accuracy": 35
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 45,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 168,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 80,
+            "key": 2,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 12,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9994,
+        "name": "Jean Lucas",
+        "firstname": "Jean Lucas",
+        "lastname": "de Souza Oliveira",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-22",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "181 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9994.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 11,
+            "minutes": 1010,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.787500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 3,
+            "bench": 5
+          },
+          "shots": {
+            "total": 13,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 633,
+            "key": 9,
+            "accuracy": 35
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 146,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 16,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 16,
+            "key": 1,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 7,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20541,
+        "name": "G. Larsonneur",
+        "firstname": "Gautier",
+        "lastname": "Larsonneur",
+        "age": 25,
+        "birth": {
+          "date": "1997-02-23",
+          "place": "Saint-Renan",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20541.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3150,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.734285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 59,
+            "assists": null,
+            "saves": 112
+          },
+          "passes": {
+            "total": 1067,
+            "key": 0,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 15,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20546,
+        "name": "B. Chardonnet",
+        "firstname": "Brendan",
+        "lastname": "Chardonnet",
+        "age": 28,
+        "birth": {
+          "date": "1994-12-22",
+          "place": "Saint-Renan",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20546.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 30,
+            "minutes": 2714,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.163636",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 18,
+            "on": 9
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1662,
+            "key": 6,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 51,
+            "blocks": 41,
+            "interceptions": 64
+          },
+          "duels": {
+            "total": 246,
+            "won": 155
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20547,
+        "name": "J. Faussurier",
+        "firstname": "Julien",
+        "lastname": "Faussurier",
+        "age": 35,
+        "birth": {
+          "date": "1987-01-14",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "173 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20547.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 9,
+            "minutes": 951,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.768750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 2,
+            "bench": 21
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 437,
+            "key": 22,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 4,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 74,
+            "won": 35
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 32,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 8,
+            "key": null,
+            "accuracy": 7
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20554,
+        "name": "H. Belkebla",
+        "firstname": "Haris",
+        "lastname": "Belkebla",
+        "age": 28,
+        "birth": {
+          "date": "1994-01-28",
+          "place": "Drancy",
+          "country": "France"
+        },
+        "nationality": "Algeria",
+        "height": "177 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20554.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 33,
+            "minutes": 2736,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.722857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 12,
+            "bench": 2
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1393,
+            "key": 11,
+            "accuracy": 38
+          },
+          "tackles": {
+            "total": 69,
+            "blocks": 5,
+            "interceptions": 57
+          },
+          "duels": {
+            "total": 287,
+            "won": 148
+          },
+          "dribbles": {
+            "attempts": 34,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 38
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 83,
+            "key": null,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 10,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20565,
+        "name": "Ferris N'Goma",
+        "firstname": "Ferris",
+        "lastname": "N'Goma",
+        "age": 29,
+        "birth": {
+          "date": "1993-06-15",
+          "place": "Kinshasa",
+          "country": "Congo"
+        },
+        "nationality": "France",
+        "height": "175 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20565.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20655,
+        "name": "J. Duverne",
+        "firstname": "Jean-K\u00e9vin",
+        "lastname": "Duverne",
+        "age": 25,
+        "birth": {
+          "date": "1997-07-12",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20655.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 22,
+            "minutes": 2025,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 1,
+            "bench": 16
+          },
+          "shots": {
+            "total": 8,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1305,
+            "key": 4,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 16,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 207,
+            "won": 109
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 59,
+            "key": null,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20684,
+        "name": "D. Bain",
+        "firstname": "D\u00e9nys",
+        "lastname": "Bain",
+        "age": 29,
+        "birth": {
+          "date": "1993-07-02",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20684.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21580,
+        "name": "P. Lasne",
+        "firstname": "Paul",
+        "lastname": "Lasne",
+        "age": 33,
+        "birth": {
+          "date": "1989-01-16",
+          "place": "St-Cloud",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "186 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21580.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 19,
+            "minutes": 1687,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.809090",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 8,
+            "bench": 5
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1078,
+            "key": 7,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 46,
+            "blocks": 5,
+            "interceptions": 47
+          },
+          "duels": {
+            "total": 164,
+            "won": 90
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22164,
+        "name": "C. H\u00e9relle",
+        "firstname": "Christophe",
+        "lastname": "H\u00e9relle",
+        "age": 30,
+        "birth": {
+          "date": "1992-08-22",
+          "place": "Sochaux",
+          "country": "France"
+        },
+        "nationality": "Martinique",
+        "height": "188 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22164.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 15,
+            "minutes": 1377,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 4,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 893,
+            "key": 3,
+            "accuracy": 48
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 9,
+            "interceptions": 31
+          },
+          "duels": {
+            "total": 118,
+            "won": 75
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41125,
+        "name": "Heriberto Tavares",
+        "firstname": "Heriberto Moreno",
+        "lastname": "Borges Tavares",
+        "age": 25,
+        "birth": {
+          "date": "1997-02-19",
+          "place": "Amadora",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "181 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41125.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 0,
+            "minutes": 39,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 13
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": 1,
+            "accuracy": 44
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 84082,
+        "name": "R. Faivre",
+        "firstname": "Romain",
+        "lastname": "Faivre",
+        "age": 24,
+        "birth": {
+          "date": "1998-07-14",
+          "place": "Asni\u00e8res-sur-Seine",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/84082.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 33,
+            "minutes": 2902,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.219444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 14,
+            "bench": 3
+          },
+          "shots": {
+            "total": 48,
+            "on": 23
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 1299,
+            "key": 63,
+            "accuracy": 33
+          },
+          "tackles": {
+            "total": 54,
+            "blocks": 0,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 399,
+            "won": 230
+          },
+          "dribbles": {
+            "attempts": 132,
+            "success": 89,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 72,
+            "committed": 35
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 83,
+            "key": 3,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 13,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 126757,
+        "name": "L. Brassier",
+        "firstname": "Lilian",
+        "lastname": "Brassier",
+        "age": 23,
+        "birth": {
+          "date": "1999-11-02",
+          "place": "Argenteuil",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/126757.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 11,
+            "minutes": 963,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.054545",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 16
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 669,
+            "key": 5,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 6,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 105,
+            "won": 68
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 78,
+            "key": null,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162018,
+        "name": "Bandiougou Fadiga",
+        "firstname": "Bandiougou",
+        "lastname": "Fadiga",
+        "age": 21,
+        "birth": {
+          "date": "2001-01-15",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162018.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 0,
+            "minutes": 38,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.266666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 13
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 28,
+            "key": 1,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 144,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 56,
+            "key": 1,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 12,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 175000,
+        "name": "Killian Benvindo",
+        "firstname": "Killian",
+        "lastname": "Benvindo",
+        "age": 21,
+        "birth": {
+          "date": "2001-04-26",
+          "place": "Cenon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/175000.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 194112,
+        "name": "Idrissa Dioh",
+        "firstname": "Idrissa",
+        "lastname": "Dioh",
+        "age": 23,
+        "birth": {
+          "date": "1999-01-21",
+          "place": "Arpajon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "187 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/194112.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 194116,
+        "name": "R. Said Ahamada",
+        "firstname": "Rafiki",
+        "lastname": "Said Ahamada",
+        "age": 22,
+        "birth": {
+          "date": "2000-03-15",
+          "place": "Samba M'Bodoni",
+          "country": "Comoros"
+        },
+        "nationality": "Comoros",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/194116.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

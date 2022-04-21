@@ -1,0 +1,3099 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "518",
+    "season": "2019"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 30541,
+        "name": "A. Matri",
+        "firstname": "Alessandro",
+        "lastname": "Matri",
+        "age": 37,
+        "birth": {
+          "date": "1984-08-19",
+          "place": "Sant'Angelo Lodigiano",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "183 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30541.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 0,
+            "minutes": 82,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.585714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 0,
+            "bench": 15
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": 3,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31128,
+        "name": "Paolo Bastianello",
+        "firstname": "Paolo",
+        "lastname": "Bastianello",
+        "age": 24,
+        "birth": {
+          "date": "1998-02-14",
+          "place": "Vicenza",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "191 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31128.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31129,
+        "name": "Luigi Carillo",
+        "firstname": "Luigi",
+        "lastname": "Carillo",
+        "age": 26,
+        "birth": {
+          "date": "1996-08-08",
+          "place": "Napoli",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "187 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31129.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31132,
+        "name": "Daniele Gastaldello",
+        "firstname": "Daniele",
+        "lastname": "Gastaldello",
+        "age": 37,
+        "birth": {
+          "date": "1983-06-25",
+          "place": "Camposampiero",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "185 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31132.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 4,
+            "minutes": 389,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.612500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 4,
+            "bench": 33
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 122,
+            "key": 2,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 3,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 18,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 51,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31133,
+        "name": "Edoardo Lancini",
+        "firstname": "Edoardo",
+        "lastname": "Lancini",
+        "age": 28,
+        "birth": {
+          "date": "1994-04-10",
+          "place": "Brescia",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "188 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31133.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31138,
+        "name": "Alessandro Semprini",
+        "firstname": "Alessandro",
+        "lastname": "Semprini",
+        "age": 24,
+        "birth": {
+          "date": "1998-02-24",
+          "place": "Brescia",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "183 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31138.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 6,
+            "minutes": 627,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.566666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 3,
+            "bench": 17
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 198,
+            "key": 6,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 40,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 24,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31140,
+        "name": "Jacopo Dall'Oglio",
+        "firstname": "Jacopo",
+        "lastname": "Dall'Oglio",
+        "age": 30,
+        "birth": {
+          "date": "1992-04-02",
+          "place": "Milazzo",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "183 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31140.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31141,
+        "name": "Daniele Dessena",
+        "firstname": "Daniele",
+        "lastname": "Dessena",
+        "age": 35,
+        "birth": {
+          "date": "1987-05-10",
+          "place": "Parma",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "182 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31141.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 22,
+            "minutes": 1876,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.517391",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 8,
+            "bench": 2
+          },
+          "shots": {
+            "total": 18,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 506,
+            "key": 3,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 0,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 94,
+            "won": 44
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31142,
+        "name": "A. Martinelli",
+        "firstname": "Alessandro",
+        "lastname": "Martinelli",
+        "age": 28,
+        "birth": {
+          "date": "1993-05-30",
+          "place": "Mendrisio",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "175 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31142.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31143,
+        "name": "Leonardo Morosini",
+        "firstname": "Leonardo",
+        "lastname": "Morosini",
+        "age": 27,
+        "birth": {
+          "date": "1995-10-13",
+          "place": "Bergamo",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "176 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31143.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 23,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.533333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 17
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": 0,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 24,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31144,
+        "name": "E. Ndoj",
+        "firstname": "Emanuele",
+        "lastname": "Ndoj",
+        "age": 26,
+        "birth": {
+          "date": "1996-11-20",
+          "place": "Catania",
+          "country": "Italy"
+        },
+        "nationality": "Albania",
+        "height": "189 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31144.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 6,
+            "minutes": 549,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.494444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 6,
+            "bench": 16
+          },
+          "shots": {
+            "total": 9,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 158,
+            "key": 7,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 19,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31147,
+        "name": "Luca Tremolada",
+        "firstname": "Luca",
+        "lastname": "Tremolada",
+        "age": 31,
+        "birth": {
+          "date": "1991-11-25",
+          "place": "Milano",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "176 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31147.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 14,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": 0,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 25,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 24,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31150,
+        "name": "Matteo Cortesi",
+        "firstname": "Matteo",
+        "lastname": "Cortesi",
+        "age": 25,
+        "birth": {
+          "date": "1997-10-21",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31150.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31152,
+        "name": "Alejandro Rodr\u00edguez de Miguel",
+        "firstname": "Alejandro",
+        "lastname": "Rodr\u00edguez de Miguel",
+        "age": 31,
+        "birth": {
+          "date": "1991-07-30",
+          "place": "Terrassa",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31152.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31153,
+        "name": "E. Torregrossa",
+        "firstname": "Ernesto",
+        "lastname": "Torregrossa",
+        "age": 30,
+        "birth": {
+          "date": "1992-06-28",
+          "place": "Caltanissetta",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "184 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31153.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 22,
+            "minutes": 1851,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.004166",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 11,
+            "bench": 3
+          },
+          "shots": {
+            "total": 63,
+            "on": 23
+          },
+          "goals": {
+            "total": 7,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 306,
+            "key": 22,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 224,
+            "won": 102
+          },
+          "dribbles": {
+            "attempts": 60,
+            "success": 31,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 82,
+            "committed": 48
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 120,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 66,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 32090,
+        "name": "A. Ghezzi",
+        "firstname": "Andrea",
+        "lastname": "Ghezzi",
+        "age": 19,
+        "birth": {
+          "date": "2001-08-19",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/32090.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 0,
+            "minutes": 30,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": 0,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 7,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 4,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 32110,
+        "name": "Franco Ferrari",
+        "firstname": "Franco",
+        "lastname": "Ferrari",
+        "age": 27,
+        "birth": {
+          "date": "1995-08-10",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "191 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/32110.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 32228,
+        "name": "Luca Miracoli",
+        "firstname": "Luca",
+        "lastname": "Miracoli",
+        "age": 30,
+        "birth": {
+          "date": "1992-03-31",
+          "place": "Genova",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "191 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/32228.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 265707,
+        "name": "Diego Abbrandini",
+        "firstname": "Diego",
+        "lastname": "Abbrandini",
+        "age": 19,
+        "birth": {
+          "date": "2001-09-14",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/265707.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 265783,
+        "name": "Andrea Ghezzi",
+        "firstname": "Andrea",
+        "lastname": "Ghezzi",
+        "age": 21,
+        "birth": {
+          "date": "2001-02-03",
+          "place": "Treviglio",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/265783.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 0,
+            "minutes": 32,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 0,
+            "bench": 12
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 518,
+            "name": "Brescia",
+            "logo": "https://media.api-sports.io/football/teams/518.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 4,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

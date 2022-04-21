@@ -1,0 +1,3247 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "192",
+    "season": "2019"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1140,
+        "name": "J. Krahl",
+        "firstname": "Julian",
+        "lastname": "Krahl",
+        "age": 22,
+        "birth": {
+          "date": "2000-01-22",
+          "place": "Forst",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "194 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1140.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1408,
+        "name": "S. Bornauw",
+        "firstname": "Sebastiaan",
+        "lastname": "Bornauw",
+        "age": 23,
+        "birth": {
+          "date": "1999-03-22",
+          "place": "Wemmel",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "191 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1408.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 28,
+            "minutes": 2449,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 18,
+            "on": 7
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1002,
+            "key": 6,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 11,
+            "interceptions": 43
+          },
+          "duels": {
+            "total": 52,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 0,
+            "accuracy": 93
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 8487,
+        "name": "B. Verstraete",
+        "firstname": "Birger Danny",
+        "lastname": "Verstraete",
+        "age": 28,
+        "birth": {
+          "date": "1994-04-16",
+          "place": "Oostende",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "175 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/8487.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 7,
+            "minutes": 665,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 5
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 172,
+            "key": 10,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 120,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 59,
+            "key": 0,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19580,
+        "name": "T. Leistner",
+        "firstname": "Toni Andreas",
+        "lastname": "Leistner",
+        "age": 32,
+        "birth": {
+          "date": "1990-08-19",
+          "place": "Dresden",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19580.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 11,
+            "minutes": 1012,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.018181",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 4
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 414,
+            "key": 1,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 5,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 97,
+            "won": 68
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24785,
+        "name": "T. Horn",
+        "firstname": "Timo",
+        "lastname": "Horn",
+        "age": 29,
+        "birth": {
+          "date": "1993-05-12",
+          "place": "K\u00f6ln",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24785.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 34,
+            "minutes": 3060,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.578125",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 66,
+            "assists": null,
+            "saves": 85
+          },
+          "passes": {
+            "total": 717,
+            "key": 1,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 2
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 6,
+            "assists": null,
+            "saves": 8
+          },
+          "passes": {
+            "total": 55,
+            "key": 0,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24786,
+        "name": "T. Kessler",
+        "firstname": "Thomas",
+        "lastname": "Kessler",
+        "age": 35,
+        "birth": {
+          "date": "1986-01-20",
+          "place": "K\u00f6ln",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "197 cm",
+        "weight": "92 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24786.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 25
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24788,
+        "name": "M. Bader",
+        "firstname": "Matthias",
+        "lastname": "Bader",
+        "age": 25,
+        "birth": {
+          "date": "1997-06-17",
+          "place": "Pforzheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "176 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24788.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 11,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": 0,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 9,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 0,
+            "key": 0,
+            "accuracy": 0
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24791,
+        "name": "J. Horn",
+        "firstname": "Jannes-Kilian",
+        "lastname": "Horn",
+        "age": 25,
+        "birth": {
+          "date": "1997-02-06",
+          "place": "Braunschweig",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "186 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24791.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24792,
+        "name": "N. Katterbach",
+        "firstname": "Noah",
+        "lastname": "Katterbach",
+        "age": 21,
+        "birth": {
+          "date": "2001-04-13",
+          "place": "Simmerath",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24792.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 16,
+            "minutes": 1319,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.541176",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 5,
+            "bench": 5
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 389,
+            "key": 9,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 1,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 67,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 42,
+            "success": 30,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 46,
+            "key": 2,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24794,
+        "name": "B. Schmitz",
+        "firstname": "Benno",
+        "lastname": "Schmitz",
+        "age": 28,
+        "birth": {
+          "date": "1994-11-17",
+          "place": "M\u00fcnchen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "182 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24794.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 13,
+            "minutes": 1159,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.486666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 5,
+            "bench": 17
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 337,
+            "key": 15,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 1,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 49,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 71,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": 0,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24795,
+        "name": "L. Sobiech",
+        "firstname": "Lasse",
+        "lastname": "Sobiech",
+        "age": 31,
+        "birth": {
+          "date": "1991-01-18",
+          "place": "Schwerte",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "196 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24795.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 22,
+            "key": 1,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24796,
+        "name": "C. Clemens",
+        "firstname": "Christian",
+        "lastname": "Clemens",
+        "age": 31,
+        "birth": {
+          "date": "1991-08-04",
+          "place": "K\u00f6ln",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "179 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24796.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 15,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": 1,
+            "accuracy": 33
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24801,
+        "name": "J. Hector",
+        "firstname": "Jonas",
+        "lastname": "Hector",
+        "age": 32,
+        "birth": {
+          "date": "1990-05-27",
+          "place": "Saarbr\u00fccken",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "185 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24801.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 28,
+            "minutes": 2435,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.992592",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 3
+          },
+          "shots": {
+            "total": 27,
+            "on": 8
+          },
+          "goals": {
+            "total": 4,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 890,
+            "key": 23,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 69,
+            "blocks": 8,
+            "interceptions": 42
+          },
+          "duels": {
+            "total": 81,
+            "won": 44
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 37,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 108,
+            "key": 3,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24803,
+        "name": "F. Kainz",
+        "firstname": "Florian",
+        "lastname": "Kainz",
+        "age": 30,
+        "birth": {
+          "date": "1992-10-24",
+          "place": "Graz",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "176 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24803.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 16,
+            "minutes": 1560,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.044000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 10,
+            "bench": 14
+          },
+          "shots": {
+            "total": 38,
+            "on": 14
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 350,
+            "key": 40,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 1,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 49,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 120,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "9.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 31,
+            "key": 3,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24804,
+        "name": "V. Koziello",
+        "firstname": "Vincent Edouard Andr\u00e9",
+        "lastname": "Koziello",
+        "age": 27,
+        "birth": {
+          "date": "1995-10-28",
+          "place": "Grasse",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "168 cm",
+        "weight": "58 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24804.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24810,
+        "name": "J. C\u00f3rdoba",
+        "firstname": "Jhon Andr\u00e9s",
+        "lastname": "C\u00f3rdoba Copete",
+        "age": 29,
+        "birth": {
+          "date": "1993-05-11",
+          "place": "Istimina",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "188 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24810.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 23,
+            "minutes": 2004,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.067857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 13,
+            "bench": 7
+          },
+          "shots": {
+            "total": 59,
+            "on": 25
+          },
+          "goals": {
+            "total": 13,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 300,
+            "key": 26,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 132,
+            "won": 59
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 64,
+            "committed": 54
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 150,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 23,
+            "key": 1,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24970,
+        "name": "K. Schindler",
+        "firstname": "Kingsley",
+        "lastname": "Schindler",
+        "age": 29,
+        "birth": {
+          "date": "1993-07-12",
+          "place": "Hamburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24970.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 9,
+            "minutes": 850,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.638461",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 5,
+            "bench": 16
+          },
+          "shots": {
+            "total": 13,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 134,
+            "key": 10,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 7,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 136,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.150000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 25,
+            "key": 6,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 36916,
+        "name": "K. Ehizibue",
+        "firstname": "Kingsley",
+        "lastname": "Ehizibue",
+        "age": 27,
+        "birth": {
+          "date": "1995-05-25",
+          "place": "M\u00fcnchen",
+          "country": "Germany"
+        },
+        "nationality": "Netherlands",
+        "height": "189 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/36916.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 29,
+            "minutes": 2337,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.731034",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 10,
+            "bench": 3
+          },
+          "shots": {
+            "total": 11,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 585,
+            "key": 14,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 63,
+            "blocks": 8,
+            "interceptions": 31
+          },
+          "duels": {
+            "total": 55,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 59,
+            "success": 34,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 51
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": 2,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 111,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 49,
+            "key": 2,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 158121,
+        "name": "I. Jakobs",
+        "firstname": "Ismail Joshua",
+        "lastname": "Jakobs",
+        "age": 23,
+        "birth": {
+          "date": "1999-08-17",
+          "place": "Stuttgart",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/158121.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 20,
+            "minutes": 1679,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.705555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 17,
+            "on": 10
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 289,
+            "key": 10,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 32,
+            "blocks": 3,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 35,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 178793,
+        "name": "R. Voloder",
+        "firstname": "Robert",
+        "lastname": "Voloder",
+        "age": 21,
+        "birth": {
+          "date": "2001-05-09",
+          "place": "Frankfurt",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "185 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/178793.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

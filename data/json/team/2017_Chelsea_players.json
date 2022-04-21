@@ -1,0 +1,6799 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "49",
+    "season": "2017"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 108,
+        "name": "F\u00e0bregas",
+        "firstname": "Francesc",
+        "lastname": "F\u00e0bregas i Soler",
+        "age": 35,
+        "birth": {
+          "date": "1987-05-04",
+          "place": "Vilassar de Mar",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/108.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 25,
+            "minutes": 2309,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.359375",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 9,
+            "bench": 11
+          },
+          "shots": {
+            "total": 38,
+            "on": 10
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 1826,
+            "key": 91,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 68,
+            "blocks": 4,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 244,
+            "won": 118
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 264,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.233333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 118,
+            "key": 8,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 25,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 302,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.925000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 206,
+            "key": 5,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 26,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 691,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 425,
+            "key": 27,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 58,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 77,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 730,
+        "name": "T. Courtois",
+        "firstname": "Thibaut Nicolas Marc",
+        "lastname": "Courtois",
+        "age": 30,
+        "birth": {
+          "date": "1992-05-11",
+          "place": "Bree",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "199 cm",
+        "weight": "91 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/730.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3150,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.865714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 34,
+            "assists": null,
+            "saves": 76
+          },
+          "passes": {
+            "total": 693,
+            "key": 0,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 10,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 18,
+            "key": 0,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": 5
+          },
+          "passes": {
+            "total": 25,
+            "key": 0,
+            "accuracy": 59
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 720,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.687500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 12,
+            "assists": 1,
+            "saves": 20
+          },
+          "passes": {
+            "total": 116,
+            "key": 1,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 46,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1347,
+        "name": "V. Moses",
+        "firstname": "Victor",
+        "lastname": "Moses",
+        "age": 32,
+        "birth": {
+          "date": "1990-12-12",
+          "place": "Kaduna",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "177 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1347.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 25,
+            "minutes": 2118,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.942857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 11,
+            "bench": 8
+          },
+          "shots": {
+            "total": 35,
+            "on": 11
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 638,
+            "key": 21,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 4,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 239,
+            "won": 124
+          },
+          "dribbles": {
+            "attempts": 55,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 162,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 42,
+            "key": 0,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 19,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.733333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 59,
+            "key": 1,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 36,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 337,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.675000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 81,
+            "key": 3,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 49,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 69,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2278,
+        "name": "Marcos Alonso",
+        "firstname": "Marcos",
+        "lastname": "Alonso Mendoza",
+        "age": 32,
+        "birth": {
+          "date": "1990-12-28",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "188 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2278.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2860,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.127272",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 1
+          },
+          "shots": {
+            "total": 65,
+            "on": 23
+          },
+          "goals": {
+            "total": 7,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1070,
+            "key": 34,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 51,
+            "blocks": 5,
+            "interceptions": 47
+          },
+          "duels": {
+            "total": 295,
+            "won": 158
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 65,
+            "key": 2,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 24,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.566666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 122,
+            "key": 5,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 31,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 598,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 11,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 188,
+            "key": 3,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 76,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 69,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2281,
+        "name": "G. Cahill",
+        "firstname": "Gary",
+        "lastname": "Cahill",
+        "age": 37,
+        "birth": {
+          "date": "1985-12-19",
+          "place": "Dronfield",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "193 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2281.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 24,
+            "minutes": 2084,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.877777",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 10
+          },
+          "shots": {
+            "total": 10,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1184,
+            "key": 3,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 14,
+            "interceptions": 27
+          },
+          "duels": {
+            "total": 202,
+            "won": 141
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 137,
+            "key": 1,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 16,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 469,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.133333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 263,
+            "key": 0,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 43,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 448,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 260,
+            "key": 1,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 30,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 77,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2282,
+        "name": "A. Christensen",
+        "firstname": "Andreas",
+        "lastname": "B\u00f8dtker Christensen",
+        "age": 26,
+        "birth": {
+          "date": "1996-04-10",
+          "place": "Liller\u00f8d",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "187 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2282.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 23,
+            "minutes": 2071,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.096000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 6,
+            "bench": 13
+          },
+          "shots": {
+            "total": 12,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1260,
+            "key": 4,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 17,
+            "interceptions": 38
+          },
+          "duels": {
+            "total": 138,
+            "won": 98
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 341,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.733333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 164,
+            "key": 0,
+            "accuracy": 93
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 19,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 230,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.033333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 125,
+            "key": 1,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 15,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 454,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.650000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 250,
+            "key": 2,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 26,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 13,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2284,
+        "name": "Emerson",
+        "firstname": "Emerson",
+        "lastname": "Palmieri dos Santos",
+        "age": 28,
+        "birth": {
+          "date": "1994-08-03",
+          "place": "Santos",
+          "country": "Brazil"
+        },
+        "nationality": "Italy",
+        "height": "176 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2284.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 279,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.720000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 9
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 105,
+            "key": 1,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 27,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 68,
+            "key": 2,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2285,
+        "name": "A. R\u00fcdiger",
+        "firstname": "Antonio",
+        "lastname": "R\u00fcdiger",
+        "age": 29,
+        "birth": {
+          "date": "1993-03-03",
+          "place": "Berlin",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2285.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 25,
+            "minutes": 2336,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.003703",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 11
+          },
+          "shots": {
+            "total": 16,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1529,
+            "key": 3,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 31,
+            "blocks": 15,
+            "interceptions": 24
+          },
+          "duels": {
+            "total": 210,
+            "won": 111
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.075000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 249,
+            "key": 0,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 32,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 570,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.983333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 324,
+            "key": 0,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 43,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 4,
+            "minutes": 388,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.516666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 219,
+            "key": 2,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 35,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2288,
+        "name": "D. Drinkwater",
+        "firstname": "Daniel Noel",
+        "lastname": "Drinkwater",
+        "age": 32,
+        "birth": {
+          "date": "1990-03-05",
+          "place": "Manchester",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2288.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 5,
+            "minutes": 522,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 2,
+            "bench": 15
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 331,
+            "key": 5,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 52,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 220,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.966666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 125,
+            "key": 1,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 27,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 370,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.225000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 12,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 259,
+            "key": 6,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 43,
+            "won": 19
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 40,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.633333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 40,
+            "key": 0,
+            "accuracy": 96
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 5,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2296,
+        "name": "E. Hazard",
+        "firstname": "Eden Michael",
+        "lastname": "Hazard",
+        "age": 31,
+        "birth": {
+          "date": "1991-01-07",
+          "place": "La Louvi\u00e8re",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "175 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2296.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 28,
+            "minutes": 2433,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.817647",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 17,
+            "bench": 7
+          },
+          "shots": {
+            "total": 71,
+            "on": 37
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 1144,
+            "key": 84,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 422,
+            "won": 261
+          },
+          "dribbles": {
+            "attempts": 200,
+            "success": 165,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 82,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 293,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 87,
+            "key": 8,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 30,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 4,
+            "minutes": 393,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 9,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 171,
+            "key": 13,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 70,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 40,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 7,
+            "minutes": 611,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.775000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 4,
+            "bench": 1
+          },
+          "shots": {
+            "total": 22,
+            "on": 9
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 204,
+            "key": 25,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 93,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 46,
+            "success": 34,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2927,
+        "name": "M. Batshuayi",
+        "firstname": "Michy",
+        "lastname": "Batshuayi Tunga",
+        "age": 29,
+        "birth": {
+          "date": "1993-10-02",
+          "place": "Brussel",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "184 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2927.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 3,
+            "minutes": 353,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 2,
+            "bench": 18
+          },
+          "shots": {
+            "total": 13,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 67,
+            "key": 1,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 49,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 276,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 25,
+            "key": 1,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 21,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 245,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 8,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 55,
+            "key": 3,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 35,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 122,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.875000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 29,
+            "key": 1,
+            "accuracy": 94
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 9,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 69,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 7599,
+        "name": "C. Cuevas",
+        "firstname": "Cristian Alejandro",
+        "lastname": "Cuevas Jara",
+        "age": 27,
+        "birth": {
+          "date": "1995-04-02",
+          "place": "Rancagua",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "173 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/7599.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19262,
+        "name": "T. Kalas",
+        "firstname": "Tom\u00e1\u0161",
+        "lastname": "Kalas",
+        "age": 29,
+        "birth": {
+          "date": "1993-05-15",
+          "place": "Olomouc",
+          "country": "Czech Republic"
+        },
+        "nationality": "Czech Republic",
+        "height": "183 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19262.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 13,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19611,
+        "name": "L. Baker",
+        "firstname": "Lewis Renard",
+        "lastname": "Baker",
+        "age": 27,
+        "birth": {
+          "date": "1995-04-25",
+          "place": "Luton",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "182 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19611.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 21,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19990,
+        "name": "D. Sterling",
+        "firstname": "Dujon",
+        "lastname": "Sterling",
+        "age": 23,
+        "birth": {
+          "date": "1999-10-24",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "180 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19990.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 14,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 1,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 4,
+            "key": 0,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22240,
+        "name": "L. R\u00e9my",
+        "firstname": "Lo\u00efc Alex Teli\u00e9re",
+        "lastname": "Hubert R\u00e9my",
+        "age": 35,
+        "birth": {
+          "date": "1987-01-02",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22240.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 21,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 37112,
+        "name": "Eduardo",
+        "firstname": "Eduardo",
+        "lastname": "dos Reis Carvalho",
+        "age": 39,
+        "birth": {
+          "date": "1982-09-19",
+          "place": "Mirandela",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "188 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/37112.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 37116,
+        "name": "J. Clarke-Salter",
+        "firstname": "Jake",
+        "lastname": "Clarke-Salter",
+        "age": 25,
+        "birth": {
+          "date": "1997-09-22",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "188 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/37116.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 19,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 13,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 37125,
+        "name": "Charly Musonda Junior",
+        "firstname": "Charly",
+        "lastname": "Musonda Junior",
+        "age": 26,
+        "birth": {
+          "date": "1996-10-15",
+          "place": "Brussel",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "173 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/37125.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 34,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": 1,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 10,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 160,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 10,
+            "key": 1,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 9,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 12,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 8,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 90502,
+        "name": "Kyle Scott",
+        "firstname": "Kyle",
+        "lastname": "Scott",
+        "age": 25,
+        "birth": {
+          "date": "1997-12-22",
+          "place": "Bath",
+          "country": "England"
+        },
+        "nationality": "USA",
+        "height": "172 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/90502.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 28,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 31,
+            "key": 0,
+            "accuracy": 93
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 9,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 13,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4061 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "715",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 741,
+        "name": "Vallejo",
+        "firstname": "Jes\u00fas",
+        "lastname": "Vallejo L\u00e1zaro",
+        "age": 25,
+        "birth": {
+          "date": "1997-01-05",
+          "place": "Zaragoza",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/741.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 15,
+            "minutes": 1347,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.515789",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 5,
+            "bench": 10
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 501,
+            "key": 1,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 11,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 85,
+            "won": 41
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 256,
+            "number": null,
+            "position": "Defender",
+            "rating": "5.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 8,
+            "key": null,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 9,
+            "minutes": 787,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.688888",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 321,
+            "key": 2,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 5,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 40,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2449,
+        "name": "Y. Herrera",
+        "firstname": "Yangel Clemente",
+        "lastname": "Herrera Ravelo",
+        "age": 24,
+        "birth": {
+          "date": "1998-01-07",
+          "place": "La Guaira",
+          "country": "Venezuela"
+        },
+        "nationality": "Venezuela",
+        "height": "184 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2449.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 25,
+            "minutes": 2312,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.781250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 8,
+            "bench": 7
+          },
+          "shots": {
+            "total": 25,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 871,
+            "key": 11,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": 59,
+            "blocks": 17,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 508,
+            "won": 261
+          },
+          "dribbles": {
+            "attempts": 37,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 59,
+            "committed": 69
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 52,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 11,
+            "minutes": 994,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.990000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 3
+          },
+          "shots": {
+            "total": 17,
+            "on": 6
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 362,
+            "key": 9,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 1,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 178,
+            "won": 85
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46672,
+        "name": "Rui Silva",
+        "firstname": "Rui Tiago",
+        "lastname": "Dantas da Silva",
+        "age": 28,
+        "birth": {
+          "date": "1994-02-07",
+          "place": "Maia",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "191 cm",
+        "weight": "91 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46672.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2880,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.662500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 55,
+            "assists": null,
+            "saves": 83
+          },
+          "passes": {
+            "total": 1006,
+            "key": 1,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 13,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 14,
+            "minutes": 1260,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.945454",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 11,
+            "assists": 1,
+            "saves": 28
+          },
+          "passes": {
+            "total": 366,
+            "key": 1,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46673,
+        "name": "Aar\u00f3n Escandell",
+        "firstname": "Aar\u00f3n",
+        "lastname": "Escandell Banacloche",
+        "age": 27,
+        "birth": {
+          "date": "1995-09-27",
+          "place": "Carcaixent",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46673.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.820000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 31
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 8,
+            "assists": null,
+            "saves": 16
+          },
+          "passes": {
+            "total": 145,
+            "key": null,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 510,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 5,
+            "assists": null,
+            "saves": 20
+          },
+          "passes": {
+            "total": 84,
+            "key": null,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 14
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": 1
+          },
+          "passes": {
+            "total": 35,
+            "key": null,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46685,
+        "name": "R. Azeez",
+        "firstname": "Ramon Olamilekan",
+        "lastname": "Azeez",
+        "age": 29,
+        "birth": {
+          "date": "1992-12-12",
+          "place": "Abuja",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "169 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46685.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 100,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 10
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": null,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 161,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 42,
+            "key": null,
+            "accuracy": 38
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 6,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46693,
+        "name": "Fede Vico",
+        "firstname": "Federico",
+        "lastname": "Vico Villegas",
+        "age": 28,
+        "birth": {
+          "date": "1994-07-04",
+          "place": "C\u00f3rdoba",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "176 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46693.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 9,
+            "minutes": 768,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.525000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 10,
+            "bench": 22
+          },
+          "shots": {
+            "total": 5,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 278,
+            "key": 8,
+            "accuracy": 10
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 85,
+            "won": 41
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 266,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 31,
+            "key": 3,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 32,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47117,
+        "name": "Jes\u00fas Rodr\u00edguez Ortu\u00f1o",
+        "firstname": "Jes\u00fas",
+        "lastname": "Rodr\u00edguez Ortu\u00f1o",
+        "age": 24,
+        "birth": {
+          "date": "1998-02-11",
+          "place": "Almu\u00f1\u00e9car",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "173 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47117.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47251,
+        "name": "D. Foulquier",
+        "firstname": "Dimitri",
+        "lastname": "Foulquier",
+        "age": 29,
+        "birth": {
+          "date": "1993-03-23",
+          "place": "Sarcelles",
+          "country": "France"
+        },
+        "nationality": "Guadeloupe",
+        "height": "183 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47251.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2672,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.487500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 9,
+            "bench": 1
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 748,
+            "key": 10,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": 35,
+            "blocks": 7,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 226,
+            "won": 105
+          },
+          "dribbles": {
+            "attempts": 49,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 249,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.650000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 23,
+            "key": null,
+            "accuracy": 8
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 6,
+            "minutes": 615,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.766666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 222,
+            "key": 8,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 47,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47358,
+        "name": "Adri\u00e1n Mar\u00edn",
+        "firstname": "Adri\u00e1n",
+        "lastname": "Mar\u00edn G\u00f3mez",
+        "age": 25,
+        "birth": {
+          "date": "1997-01-09",
+          "place": "Torre-Pacheco",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "181 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47358.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 3,
+            "minutes": 266,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.266666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 2,
+            "bench": 14
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 44,
+            "key": 1,
+            "accuracy": 15
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 48690,
+        "name": "Eris Abedini",
+        "firstname": "Eris",
+        "lastname": "Abedini",
+        "age": 24,
+        "birth": {
+          "date": "1998-08-29",
+          "place": null,
+          "country": "Switzerland"
+        },
+        "nationality": "Kosovo",
+        "height": "190 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/48690.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 96476,
+        "name": "Jo\u00e3o Paulo Santos da Costa",
+        "firstname": "Jo\u00e3o Paulo",
+        "lastname": "Santos da Costa",
+        "age": 26,
+        "birth": {
+          "date": "1996-02-02",
+          "place": "Barcelos",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "185 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/96476.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 19
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 106746,
+        "name": "Kingsley Fobi",
+        "firstname": "Kingsley",
+        "lastname": "Fobi",
+        "age": 24,
+        "birth": {
+          "date": "1998-09-20",
+          "place": null,
+          "country": "Ghana"
+        },
+        "nationality": "Ghana",
+        "height": "180 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/106746.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": null,
+            "accuracy": 4
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 122918,
+        "name": "Daniel Plomer Gordillo",
+        "firstname": "Daniel",
+        "lastname": "Plomer Gordillo",
+        "age": 24,
+        "birth": {
+          "date": "1998-11-30",
+          "place": "Palma de Mallorca",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "179 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/122918.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": null,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 131532,
+        "name": "Juan Ignacio Brunet Bordin",
+        "firstname": "Juan Ignacio",
+        "lastname": "Brunet Bordin",
+        "age": 24,
+        "birth": {
+          "date": "1998-01-24",
+          "place": "Maip\u00fa",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "190 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/131532.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 23,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 8,
+            "key": null,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 147797,
+        "name": "Anto\u00f1\u00edn Cort\u00e9s",
+        "firstname": "Antonio",
+        "lastname": "Cort\u00e9s Heredia",
+        "age": 22,
+        "birth": {
+          "date": "2000-04-16",
+          "place": "M\u00e1laga",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/147797.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182165,
+        "name": "Antonio Jos\u00e9 Aranda Subiela",
+        "firstname": "Antonio Jos\u00e9",
+        "lastname": "Aranda Subiela",
+        "age": 22,
+        "birth": {
+          "date": "2000-10-07",
+          "place": "Hu\u00e9tor Vega",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "62 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182165.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 64,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 25,
+            "key": 1,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 10,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182495,
+        "name": "\u00c1lvaro Bravo",
+        "firstname": "\u00c1lvaro",
+        "lastname": "Bravo Jim\u00e9nez",
+        "age": 24,
+        "birth": {
+          "date": "1998-02-04",
+          "place": "Pinto",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182495.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 14,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": null,
+            "accuracy": 8
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 4,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182795,
+        "name": "Arnau F\u00e0brega Ma\u00f1as",
+        "firstname": "Arnau",
+        "lastname": "F\u00e0brega Ma\u00f1as",
+        "age": 22,
+        "birth": {
+          "date": "2000-06-28",
+          "place": "Llan\u00e7\u00e0",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "188 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182795.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 19
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 12
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 290686,
+        "name": "Rafael Romero",
+        "firstname": "Rafael",
+        "lastname": "Romero",
+        "age": 19,
+        "birth": {
+          "date": "2003-08-07",
+          "place": null,
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/290686.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 290687,
+        "name": "Carlos Le\u00f3n Garc\u00eda",
+        "firstname": "Carlos",
+        "lastname": "Le\u00f3n Garc\u00eda",
+        "age": 20,
+        "birth": {
+          "date": "2002-12-05",
+          "place": null,
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/290687.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 715,
+            "name": "Granada CF",
+            "logo": "https://media.api-sports.io/football/teams/715.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

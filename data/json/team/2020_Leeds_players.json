@@ -1,0 +1,4283 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "63",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 638,
+        "name": "I. Poveda-Ocampo",
+        "firstname": "Ian Carlo",
+        "lastname": "Poveda-Ocampo",
+        "age": 22,
+        "birth": {
+          "date": "2000-02-09",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "156 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/638.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 0,
+            "minutes": 341,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.557142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 0,
+            "bench": 32
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 111,
+            "key": 5,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 61,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 18,
+            "key": null,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 13,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 58,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 14,
+            "key": 1,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 7,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18752,
+        "name": "H\u00e9lder Costa",
+        "firstname": "H\u00e9lder Wander",
+        "lastname": "Sousa Azevedo Costa",
+        "age": 28,
+        "birth": {
+          "date": "1994-01-12",
+          "place": "Luanda",
+          "country": "Angola"
+        },
+        "nationality": "Angola",
+        "height": "178 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18752.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 13,
+            "minutes": 1155,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 8,
+            "bench": 19
+          },
+          "shots": {
+            "total": 11,
+            "on": 6
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 303,
+            "key": 8,
+            "accuracy": 11
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 179,
+            "won": 66
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 41,
+            "key": 1,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 13,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19112,
+        "name": "Kiko Casilla",
+        "firstname": "Francisco",
+        "lastname": "Casilla Cort\u00e9s",
+        "age": 36,
+        "birth": {
+          "date": "1986-10-02",
+          "place": "Alcover",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "190 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19112.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 31
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 8
+          },
+          "passes": {
+            "total": 78,
+            "key": null,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "8.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 6
+          },
+          "passes": {
+            "total": 30,
+            "key": null,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "5.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 3,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 20,
+            "key": null,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19116,
+        "name": "L. Ayling",
+        "firstname": "Luke",
+        "lastname": "Ayling",
+        "age": 31,
+        "birth": {
+          "date": "1991-08-25",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19116.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 38,
+            "minutes": 3400,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.097368",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 14,
+            "on": 6
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2381,
+            "key": 28,
+            "accuracy": 49
+          },
+          "tackles": {
+            "total": 108,
+            "blocks": 36,
+            "interceptions": 36
+          },
+          "duels": {
+            "total": 439,
+            "won": 268
+          },
+          "dribbles": {
+            "attempts": 59,
+            "success": 41,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 54,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19117,
+        "name": "G. Berardi",
+        "firstname": "Gaetano",
+        "lastname": "Berardi",
+        "age": 34,
+        "birth": {
+          "date": "1988-08-21",
+          "place": "Sorengo",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "179 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19117.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 113,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 10
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 55,
+            "key": null,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 10,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19118,
+        "name": "L. Cooper",
+        "firstname": "Liam",
+        "lastname": "Cooper",
+        "age": 31,
+        "birth": {
+          "date": "1991-08-30",
+          "place": "Kingston upon Hull",
+          "country": "England"
+        },
+        "nationality": "Scotland",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19118.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 25,
+            "minutes": 2187,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.080000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 15,
+            "on": 9
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1650,
+            "key": null,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": 68,
+            "blocks": 32,
+            "interceptions": 61
+          },
+          "duels": {
+            "total": 300,
+            "won": 192
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 46,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 36,
+            "key": null,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 7,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19119,
+        "name": "L. Davis",
+        "firstname": "Leif",
+        "lastname": "Davis",
+        "age": 23,
+        "birth": {
+          "date": "1999-12-31",
+          "place": "Newcastle",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "166 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19119.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 31,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 25
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 19,
+            "key": null,
+            "accuracy": 8
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 6,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 58,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 49,
+            "key": null,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 7,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 61,
+            "key": null,
+            "accuracy": 52
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 9,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19121,
+        "name": "B. Douglas",
+        "firstname": "Barry James",
+        "lastname": "Douglas",
+        "age": 33,
+        "birth": {
+          "date": "1989-09-04",
+          "place": "Glasgow",
+          "country": "Scotland"
+        },
+        "nationality": "Scotland",
+        "height": "176 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19121.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 63,
+            "key": 3,
+            "accuracy": 48
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 30,
+            "key": 1,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 4,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19122,
+        "name": "Robbie Gotts",
+        "firstname": "Robbie",
+        "lastname": "Gotts",
+        "age": 23,
+        "birth": {
+          "date": "1999-11-09",
+          "place": "Harrogate",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "177 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19122.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 12,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": null,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19125,
+        "name": "M. Bogusz",
+        "firstname": "Mateusz Piotr",
+        "lastname": "Bogusz",
+        "age": 21,
+        "birth": {
+          "date": "2001-08-22",
+          "place": "Ruda \u015al\u0105ska",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "175 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19125.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 78,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 36,
+            "key": 1,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 10,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19129,
+        "name": "Pablo Hern\u00e1ndez Dom\u00ednguez",
+        "firstname": "Pablo",
+        "lastname": "Hern\u00e1ndez Dom\u00ednguez",
+        "age": 37,
+        "birth": {
+          "date": "1985-04-11",
+          "place": "Castell\u00f3n de la Plana",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "173 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19129.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 3,
+            "minutes": 417,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.756250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": 3,
+            "bench": 23
+          },
+          "shots": {
+            "total": 9,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 378,
+            "key": 6,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 36,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 76,
+            "key": 3,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19132,
+        "name": "Jordan Harry Stevens",
+        "firstname": "Jordan Harry",
+        "lastname": "Stevens",
+        "age": 22,
+        "birth": {
+          "date": "2000-03-25",
+          "place": "Gloucester",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19132.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19133,
+        "name": "Ezgjan Alioski",
+        "firstname": "Ezgjan",
+        "lastname": "Alioski",
+        "age": 30,
+        "birth": {
+          "date": "1992-02-12",
+          "place": "Prilep",
+          "country": "North Macedonia"
+        },
+        "nationality": "North Macedonia",
+        "height": "173 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19133.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 29,
+            "minutes": 2464,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.774285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 10,
+            "bench": 9
+          },
+          "shots": {
+            "total": 18,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1377,
+            "key": 28,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": 74,
+            "blocks": 2,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 322,
+            "won": 168
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 44,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 50,
+            "key": 2,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 7,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 37,
+            "key": null,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 14,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20619,
+        "name": "I. Meslier",
+        "firstname": "Illan",
+        "lastname": "Meslier",
+        "age": 22,
+        "birth": {
+          "date": "2000-03-02",
+          "place": "Lorient",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "196 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20619.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3150,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.125714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 52,
+            "assists": null,
+            "saves": 140
+          },
+          "passes": {
+            "total": 1080,
+            "key": 1,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 28,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26238,
+        "name": "R. Koch",
+        "firstname": "Robin",
+        "lastname": "Koch",
+        "age": 26,
+        "birth": {
+          "date": "1996-07-17",
+          "place": "Kaiserslautern",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26238.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 13,
+            "minutes": 1129,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.846666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 6
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 769,
+            "key": 4,
+            "accuracy": 39
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 12,
+            "interceptions": 27
+          },
+          "duels": {
+            "total": 132,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30731,
+        "name": "Elia Caprile",
+        "firstname": "Elia",
+        "lastname": "Caprile",
+        "age": 21,
+        "birth": {
+          "date": "2001-08-25",
+          "place": "Verona",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "191 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30731.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 129700,
+        "name": "Alfie John McCalmont",
+        "firstname": "Alfie John",
+        "lastname": "McCalmont",
+        "age": 22,
+        "birth": {
+          "date": "2000-03-25",
+          "place": "Thirsk",
+          "country": "Northern Ireland"
+        },
+        "nationality": "Northern Ireland",
+        "height": "167 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/129700.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 153411,
+        "name": "C. Drameh",
+        "firstname": "Cody Callum Pierre",
+        "lastname": "Drameh",
+        "age": 21,
+        "birth": {
+          "date": "2001-12-08",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "175 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/153411.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 169282,
+        "name": "Niall Joseph Huggins",
+        "firstname": "Niall Joseph",
+        "lastname": "Huggins",
+        "age": 22,
+        "birth": {
+          "date": "2000-12-18",
+          "place": "York",
+          "country": "England"
+        },
+        "nationality": "Wales",
+        "height": "180 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/169282.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 37,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 17,
+            "key": null,
+            "accuracy": 15
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 180934,
+        "name": "O. Casey",
+        "firstname": "Oliver",
+        "lastname": "Casey",
+        "age": 22,
+        "birth": {
+          "date": "2000-10-14",
+          "place": "Leeds",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/180934.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 46,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": null,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 63,
+            "name": "Leeds",
+            "logo": "https://media.api-sports.io/football/teams/63.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 23,
+            "key": null,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 4,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

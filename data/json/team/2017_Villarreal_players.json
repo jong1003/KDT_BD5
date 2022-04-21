@@ -1,0 +1,4283 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "533",
+    "season": "2017"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1630,
+        "name": "M. Musacchio",
+        "firstname": "Mateo Pablo",
+        "lastname": "Musacchio",
+        "age": 31,
+        "birth": {
+          "date": "1990-08-26",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1630.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.060000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 243,
+            "key": 2,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 28,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1683,
+        "name": "M. Barbosa",
+        "firstname": "Mariano Dami\u00e1n",
+        "lastname": "Barbosa",
+        "age": 36,
+        "birth": {
+          "date": "1984-07-27",
+          "place": "Avellaneda",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "188 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1683.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 12,
+            "minutes": 1124,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.892307",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 19
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 17,
+            "assists": null,
+            "saves": 34
+          },
+          "passes": {
+            "total": 168,
+            "key": 0,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 4,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 1
+          },
+          "passes": {
+            "total": 48,
+            "key": 0,
+            "accuracy": 94
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.933333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 6,
+            "assists": null,
+            "saves": 18
+          },
+          "passes": {
+            "total": 83,
+            "key": 1,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 3,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1685,
+        "name": "D. Bonera",
+        "firstname": "Daniele",
+        "lastname": "Bonera",
+        "age": 38,
+        "birth": {
+          "date": "1981-05-31",
+          "place": "Brescia",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "183 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1685.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 14,
+            "minutes": 1191,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.880000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 13
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 492,
+            "key": 3,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 4,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 70,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 47,
+            "key": 3,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.480000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 288,
+            "key": 1,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 21,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 76,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1686,
+        "name": "Jos\u00e9 Casta\u00f1o Mu\u00f1oz",
+        "firstname": "Jos\u00e9",
+        "lastname": "Casta\u00f1o Mu\u00f1oz",
+        "age": 24,
+        "birth": {
+          "date": "1998-12-10",
+          "place": "Arcos de la Frontera",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1686.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1698,
+        "name": "Javi Fuego",
+        "firstname": "Javier",
+        "lastname": "Fuego Mart\u00ednez",
+        "age": 37,
+        "birth": {
+          "date": "1984-01-04",
+          "place": "Pola de Siero",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "181 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1698.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 6,
+            "minutes": 535,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.652941",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 3,
+            "bench": 8
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 492,
+            "key": 2,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 166,
+            "won": 90
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 74,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 41,
+            "key": 0,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1704,
+        "name": "Bruno",
+        "firstname": "Bruno",
+        "lastname": "Soriano Llido",
+        "age": 37,
+        "birth": {
+          "date": "1984-06-12",
+          "place": "Artana",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1704.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2230,
+        "name": "Antonio Rukavina",
+        "firstname": "Antonio",
+        "lastname": "Rukavina",
+        "age": 38,
+        "birth": {
+          "date": "1984-01-26",
+          "place": "Beograd",
+          "country": "Serbia"
+        },
+        "nationality": "Serbia",
+        "height": "176 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2230.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 14,
+            "minutes": 1270,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 22
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 387,
+            "key": 8,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 0,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 77,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 171,
+            "key": 6,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 22,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.966666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 155,
+            "key": 3,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 13,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41173,
+        "name": "R\u00faben Semedo",
+        "firstname": "R\u00faben Afonso",
+        "lastname": "Borges Semedo",
+        "age": 28,
+        "birth": {
+          "date": "1994-04-04",
+          "place": "Amadora",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "189 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41173.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 231,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.350000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 77,
+            "key": 1,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 26,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 40,
+            "key": 0,
+            "accuracy": 97
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 14,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46999,
+        "name": "Cristian Josu\u00e9 Artiles Cedr\u00e9s",
+        "firstname": "Cristian Josu\u00e9",
+        "lastname": "Artiles Cedr\u00e9s",
+        "age": 26,
+        "birth": {
+          "date": "1996-01-24",
+          "place": "Las Palmas de Gran Canaria",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "172 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46999.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47096,
+        "name": "Ander Cantero",
+        "firstname": "Ander",
+        "lastname": "Cantero Armend\u00e1riz",
+        "age": 27,
+        "birth": {
+          "date": "1995-01-09",
+          "place": "Rotxapea",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "189 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47096.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 10
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 1
+          },
+          "passes": {
+            "total": 11,
+            "key": 0,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47170,
+        "name": "Jos\u00e9 Carlos Lazo",
+        "firstname": "Jos\u00e9 Carlos",
+        "lastname": "Lazo Romero",
+        "age": 26,
+        "birth": {
+          "date": "1996-02-16",
+          "place": "Sanl\u00facar de Barrameda",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47170.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47227,
+        "name": "Imanol Garc\u00eda Lugea",
+        "firstname": "Imanol",
+        "lastname": "Garc\u00eda Lugea",
+        "age": 27,
+        "birth": {
+          "date": "1995-12-26",
+          "place": "Esqu\u00edroz",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47227.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47228,
+        "name": "Ramiro Guerra Pereyra",
+        "firstname": "Ramiro",
+        "lastname": "Guerra Pereyra",
+        "age": 25,
+        "birth": {
+          "date": "1997-03-21",
+          "place": "Montevideo",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "183 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47228.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 0,
+            "minutes": 67,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 13
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 25,
+            "key": 1,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 12,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 126,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 81,
+            "key": 1,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 17,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 275,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 189,
+            "key": 1,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 55,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47358,
+        "name": "Adri\u00e1n Mar\u00edn",
+        "firstname": "Adri\u00e1n",
+        "lastname": "Mar\u00edn G\u00f3mez",
+        "age": 25,
+        "birth": {
+          "date": "1997-01-09",
+          "place": "Torre-Pacheco",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "181 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47358.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 233,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 11
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 76,
+            "key": 1,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 28,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 162,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 57,
+            "key": 0,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 10,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 148,
+            "key": 4,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 27,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47456,
+        "name": "Gen\u00eds Montolio Lafuente",
+        "firstname": "Gen\u00eds",
+        "lastname": "Montolio Lafuente",
+        "age": 25,
+        "birth": {
+          "date": "1996-07-23",
+          "place": "Barcelona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "183 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47456.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Copa del Rey",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017-2018"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 81,
+            "key": 0,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 9,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 104935,
+        "name": "Pablo \u00cd\u00f1iguez de Heredia Larraz",
+        "firstname": "Pablo",
+        "lastname": "\u00cd\u00f1iguez de Heredia Larraz",
+        "age": 28,
+        "birth": {
+          "date": "1994-01-20",
+          "place": "Burgos",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "186 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/104935.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 105713,
+        "name": "Ram\u00f3n Bueno Gonzalbo",
+        "firstname": "Ram\u00f3n",
+        "lastname": "Bueno Gonzalbo",
+        "age": 27,
+        "birth": {
+          "date": "1995-04-07",
+          "place": "Burriana",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/105713.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 127811,
+        "name": "Roger Riera Canadell",
+        "firstname": "Roger",
+        "lastname": "Riera Canadell",
+        "age": 27,
+        "birth": {
+          "date": "1995-02-17",
+          "place": "El Masnou",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/127811.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182150,
+        "name": "Sergio Lozano Lluch",
+        "firstname": "Sergio",
+        "lastname": "Lozano Lluch",
+        "age": 23,
+        "birth": {
+          "date": "1999-03-24",
+          "place": "Benimuslem",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182150.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 14,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 17,
+            "key": 0,
+            "accuracy": 94
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 184235,
+        "name": "Carlos Meseguer G\u00f3mez",
+        "firstname": "Carlos",
+        "lastname": "Meseguer G\u00f3mez",
+        "age": 28,
+        "birth": {
+          "date": "1994-07-22",
+          "place": "Castell\u00f3n de la Plana",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/184235.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

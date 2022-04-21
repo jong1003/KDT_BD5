@@ -1,0 +1,3025 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "539",
+    "season": "2019"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 395,
+        "name": "Hern\u00e2ni",
+        "firstname": "Hern\u00e2ni Jorge",
+        "lastname": "Santos Fortes",
+        "age": 31,
+        "birth": {
+          "date": "1991-08-20",
+          "place": "Lisboa",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "180 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/395.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 5,
+            "minutes": 643,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.680000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 3,
+            "bench": 26
+          },
+          "shots": {
+            "total": 22,
+            "on": 10
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 75,
+            "key": 11,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 22,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 244,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.333333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 8,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 43,
+            "key": 8,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1583,
+        "name": "Sergio Le\u00f3n",
+        "firstname": "Sergio",
+        "lastname": "Le\u00f3n Limones",
+        "age": 33,
+        "birth": {
+          "date": "1989-01-06",
+          "place": "La Palma del R\u00edo",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "178 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1583.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 6,
+            "minutes": 662,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.475000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 6,
+            "bench": 28
+          },
+          "shots": {
+            "total": 21,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 51,
+            "key": 2,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 29,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 228,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 9,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 31,
+            "key": 2,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47252,
+        "name": "Bruno",
+        "firstname": "Bruno",
+        "lastname": "Gonz\u00e1lez Cabrera",
+        "age": 32,
+        "birth": {
+          "date": "1990-05-24",
+          "place": "Las Galletas",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47252.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 455,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 56,
+            "key": 0,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47328,
+        "name": "\u00d3. Duarte",
+        "firstname": "\u00d3scar Esau",
+        "lastname": "Duarte Gait\u00e1n",
+        "age": 33,
+        "birth": {
+          "date": "1989-06-03",
+          "place": "Masaya",
+          "country": "Nicaragua"
+        },
+        "nationality": "Costa Rica",
+        "height": "186 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47328.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 5,
+            "minutes": 484,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 21
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 196,
+            "key": 0,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 6,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 14,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 22,
+            "key": 0,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47448,
+        "name": "Aitor Fern\u00e1ndez",
+        "firstname": "Aitor",
+        "lastname": "Fern\u00e1ndez Abarisketa",
+        "age": 31,
+        "birth": {
+          "date": "1991-05-03",
+          "place": "Arrasate",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47448.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 36,
+            "minutes": 3240,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.237142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 50,
+            "assists": null,
+            "saves": 152
+          },
+          "passes": {
+            "total": 547,
+            "key": 1,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 3
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 188,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "8.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 4,
+            "assists": null,
+            "saves": 11
+          },
+          "passes": {
+            "total": 41,
+            "key": 0,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47449,
+        "name": "Oier",
+        "firstname": "Oier",
+        "lastname": "Olaz\u00e1bal Paredes",
+        "age": 33,
+        "birth": {
+          "date": "1989-09-14",
+          "place": "Ir\u00fan",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "190 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47449.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 14
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 37,
+            "key": 0,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 112,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 2
+          },
+          "passes": {
+            "total": 26,
+            "key": 0,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47450,
+        "name": "Jorge Ruiz Ojeda",
+        "firstname": "Jorge",
+        "lastname": "Ruiz Ojeda",
+        "age": 27,
+        "birth": {
+          "date": "1995-09-27",
+          "place": "Antequera",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "188 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47450.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 14
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 8
+          },
+          "passes": {
+            "total": 31,
+            "key": 0,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47452,
+        "name": "E. Cabaco",
+        "firstname": "Erick Cathriel",
+        "lastname": "Cabaco Almada",
+        "age": 27,
+        "birth": {
+          "date": "1995-04-19",
+          "place": "Montevideo",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "185 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47452.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 9,
+            "minutes": 808,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.666666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 7
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 70,
+            "key": 0,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 31,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 113,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 37,
+            "key": 0,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47453,
+        "name": "To\u00f1o",
+        "firstname": "Antonio",
+        "lastname": "Garc\u00eda Aranda",
+        "age": 33,
+        "birth": {
+          "date": "1989-11-07",
+          "place": "Valencia",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "179 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47453.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 18,
+            "minutes": 1590,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.680000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 11
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 568,
+            "key": 18,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 24,
+            "blocks": 3,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 44,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 22,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 46,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 18,
+            "key": 0,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47460,
+        "name": "Rober",
+        "firstname": "Roberto",
+        "lastname": "Su\u00e1rez Pier",
+        "age": 27,
+        "birth": {
+          "date": "1995-02-16",
+          "place": "A Coru\u00f1a",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47460.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 189,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.575000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 81,
+            "key": 0,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 13,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda Division",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47468,
+        "name": "Rochina",
+        "firstname": "Rub\u00e9n",
+        "lastname": "Rochina Naixes",
+        "age": 31,
+        "birth": {
+          "date": "1991-03-23",
+          "place": "Valencia",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47468.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 22,
+            "minutes": 1886,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.935714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 17,
+            "bench": 8
+          },
+          "shots": {
+            "total": 60,
+            "on": 14
+          },
+          "goals": {
+            "total": 4,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 668,
+            "key": 26,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 0,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 75,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 77,
+            "success": 51,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 47,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 79,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 11,
+            "key": 2,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47472,
+        "name": "Borja Mayoral",
+        "firstname": "Borja",
+        "lastname": "Mayoral Moya",
+        "age": 25,
+        "birth": {
+          "date": "1997-04-05",
+          "place": "Parla",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47472.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 24,
+            "minutes": 2147,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.797058",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 17,
+            "bench": 14
+          },
+          "shots": {
+            "total": 47,
+            "on": 20
+          },
+          "goals": {
+            "total": 8,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 439,
+            "key": 25,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 78,
+            "won": 30
+          },
+          "dribbles": {
+            "attempts": 46,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 103,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": 5,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 104949,
+        "name": "Pablo Mart\u00ednez",
+        "firstname": "Pablo",
+        "lastname": "Mart\u00ednez Andr\u00e9s",
+        "age": 24,
+        "birth": {
+          "date": "1998-02-22",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/104949.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 0,
+            "minutes": 29,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 0,
+            "bench": 11
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 14,
+            "key": 0,
+            "accuracy": 59
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 131,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 65,
+            "key": 3,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 107160,
+        "name": "Gonzalo Pereira Cejudo",
+        "firstname": "Gonzalo",
+        "lastname": "Pereira Cejudo",
+        "age": 25,
+        "birth": {
+          "date": "1997-02-14",
+          "place": "Barcelona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/107160.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 13,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 48,
+            "key": 0,
+            "accuracy": 94
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 119225,
+        "name": "Eliseo Falc\u00f3n Falc\u00f3n",
+        "firstname": "Eliseo",
+        "lastname": "Falc\u00f3n Falc\u00f3n",
+        "age": 25,
+        "birth": {
+          "date": "1997-02-11",
+          "place": "Alcal\u00e1 de Guada\u00edra",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "183 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/119225.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 74,
+            "number": null,
+            "position": "Defender",
+            "rating": "5.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 20,
+            "key": 0,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 83,
+            "key": 0,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 119795,
+        "name": "Giorgi Kochorashvili",
+        "firstname": "Giorgi",
+        "lastname": "Kochorashvili",
+        "age": 23,
+        "birth": {
+          "date": "1999-06-29",
+          "place": "Tbilisi",
+          "country": "Georgia"
+        },
+        "nationality": "Georgia",
+        "height": "178 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/119795.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 1,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 0,
+            "key": 0,
+            "accuracy": 0
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 122853,
+        "name": "Rub\u00e9n Garc\u00eda Canales",
+        "firstname": "Rub\u00e9n",
+        "lastname": "Garc\u00eda Canales",
+        "age": 24,
+        "birth": {
+          "date": "1998-10-20",
+          "place": "Elche",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/122853.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 156488,
+        "name": "Dani C\u00e1rdenas",
+        "firstname": "Daniel",
+        "lastname": "C\u00e1rdenas Lindez",
+        "age": 25,
+        "birth": {
+          "date": "1997-03-28",
+          "place": "Terrassa",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "186 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/156488.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182669,
+        "name": "Alejandro Blesa Pina",
+        "firstname": "Alejandro",
+        "lastname": "Blesa Pina",
+        "age": 20,
+        "birth": {
+          "date": "2002-01-15",
+          "place": "Valencia",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182669.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 1,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": 0,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 3,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182670,
+        "name": "Joan Monterde Raygal",
+        "firstname": "Joan",
+        "lastname": "Monterde Raygal",
+        "age": 25,
+        "birth": {
+          "date": "1997-12-18",
+          "place": "Puerto de Sagunto",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "168 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182670.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 539,
+            "name": "Levante",
+            "logo": "https://media.api-sports.io/football/teams/539.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 8,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 6,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

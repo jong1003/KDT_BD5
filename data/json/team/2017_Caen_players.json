@@ -1,0 +1,4653 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "88",
+    "season": "2017"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1435,
+        "name": "Ivan Santini",
+        "firstname": "Ivan",
+        "lastname": "Santini",
+        "age": 33,
+        "birth": {
+          "date": "1989-05-21",
+          "place": "Zadar",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "190 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1435.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 31,
+            "minutes": 2777,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.896875",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 88,
+            "on": 36
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 451,
+            "key": 24,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 523,
+            "won": 193
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 53,
+            "committed": 79
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 5,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 73,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 297,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 8621,
+        "name": "S. Peeters",
+        "firstname": "Stef",
+        "lastname": "Peeters",
+        "age": 30,
+        "birth": {
+          "date": "1992-02-09",
+          "place": "Bree",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "188 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/8621.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 11,
+            "minutes": 1103,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.710000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 3,
+            "bench": 18
+          },
+          "shots": {
+            "total": 17,
+            "on": 7
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 323,
+            "key": 32,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 111,
+            "won": 41
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15403,
+        "name": "V. Bessat",
+        "firstname": "Vincent",
+        "lastname": "Bessat",
+        "age": 36,
+        "birth": {
+          "date": "1985-11-08",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15403.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 18,
+            "minutes": 1570,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.662500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 5,
+            "bench": 7
+          },
+          "shots": {
+            "total": 17,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 542,
+            "key": 19,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 0,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 151,
+            "won": 61
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20635,
+        "name": "J. Delaplace",
+        "firstname": "Jonathan",
+        "lastname": "Delaplace",
+        "age": 35,
+        "birth": {
+          "date": "1986-03-20",
+          "place": "La Seyne-sur-Mer",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "168 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20635.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 5,
+            "minutes": 579,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.608333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 2,
+            "bench": 18
+          },
+          "shots": {
+            "total": 9,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 162,
+            "key": 11,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 73,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 120,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20701,
+        "name": "H. Bazile",
+        "firstname": "Herv\u00e9",
+        "lastname": "Bazile",
+        "age": 31,
+        "birth": {
+          "date": "1990-03-18",
+          "place": "Creteil",
+          "country": "France"
+        },
+        "nationality": "Haiti",
+        "height": "181 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20701.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 10,
+            "minutes": 877,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.694736",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 9,
+            "bench": 12
+          },
+          "shots": {
+            "total": 17,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 161,
+            "key": 14,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 145,
+            "won": 59
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 219,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20860,
+        "name": "J. F\u00e9ret",
+        "firstname": "Julien",
+        "lastname": "F\u00e9ret",
+        "age": 37,
+        "birth": {
+          "date": "1982-07-05",
+          "place": "Saint-Brieuc",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "187 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20860.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 36,
+            "minutes": 3069,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.932432",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 12,
+            "bench": 1
+          },
+          "shots": {
+            "total": 26,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1258,
+            "key": 69,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 49
+          },
+          "duels": {
+            "total": 383,
+            "won": 185
+          },
+          "dribbles": {
+            "attempts": 44,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 2,
+            "minutes": 314,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21333,
+        "name": "Florian Yves Le Joncour",
+        "firstname": "Florian Yves",
+        "lastname": "Le Joncour",
+        "age": 27,
+        "birth": {
+          "date": "1995-02-03",
+          "place": "Quimper",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "192 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21333.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21507,
+        "name": "R. Rodelin",
+        "firstname": "Sylvio Ronny",
+        "lastname": "Rodelin",
+        "age": 33,
+        "birth": {
+          "date": "1989-11-18",
+          "place": "Saint-Denis",
+          "country": "R\u00e9union"
+        },
+        "nationality": "France",
+        "height": "192 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21507.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 36,
+            "minutes": 3167,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.224324",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 6,
+            "bench": 1
+          },
+          "shots": {
+            "total": 108,
+            "on": 30
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 929,
+            "key": 59,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 28
+          },
+          "duels": {
+            "total": 486,
+            "won": 262
+          },
+          "dribbles": {
+            "attempts": 74,
+            "success": 57,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 134,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 344,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21632,
+        "name": "M. Dabo",
+        "firstname": "Mouhamadou",
+        "lastname": "Dabo",
+        "age": 35,
+        "birth": {
+          "date": "1986-11-28",
+          "place": "Dakar",
+          "country": "Senegal"
+        },
+        "nationality": "France",
+        "height": "176 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21632.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21634,
+        "name": "Romain Genevois",
+        "firstname": "Romain",
+        "lastname": "Genevois",
+        "age": 32,
+        "birth": {
+          "date": "1987-10-28",
+          "place": "L'Est\u00e8re",
+          "country": "Haiti"
+        },
+        "nationality": "Haiti",
+        "height": "182 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21634.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 22,
+            "minutes": 1814,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.829166",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 7,
+            "bench": 12
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 506,
+            "key": 7,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 4,
+            "interceptions": 31
+          },
+          "duels": {
+            "total": 197,
+            "won": 111
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21637,
+        "name": "Emmanuel Imorou",
+        "firstname": "Emmanuel",
+        "lastname": "Imorou",
+        "age": 34,
+        "birth": {
+          "date": "1988-09-16",
+          "place": "Bourges",
+          "country": "France"
+        },
+        "nationality": "Benin",
+        "height": "181 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21637.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 33,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 11,
+            "key": 0,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21638,
+        "name": "Adama Mbengue",
+        "firstname": "Adama",
+        "lastname": "Mbengue",
+        "age": 29,
+        "birth": {
+          "date": "1993-12-01",
+          "place": "Rufisque",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "178 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21638.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 18,
+            "minutes": 1596,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.878947",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 14,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 356,
+            "key": 11,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 0,
+            "interceptions": 28
+          },
+          "duels": {
+            "total": 262,
+            "won": 142
+          },
+          "dribbles": {
+            "attempts": 47,
+            "success": 29,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 38
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 63,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21645,
+        "name": "Jan Repas",
+        "firstname": "Jan",
+        "lastname": "Repas",
+        "age": 25,
+        "birth": {
+          "date": "1997-03-19",
+          "place": "Ljubljana",
+          "country": "Slovenia"
+        },
+        "nationality": "Slovenia",
+        "height": "171 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21645.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 12,
+            "minutes": 906,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.413333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 8,
+            "bench": 18
+          },
+          "shots": {
+            "total": 17,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 161,
+            "key": 10,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 145,
+            "won": 50
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 63,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 223,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21646,
+        "name": "Ba\u00efssama Sankoh",
+        "firstname": "Ba\u00efssama",
+        "lastname": "Sankoh",
+        "age": 30,
+        "birth": {
+          "date": "1992-03-20",
+          "place": "Nogent-sur-Marne",
+          "country": "France"
+        },
+        "nationality": "Guinea",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21646.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 15,
+            "minutes": 1532,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.572000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 3,
+            "bench": 18
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 420,
+            "key": 8,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 206,
+            "won": 99
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24286,
+        "name": "Valentin Voisin",
+        "firstname": "Valentin",
+        "lastname": "Voisin",
+        "age": 25,
+        "birth": {
+          "date": "1996-06-19",
+          "place": "Cherbourg",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24286.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 43309,
+        "name": "Micha\u00ebl Jordan N'kololo",
+        "firstname": "Micha\u00ebl Jordan",
+        "lastname": "N'kololo",
+        "age": 30,
+        "birth": {
+          "date": "1992-11-09",
+          "place": "Cr\u00e9teil",
+          "country": "France"
+        },
+        "nationality": "Congo DR",
+        "height": "183 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/43309.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 4,
+            "minutes": 421,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.620000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 3,
+            "bench": 11
+          },
+          "shots": {
+            "total": 16,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 78,
+            "key": 11,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 59,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 109,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 58,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 55533,
+        "name": "T. Stavitski",
+        "firstname": "Timo",
+        "lastname": "Stavitski",
+        "age": 23,
+        "birth": {
+          "date": "1999-07-17",
+          "place": "Kirkkonummi",
+          "country": "Finland"
+        },
+        "nationality": "Finland",
+        "height": "180 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/55533.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 3,
+            "minutes": 397,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.411111",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 2,
+            "bench": 10
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 81,
+            "key": 6,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 60,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 151,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 66207,
+        "name": "Christian Kouakou Yao",
+        "firstname": "Christian",
+        "lastname": "Kouakou Yao",
+        "age": 31,
+        "birth": {
+          "date": "1991-03-01",
+          "place": "Abidjan",
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "182 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/66207.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 7,
+            "minutes": 841,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.715789",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 7,
+            "bench": 19
+          },
+          "shots": {
+            "total": 27,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 101,
+            "key": 7,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 124,
+            "won": 61
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 161,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 206,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85676,
+        "name": "R. Vercoutre",
+        "firstname": "R\u00e9my",
+        "lastname": "Vercoutre",
+        "age": 41,
+        "birth": {
+          "date": "1980-06-26",
+          "place": "Grande-Synthe",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85676.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3104,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.708571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 48,
+            "assists": null,
+            "saves": 90
+          },
+          "passes": {
+            "total": 524,
+            "key": 1,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 13,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85682,
+        "name": "J. Louis",
+        "firstname": "Jeff",
+        "lastname": "Louis",
+        "age": 29,
+        "birth": {
+          "date": "1992-08-08",
+          "place": "Port-au-Prince",
+          "country": "Haiti"
+        },
+        "nationality": "Haiti",
+        "height": "171 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85682.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 88,
+            "name": "Caen",
+            "logo": "https://media.api-sports.io/football/teams/88.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 5,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

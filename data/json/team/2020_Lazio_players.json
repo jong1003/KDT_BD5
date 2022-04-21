@@ -1,0 +1,3765 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "487",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1630,
+        "name": "M. Musacchio",
+        "firstname": "Mateo Pablo",
+        "lastname": "Musacchio",
+        "age": 31,
+        "birth": {
+          "date": "1990-08-26",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1630.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 228,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 13
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 111,
+            "key": null,
+            "accuracy": 34
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 19,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 44,
+            "key": null,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 31,
+            "number": null,
+            "position": "Defender",
+            "rating": "5.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 11,
+            "key": null,
+            "accuracy": 10
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1832,
+        "name": "Marco Alia",
+        "firstname": "Marco",
+        "lastname": "Alia",
+        "age": 22,
+        "birth": {
+          "date": "2000-04-26",
+          "place": "Genzano di Roma",
+          "country": "Italy"
+        },
+        "nationality": "Albania",
+        "height": "185 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1832.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 31
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 2
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1834,
+        "name": "S. Proto",
+        "firstname": "Silvio",
+        "lastname": "Proto",
+        "age": 38,
+        "birth": {
+          "date": "1983-05-23",
+          "place": "Charleroi",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "187 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1834.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1837,
+        "name": "Nicol\u00f2 Armini",
+        "firstname": "Nicol\u00f2",
+        "lastname": "Armini",
+        "age": 21,
+        "birth": {
+          "date": "2001-03-07",
+          "place": "Marino",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1837.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 4,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 23
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 4,
+            "key": null,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1843,
+        "name": "J. Lukaku",
+        "firstname": "Jordan Zacharie",
+        "lastname": "Lukaku Menama Mokelenge",
+        "age": 28,
+        "birth": {
+          "date": "1994-07-25",
+          "place": "Antwerpen",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "177 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1843.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1845,
+        "name": "Bastos",
+        "firstname": "Bartolomeu Jacinto",
+        "lastname": "Quissanga",
+        "age": 31,
+        "birth": {
+          "date": "1991-03-27",
+          "place": "Luanda",
+          "country": "Angola"
+        },
+        "nationality": "Angola",
+        "height": "184 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1845.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 62,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 41,
+            "key": null,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 18,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1855,
+        "name": "S. Luli\u0107",
+        "firstname": "Senad",
+        "lastname": "Luli\u0107",
+        "age": 35,
+        "birth": {
+          "date": "1986-01-18",
+          "place": "Motar",
+          "country": "Bosnia and Herzegovina"
+        },
+        "nationality": "Bosnia and Herzegovina",
+        "height": "183 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1855.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 8,
+            "minutes": 719,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 7,
+            "bench": 13
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 284,
+            "key": 4,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 69,
+            "won": 31
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 28,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 14,
+            "key": null,
+            "accuracy": 7
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 103,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 34,
+            "key": 1,
+            "accuracy": 15
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 19,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1857,
+        "name": "M. Parolo",
+        "firstname": "Marco",
+        "lastname": "Parolo",
+        "age": 36,
+        "birth": {
+          "date": "1985-01-25",
+          "place": "Gallarate",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "184 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1857.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 7,
+            "minutes": 646,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.770588",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 5,
+            "bench": 28
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 351,
+            "key": 4,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 6,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 94,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 134,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 118,
+            "key": null,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 12,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 245,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.960000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 5
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 104,
+            "key": 1,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 24,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30741,
+        "name": "Angelo Ndrecka",
+        "firstname": "Angelo",
+        "lastname": "Ndrecka",
+        "age": 21,
+        "birth": {
+          "date": "2001-09-24",
+          "place": "Desenzano del Garda",
+          "country": "Italy"
+        },
+        "nationality": "Albania",
+        "height": "174 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30741.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47366,
+        "name": "Jony",
+        "firstname": "Jonathan",
+        "lastname": "Rodr\u00edguez Men\u00e9ndez",
+        "age": 31,
+        "birth": {
+          "date": "1991-07-09",
+          "place": "Cangas de Narcea",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "179 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47366.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47430,
+        "name": "W. Hoedt",
+        "firstname": "Wesley Theodorus",
+        "lastname": "Hoedt",
+        "age": 28,
+        "birth": {
+          "date": "1994-03-06",
+          "place": "Alkmaar",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "188 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47430.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 10,
+            "minutes": 949,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.780000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 2,
+            "bench": 19
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 677,
+            "key": 3,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 5,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 75,
+            "won": 46
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 161,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 146,
+            "key": null,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 5,
+            "minutes": 482,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.914285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 307,
+            "key": null,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": null,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 46,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 67859,
+        "name": "A. Mohamed",
+        "firstname": "Abukar",
+        "lastname": "Mohamed",
+        "age": 22,
+        "birth": {
+          "date": "1999-01-01",
+          "place": "Mogadishu",
+          "country": "Somalia"
+        },
+        "nationality": "Finland",
+        "height": "186 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/67859.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 67966,
+        "name": "A. Cerbara",
+        "firstname": "Alessandro",
+        "lastname": "Cerbara",
+        "age": 20,
+        "birth": {
+          "date": "2001-03-03",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/67966.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 91487,
+        "name": "Mattia Novella",
+        "firstname": "Mattia",
+        "lastname": "Novella",
+        "age": 21,
+        "birth": {
+          "date": "2001-01-25",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/91487.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 145530,
+        "name": "Madiu Bari",
+        "firstname": "Madiu",
+        "lastname": "Bari",
+        "age": 23,
+        "birth": {
+          "date": "1998-03-09",
+          "place": "Bissau",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "178 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/145530.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 215851,
+        "name": "S. Czy\u017c",
+        "firstname": "Szymon",
+        "lastname": "Czy\u017c",
+        "age": 21,
+        "birth": {
+          "date": "2001-07-08",
+          "place": null,
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/215851.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 22,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": null,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 9,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288775,
+        "name": "D. Franco",
+        "firstname": "Damiano",
+        "lastname": "Franco",
+        "age": 20,
+        "birth": {
+          "date": "2002-02-22",
+          "place": "Roma",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "185 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288775.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288776,
+        "name": "M. Pica",
+        "firstname": "Marzio",
+        "lastname": "Pica",
+        "age": 19,
+        "birth": {
+          "date": "2002-02-04",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288776.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 295996,
+        "name": "E. Adeagbo",
+        "firstname": "Enzo Sandro S\u00e9djro",
+        "lastname": "Kou\u00eamah\u00f4 Adeagbo",
+        "age": 19,
+        "birth": {
+          "date": "2002-01-11",
+          "place": null,
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/295996.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 306566,
+        "name": "F. Shehu",
+        "firstname": "Florent",
+        "lastname": "Shehu",
+        "age": 19,
+        "birth": {
+          "date": "2002-05-17",
+          "place": null,
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/306566.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

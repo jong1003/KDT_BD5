@@ -1,0 +1,4135 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "529",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 127,
+        "name": "M. ter Stegen",
+        "firstname": "Marc-Andr\u00e9",
+        "lastname": "ter Stegen",
+        "age": 30,
+        "birth": {
+          "date": "1992-04-30",
+          "place": "M\u00f6nchengladbach",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/127.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2790,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.851612",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 32,
+            "assists": null,
+            "saves": 78
+          },
+          "passes": {
+            "total": 886,
+            "key": 1,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 10,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 420,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.875000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 5,
+            "assists": null,
+            "saves": 6
+          },
+          "passes": {
+            "total": 135,
+            "key": null,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 3
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.820000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 9,
+            "assists": null,
+            "saves": 16
+          },
+          "passes": {
+            "total": 112,
+            "key": null,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 129,
+        "name": "Chumi Brandariz",
+        "firstname": "Juan",
+        "lastname": "Brandariz Movilla",
+        "age": 23,
+        "birth": {
+          "date": "1999-03-02",
+          "place": "A Laracha",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "186 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/129.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 133,
+        "name": "C. Lenglet",
+        "firstname": "Cl\u00e9ment Nicolas Laurent",
+        "lastname": "Lenglet",
+        "age": 27,
+        "birth": {
+          "date": "1995-06-17",
+          "place": "Beauvais",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "186 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/133.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 29,
+            "minutes": 2478,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.833333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 4,
+            "bench": 6
+          },
+          "shots": {
+            "total": 10,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2299,
+            "key": 9,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 12,
+            "interceptions": 33
+          },
+          "duels": {
+            "total": 245,
+            "won": 134
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 50
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 2,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 4,
+            "minutes": 435,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.080000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 427,
+            "key": null,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 54,
+            "won": 41
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 7,
+            "minutes": 561,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.512500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 483,
+            "key": 1,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": null,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 44,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 73,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 136,
+        "name": "Piqu\u00e9",
+        "firstname": "Gerard",
+        "lastname": "Piqu\u00e9 Bernab\u00e9u",
+        "age": 35,
+        "birth": {
+          "date": "1987-02-02",
+          "place": "Barcelona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "194 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/136.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 18,
+            "minutes": 1485,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.983333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 2
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1239,
+            "key": 2,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 4,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 124,
+            "won": 84
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 202,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 160,
+            "key": null,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 16,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 236,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 201,
+            "key": 1,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 10,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 109,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 138,
+        "name": "J. Todibo",
+        "firstname": "Jean-Clair Dimitri Roger",
+        "lastname": "Todibo",
+        "age": 23,
+        "birth": {
+          "date": "1999-12-30",
+          "place": "Cayenne",
+          "country": "French Guiana"
+        },
+        "nationality": "France",
+        "height": "192 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/138.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 141,
+        "name": "M. Wagu\u00e9",
+        "firstname": "Moussa",
+        "lastname": "Wagu\u00e9",
+        "age": 23,
+        "birth": {
+          "date": "1998-10-04",
+          "place": "Bignona",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "177 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/141.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 154,
+        "name": "L. Messi",
+        "firstname": "Lionel Andr\u00e9s",
+        "lastname": "Messi Cuccittini",
+        "age": 35,
+        "birth": {
+          "date": "1987-06-24",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "170 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/154.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 33,
+            "minutes": 3022,
+            "number": null,
+            "position": "Attacker",
+            "rating": "8.342857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 141,
+            "on": 91
+          },
+          "goals": {
+            "total": 30,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 2246,
+            "key": 81,
+            "accuracy": 54
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 501,
+            "won": 286
+          },
+          "dribbles": {
+            "attempts": 247,
+            "success": 160,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 99,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 3,
+            "missed": 2,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 510,
+            "number": null,
+            "position": "Attacker",
+            "rating": "8.740000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 22,
+            "on": 17
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 366,
+            "key": 18,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 90,
+            "won": 60
+          },
+          "dribbles": {
+            "attempts": 43,
+            "success": 35,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Attacker",
+            "rating": "8.283333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 26,
+            "on": 20
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 433,
+            "key": 23,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 94,
+            "won": 45
+          },
+          "dribbles": {
+            "attempts": 44,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 4,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 109,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 155,
+        "name": "Abel Ruiz",
+        "firstname": "Abel",
+        "lastname": "Ruiz Ortega",
+        "age": 22,
+        "birth": {
+          "date": "2000-01-28",
+          "place": null,
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/155.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 912,
+        "name": "Neto",
+        "firstname": "Norberto",
+        "lastname": "Murara Neto",
+        "age": 33,
+        "birth": {
+          "date": "1989-07-19",
+          "place": "Arax\u00e1",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "190 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/912.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 630,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.942857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 28
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 6,
+            "assists": null,
+            "saves": 18
+          },
+          "passes": {
+            "total": 204,
+            "key": null,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 7
+          },
+          "passes": {
+            "total": 62,
+            "key": null,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 3
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.833333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 78,
+            "key": null,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 136,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 38735,
+        "name": "S. Dest",
+        "firstname": "Sergi\u00f1o Gianni",
+        "lastname": "Dest",
+        "age": 22,
+        "birth": {
+          "date": "2000-11-03",
+          "place": "Almere",
+          "country": "Netherlands"
+        },
+        "nationality": "USA",
+        "height": "175 cm",
+        "weight": "62 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/38735.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 23,
+            "minutes": 1918,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.730000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 14,
+            "bench": 12
+          },
+          "shots": {
+            "total": 10,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1115,
+            "key": 23,
+            "accuracy": 33
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": 4,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 170,
+            "won": 77
+          },
+          "dribbles": {
+            "attempts": 60,
+            "success": 29,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 200,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.533333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 154,
+            "key": 6,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 23,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 587,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.742857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 386,
+            "key": 6,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 62,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47530,
+        "name": "Sergio Akieme",
+        "firstname": "Sergio",
+        "lastname": "Akieme Rodr\u00edguez",
+        "age": 25,
+        "birth": {
+          "date": "1997-12-16",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47530.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 101814,
+        "name": "R. Araujo",
+        "firstname": "Ronald Federico",
+        "lastname": "Araujo da Silva",
+        "age": 23,
+        "birth": {
+          "date": "1999-03-07",
+          "place": "Rivera",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "188 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/101814.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 16,
+            "minutes": 1507,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.029166",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 5,
+            "bench": 14
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1065,
+            "key": 3,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 15,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 135,
+            "won": 99
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 338,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 298,
+            "key": null,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 4,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 45,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 148,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.633333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 90,
+            "key": null,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 11,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 134,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 104901,
+        "name": "Daniel Morer Cabrera",
+        "firstname": "Daniel",
+        "lastname": "Morer Cabrera",
+        "age": 24,
+        "birth": {
+          "date": "1998-02-05",
+          "place": "Matar\u00f3",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "169 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/104901.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 104941,
+        "name": "Monchu",
+        "firstname": "Ram\u00f3n",
+        "lastname": "Rodr\u00edguez Jim\u00e9nez",
+        "age": 23,
+        "birth": {
+          "date": "1999-09-13",
+          "place": "Palma de Mallorca",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "173 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/104941.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 129880,
+        "name": "Santiago Ramos Mingo",
+        "firstname": "Santiago",
+        "lastname": "Ramos Mingo",
+        "age": 21,
+        "birth": {
+          "date": "2001-11-21",
+          "place": "Teniente Berdina",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "186 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/129880.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 161929,
+        "name": "K. De La Fuente",
+        "firstname": "Konrad",
+        "lastname": "De La Fuente",
+        "age": 21,
+        "birth": {
+          "date": "2001-07-16",
+          "place": "Miami",
+          "country": "USA"
+        },
+        "nationality": "USA",
+        "height": "170 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/161929.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 18
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 19,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": null,
+            "accuracy": 1
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 17,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 10,
+            "key": 2,
+            "accuracy": 5
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 71,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162473,
+        "name": "Arnau Tenas",
+        "firstname": "Arnau",
+        "lastname": "Tenas Ure\u00f1a",
+        "age": 21,
+        "birth": {
+          "date": "2001-05-30",
+          "place": "Vic",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162473.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 24
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 2
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162474,
+        "name": "Alejandro Orellana G\u00f3mez",
+        "firstname": "Alejandro",
+        "lastname": "Orellana G\u00f3mez",
+        "age": 22,
+        "birth": {
+          "date": "2000-08-07",
+          "place": "Gav\u00e0",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "177 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162474.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 163436,
+        "name": "Kike Saverio",
+        "firstname": "Javier Enrique",
+        "lastname": "Delgado Saverio",
+        "age": 23,
+        "birth": {
+          "date": "1999-06-19",
+          "place": "Genova",
+          "country": "Italy"
+        },
+        "nationality": "Ecuador",
+        "height": "177 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/163436.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 207921,
+        "name": "Gustavo Maia",
+        "firstname": "Gustavo",
+        "lastname": "Maia da Silva",
+        "age": 21,
+        "birth": {
+          "date": "2001-01-22",
+          "place": "Bras\u00edlia",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "168 cm",
+        "weight": "61 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/207921.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2020"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

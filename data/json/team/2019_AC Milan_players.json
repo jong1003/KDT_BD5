@@ -1,0 +1,3469 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "489",
+    "season": "2019"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1622,
+        "name": "G. Donnarumma",
+        "firstname": "Gianluigi",
+        "lastname": "Donnarumma",
+        "age": 23,
+        "birth": {
+          "date": "1999-02-25",
+          "place": "Castellammare di Stabia",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "196 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1622.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 36,
+            "minutes": 3202,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 43,
+            "assists": null,
+            "saves": 101
+          },
+          "passes": {
+            "total": 707,
+            "key": 0,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 4
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 3,
+            "assists": null,
+            "saves": 12
+          },
+          "passes": {
+            "total": 50,
+            "key": 0,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 136,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1625,
+        "name": "Matteo Soncin",
+        "firstname": "Matteo",
+        "lastname": "Soncin",
+        "age": 21,
+        "birth": {
+          "date": "2001-03-28",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1625.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1626,
+        "name": "I. Abate",
+        "firstname": "Ignazio",
+        "lastname": "Abate",
+        "age": 35,
+        "birth": {
+          "date": "1986-11-12",
+          "place": "Sant'Agata de' Goti",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1626.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1630,
+        "name": "M. Musacchio",
+        "firstname": "Mateo Pablo",
+        "lastname": "Musacchio",
+        "age": 31,
+        "birth": {
+          "date": "1990-08-26",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1630.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 17,
+            "minutes": 1467,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.772222",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 5
+          },
+          "shots": {
+            "total": 5,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 890,
+            "key": 11,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 6,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 121,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1633,
+        "name": "I. Strini\u0107",
+        "firstname": "Ivan",
+        "lastname": "Strini\u0107",
+        "age": 32,
+        "birth": {
+          "date": "1987-07-17",
+          "place": "Split",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "186 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1633.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1634,
+        "name": "C. Zapata",
+        "firstname": "Cristian Eduardo",
+        "lastname": "Zapata Valencia",
+        "age": 36,
+        "birth": {
+          "date": "1986-09-30",
+          "place": "Padilla",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "187 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1634.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1636,
+        "name": "A. Bertolacci",
+        "firstname": "Andrea",
+        "lastname": "Bertolacci",
+        "age": 31,
+        "birth": {
+          "date": "1991-01-11",
+          "place": "Roma",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "179 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1636.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1637,
+        "name": "L. Biglia",
+        "firstname": "Lucas Rodrigo",
+        "lastname": "Biglia",
+        "age": 36,
+        "birth": {
+          "date": "1986-01-30",
+          "place": "Mercedes",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "178 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1637.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 8,
+            "minutes": 683,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 4,
+            "bench": 21
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 386,
+            "key": 6,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 134,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1643,
+        "name": "D. Laxalt",
+        "firstname": "Diego Sebasti\u00e1n",
+        "lastname": "Laxalt Su\u00e1rez",
+        "age": 29,
+        "birth": {
+          "date": "1993-02-07",
+          "place": "Montevideo",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "178 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1643.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 169,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 16
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 77,
+            "key": 1,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 20,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 77,
+            "key": 1,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 20,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 18,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.350000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 4,
+            "key": 0,
+            "accuracy": 58
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 5,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1646,
+        "name": "Lucas Paquet\u00e1",
+        "firstname": "Lucas",
+        "lastname": "Tolentino Coelho de Lima",
+        "age": 25,
+        "birth": {
+          "date": "1997-08-27",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1646.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 12,
+            "minutes": 1101,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.660869",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 10,
+            "bench": 21
+          },
+          "shots": {
+            "total": 33,
+            "on": 12
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 430,
+            "key": 18,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 58,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 100,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 27,
+            "key": 1,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 24,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 86,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1648,
+        "name": "F. Borini",
+        "firstname": "Fabio",
+        "lastname": "Borini",
+        "age": 31,
+        "birth": {
+          "date": "1991-03-29",
+          "place": "Bentivoglio",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1648.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 70,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.821428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 13
+          },
+          "shots": {
+            "total": 39,
+            "on": 15
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 167,
+            "key": 7,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 51,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 116,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1650,
+        "name": "Suso",
+        "firstname": "Jes\u00fas Joaqu\u00edn",
+        "lastname": "Fern\u00e1ndez S\u00e1ez de la Torre",
+        "age": 29,
+        "birth": {
+          "date": "1993-11-19",
+          "place": "C\u00e1diz",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "177 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1650.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 15,
+            "minutes": 1361,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.231250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 5
+          },
+          "shots": {
+            "total": 31,
+            "on": 12
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 538,
+            "key": 41,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 0,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 26,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": 2,
+            "accuracy": 58
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 136,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1652,
+        "name": "F. Tsadjout",
+        "firstname": "Franck C\u00e9dric",
+        "lastname": "Tsadjout",
+        "age": 23,
+        "birth": {
+          "date": "1999-07-28",
+          "place": "Perugia",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "190 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1652.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2115,
+        "name": "A. Halilovi\u0107",
+        "firstname": "Alen",
+        "lastname": "Halilovi\u0107",
+        "age": 26,
+        "birth": {
+          "date": "1996-06-18",
+          "place": "Dubrovnik",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "169 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2115.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10160,
+        "name": "L\u00e9o Duarte",
+        "firstname": "Leonardo",
+        "lastname": "Duarte da Silva",
+        "age": 26,
+        "birth": {
+          "date": "1996-07-17",
+          "place": "Mococa",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "183 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10160.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 4,
+            "minutes": 403,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 11
+          },
+          "shots": {
+            "total": 3,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 171,
+            "key": 0,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 6,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 13,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31388,
+        "name": "G. Felicioli",
+        "firstname": "Gian Filippo",
+        "lastname": "Felicioli",
+        "age": 25,
+        "birth": {
+          "date": "1997-09-30",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "182 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31388.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 32035,
+        "name": "Andres Llamas Acuna",
+        "firstname": "Andres",
+        "lastname": "Llamas Acuna",
+        "age": 23,
+        "birth": {
+          "date": "1998-05-07",
+          "place": "Milano",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "185 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/32035.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 32049,
+        "name": "Riccardo Forte",
+        "firstname": "Riccardo",
+        "lastname": "Forte",
+        "age": 22,
+        "birth": {
+          "date": "1999-05-17",
+          "place": "Trieste",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/32049.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 106830,
+        "name": "Alexandro Cavagnera",
+        "firstname": "Alexandro",
+        "lastname": "Cavagnera",
+        "age": 24,
+        "birth": {
+          "date": "1998-12-01",
+          "place": null,
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/106830.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 134923,
+        "name": "Antonio Mioni\u0107",
+        "firstname": "Antonio",
+        "lastname": "Mioni\u0107",
+        "age": 21,
+        "birth": {
+          "date": "2001-05-31",
+          "place": "Pula",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "175 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/134923.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

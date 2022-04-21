@@ -1,0 +1,4061 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "498",
+    "season": "2017"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1633,
+        "name": "I. Strini\u0107",
+        "firstname": "Ivan",
+        "lastname": "Strini\u0107",
+        "age": 32,
+        "birth": {
+          "date": "1987-07-17",
+          "place": "Split",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "186 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1633.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 16,
+            "minutes": 1254,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.635294",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 6,
+            "bench": 16
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 563,
+            "key": 4,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 127,
+            "won": 68
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 87,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 46,
+            "key": 0,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3013,
+        "name": "D. Kownacki",
+        "firstname": "Dawid Igor",
+        "lastname": "Kownacki",
+        "age": 25,
+        "birth": {
+          "date": "1997-03-14",
+          "place": "Gorz\u00f3w Wielkopolski",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "186 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3013.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 6,
+            "minutes": 808,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.860000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 3,
+            "bench": 30
+          },
+          "shots": {
+            "total": 21,
+            "on": 11
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 184,
+            "key": 8,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 128,
+            "won": 60
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 111,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 4,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3449,
+        "name": "Jo\u00e3o Cl\u00e1udio Gomes Ricciulli",
+        "firstname": "Jo\u00e3o Cl\u00e1udio",
+        "lastname": "Gomes Ricciulli",
+        "age": 21,
+        "birth": {
+          "date": "1999-10-10",
+          "place": "Bissau",
+          "country": "Guinea-Bissau"
+        },
+        "nationality": "Guinea-Bissau",
+        "height": "182 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3449.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30452,
+        "name": "\u00c9. Barreto",
+        "firstname": "\u00c9dgar Osvaldo",
+        "lastname": "Barreto C\u00e1ceres",
+        "age": 38,
+        "birth": {
+          "date": "1984-07-15",
+          "place": "Asunci\u00f3n",
+          "country": "Paraguay"
+        },
+        "nationality": "Paraguay",
+        "height": "180 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30452.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 24,
+            "minutes": 1971,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.557142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 10,
+            "bench": 9
+          },
+          "shots": {
+            "total": 21,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 847,
+            "key": 19,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 0,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 275,
+            "won": 130
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 39,
+            "key": 1,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 7,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 75,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30457,
+        "name": "Ognjen Stijepovi\u0107",
+        "firstname": "Ognjen",
+        "lastname": "Stijepovi\u0107",
+        "age": 23,
+        "birth": {
+          "date": "1999-10-22",
+          "place": null,
+          "country": "Montenegro"
+        },
+        "nationality": "Montenegro",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30457.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 5,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30552,
+        "name": "M. Leverbe",
+        "firstname": "Maxime Jean Roberto",
+        "lastname": "Leverbe",
+        "age": 25,
+        "birth": {
+          "date": "1997-02-15",
+          "place": "Villepinte",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "188 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30552.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30612,
+        "name": "Christian Puggioni",
+        "firstname": "Christian",
+        "lastname": "Puggioni",
+        "age": 40,
+        "birth": {
+          "date": "1981-01-17",
+          "place": "Genova",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "187 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30612.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 810,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.378571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 13
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 32,
+            "assists": null,
+            "saves": 39
+          },
+          "passes": {
+            "total": 273,
+            "key": 0,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 6,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 3,
+            "assists": null,
+            "saves": 2
+          },
+          "passes": {
+            "total": 22,
+            "key": 0,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 86,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30860,
+        "name": "V. Regini",
+        "firstname": "Vasco",
+        "lastname": "Regini",
+        "age": 32,
+        "birth": {
+          "date": "1990-09-09",
+          "place": "Cesena",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "185 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30860.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 10,
+            "minutes": 1074,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 28
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 538,
+            "key": 3,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 2,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 82,
+            "won": 45
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "5.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 44,
+            "key": 0,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 6,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30916,
+        "name": "Andrea Tozzo",
+        "firstname": "Andrea",
+        "lastname": "Tozzo",
+        "age": 30,
+        "birth": {
+          "date": "1992-08-30",
+          "place": "Riva del Garda",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "192 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30916.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 37
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 4,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31049,
+        "name": "Mat\u00edas Agust\u00edn Silvestre",
+        "firstname": "Mat\u00edas Agust\u00edn",
+        "lastname": "Silvestre",
+        "age": 38,
+        "birth": {
+          "date": "1984-09-25",
+          "place": "Mercedes",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "187 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31049.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 34,
+            "minutes": 3060,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.808823",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 17,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1985,
+            "key": 1,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 8,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 157,
+            "won": 86
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 261,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 61,
+            "key": 0,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 2,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31053,
+        "name": "L. Capezzi",
+        "firstname": "Leonardo",
+        "lastname": "Capezzi",
+        "age": 27,
+        "birth": {
+          "date": "1995-03-28",
+          "place": "Sangiovanni",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "178 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31053.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 2,
+            "minutes": 211,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 34
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 109,
+            "key": 10,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 17,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 136,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 17,
+            "key": 0,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 4,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 35842,
+        "name": "R. \u00c1lvarez",
+        "firstname": "Ricardo Gabriel",
+        "lastname": "\u00c1lvarez",
+        "age": 33,
+        "birth": {
+          "date": "1988-04-12",
+          "place": "Buenos Aires",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "188 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/35842.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 2,
+            "minutes": 257,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.536363",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 2,
+            "bench": 31
+          },
+          "shots": {
+            "total": 10,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 126,
+            "key": 6,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 47,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 162,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 23,
+            "key": 1,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 5,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 24,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 56682,
+        "name": "D\u00e1vid Ivan",
+        "firstname": "D\u00e1vid",
+        "lastname": "Ivan",
+        "age": 27,
+        "birth": {
+          "date": "1995-02-26",
+          "place": "Bratislava",
+          "country": "Slovakia"
+        },
+        "nationality": "Slovakia",
+        "height": "175 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/56682.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 56685,
+        "name": "Andrea Tessiore",
+        "firstname": "Andrea",
+        "lastname": "Tessiore",
+        "age": 23,
+        "birth": {
+          "date": "1999-10-01",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "177 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/56685.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 56686,
+        "name": "Ibourhima Bald\u00e9 Bald\u00e9",
+        "firstname": "Ibourhima",
+        "lastname": "Bald\u00e9 Bald\u00e9",
+        "age": 23,
+        "birth": {
+          "date": "1999-03-23",
+          "place": "Arb\u00facies",
+          "country": "Spain"
+        },
+        "nationality": "Senegal",
+        "height": "179 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/56686.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 61243,
+        "name": "Michal Tomi\u010d",
+        "firstname": "Michal",
+        "lastname": "Tomi\u010d",
+        "age": 23,
+        "birth": {
+          "date": "1999-03-30",
+          "place": "Myjava",
+          "country": "Slovakia"
+        },
+        "nationality": "Slovakia",
+        "height": "176 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/61243.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 68419,
+        "name": "Daniel Pavlovi\u0107",
+        "firstname": "Daniel",
+        "lastname": "Pavlovi\u0107",
+        "age": 34,
+        "birth": {
+          "date": "1988-04-22",
+          "place": "Rorschach",
+          "country": "Switzerland"
+        },
+        "nationality": "Bosnia and Herzegovina",
+        "height": "183 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/68419.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.430000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 166,
+            "key": 10,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 41,
+            "won": 19
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2017"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 66,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 91379,
+        "name": "Stanley Amuzie",
+        "firstname": "Stanley",
+        "lastname": "Amuzie",
+        "age": 26,
+        "birth": {
+          "date": "1996-02-28",
+          "place": "Lagos",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "186 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/91379.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 91398,
+        "name": "Angelo Palombo",
+        "firstname": "Angelo",
+        "lastname": "Palombo",
+        "age": 36,
+        "birth": {
+          "date": "1981-09-25",
+          "place": "Ferentino",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "177 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/91398.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 91435,
+        "name": "Emanuel Ercolano",
+        "firstname": "Emanuel",
+        "lastname": "Ercolano",
+        "age": 20,
+        "birth": {
+          "date": "2002-10-15",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/91435.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 137,
+            "name": "Coppa Italia",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/137.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

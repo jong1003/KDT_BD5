@@ -1,0 +1,4135 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "90",
+    "season": "2017"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1273,
+        "name": "J. Briand",
+        "firstname": "Jimmy",
+        "lastname": "Briand",
+        "age": 37,
+        "birth": {
+          "date": "1985-08-02",
+          "place": "Vitry sur Seine",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1273.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 36,
+            "minutes": 3212,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.867567",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 4,
+            "bench": 1
+          },
+          "shots": {
+            "total": 74,
+            "on": 26
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 731,
+            "key": 28,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 481,
+            "won": 214
+          },
+          "dribbles": {
+            "attempts": 43,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 95,
+            "committed": 48
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": 1,
+            "scored": 3,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 20,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 106,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2208,
+        "name": "C. Grenier",
+        "firstname": "Cl\u00e9ment",
+        "lastname": "Grenier",
+        "age": 31,
+        "birth": {
+          "date": "1991-01-07",
+          "place": "Annonay",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "186 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2208.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 14,
+            "minutes": 1211,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.066666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 4,
+            "bench": 1
+          },
+          "shots": {
+            "total": 27,
+            "on": 10
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 499,
+            "key": 35,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 176,
+            "won": 77
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 22,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20626,
+        "name": "J. Martins-Pereira",
+        "firstname": "Jonathan",
+        "lastname": "Martins-Pereira",
+        "age": 35,
+        "birth": {
+          "date": "1986-01-30",
+          "place": "Bayonne",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "182 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20626.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 14,
+            "minutes": 1137,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.978571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 6
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 456,
+            "key": 16,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 37
+          },
+          "duels": {
+            "total": 133,
+            "won": 80
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21483,
+        "name": "M. Caillard",
+        "firstname": "Marc-Aur\u00e8le",
+        "lastname": "Caillard",
+        "age": 28,
+        "birth": {
+          "date": "1994-05-12",
+          "place": "Melun",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "191 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21483.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 32
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21484,
+        "name": "D. Petri\u0107",
+        "firstname": "Denis",
+        "lastname": "Petri\u0107",
+        "age": 34,
+        "birth": {
+          "date": "1988-05-24",
+          "place": "Ljubljana",
+          "country": "Slovenia"
+        },
+        "nationality": "Slovenia",
+        "height": "186 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21484.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 46,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21486,
+        "name": "Pedro Rebocho",
+        "firstname": "Pedro Miguel",
+        "lastname": "Braga Rebocho",
+        "age": 27,
+        "birth": {
+          "date": "1995-01-23",
+          "place": "\u00c9vora",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "174 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21486.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 19,
+            "minutes": 1722,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.823809",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 12
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 624,
+            "key": 19,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 141,
+            "won": 71
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21489,
+        "name": "Jordan Ikoko",
+        "firstname": "Jordan",
+        "lastname": "Ikoko",
+        "age": 28,
+        "birth": {
+          "date": "1994-02-03",
+          "place": "Montereau",
+          "country": "France"
+        },
+        "nationality": "Congo DR",
+        "height": "177 cm",
+        "weight": "60 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21489.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 26,
+            "minutes": 2419,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.753571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 10,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 820,
+            "key": 20,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 0,
+            "interceptions": 49
+          },
+          "duels": {
+            "total": 205,
+            "won": 105
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21490,
+        "name": "Christophe Kerbrat",
+        "firstname": "Christophe",
+        "lastname": "Kerbrat",
+        "age": 36,
+        "birth": {
+          "date": "1986-08-02",
+          "place": "Brest",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21490.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 37,
+            "minutes": 3321,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.967567",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1359,
+            "key": 4,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 8,
+            "interceptions": 64
+          },
+          "duels": {
+            "total": 231,
+            "won": 130
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 153,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21493,
+        "name": "J. Sorbon",
+        "firstname": "J\u00e9r\u00e9my",
+        "lastname": "Sorbon",
+        "age": 38,
+        "birth": {
+          "date": "1983-08-05",
+          "place": "Caen",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21493.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 29,
+            "minutes": 2610,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.872413",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 953,
+            "key": 5,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 11,
+            "interceptions": 53
+          },
+          "duels": {
+            "total": 154,
+            "won": 87
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 117,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21494,
+        "name": "F. Tabanou",
+        "firstname": "Franck",
+        "lastname": "Tabanou",
+        "age": 32,
+        "birth": {
+          "date": "1989-01-30",
+          "place": "Thiais",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21494.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 12,
+            "minutes": 1047,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.707142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 7
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 335,
+            "key": 9,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 135,
+            "won": 68
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21496,
+        "name": "N. Benezet",
+        "firstname": "Nicolas",
+        "lastname": "Benezet",
+        "age": 30,
+        "birth": {
+          "date": "1991-02-24",
+          "place": "Montpellier",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "170 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21496.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 18,
+            "minutes": 1651,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.931034",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 14,
+            "bench": 17
+          },
+          "shots": {
+            "total": 28,
+            "on": 11
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 679,
+            "key": 36,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 1,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 293,
+            "won": 143
+          },
+          "dribbles": {
+            "attempts": 72,
+            "success": 45,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 41,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 59,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21497,
+        "name": "L. Blas",
+        "firstname": "Ludovic",
+        "lastname": "Blas",
+        "age": 25,
+        "birth": {
+          "date": "1997-12-31",
+          "place": "Colombes",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21497.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 17,
+            "minutes": 1781,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.651612",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 3,
+            "bench": 17
+          },
+          "shots": {
+            "total": 39,
+            "on": 14
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 822,
+            "key": 18,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 0,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 263,
+            "won": 116
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 41,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 87,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21498,
+        "name": "M. Coco",
+        "firstname": "Marcus",
+        "lastname": "Coco",
+        "age": 26,
+        "birth": {
+          "date": "1996-06-24",
+          "place": "Les abymes",
+          "country": "Guadeloupe"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21498.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 17,
+            "minutes": 1588,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.578571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 12,
+            "bench": 15
+          },
+          "shots": {
+            "total": 28,
+            "on": 10
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 436,
+            "key": 18,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 309,
+            "won": 125
+          },
+          "dribbles": {
+            "attempts": 47,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 44
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 157,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21500,
+        "name": "\u00c9. Didot",
+        "firstname": "\u00c9tienne",
+        "lastname": "Didot",
+        "age": 38,
+        "birth": {
+          "date": "1983-07-24",
+          "place": "Paimpol",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21500.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 21,
+            "minutes": 1635,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.843478",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 16,
+            "bench": 8
+          },
+          "shots": {
+            "total": 13,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 802,
+            "key": 14,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 3,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 188,
+            "won": 98
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26944,
+        "name": "Brou Benjamin Angoua",
+        "firstname": "Brou Benjamin",
+        "lastname": "Angoua",
+        "age": 36,
+        "birth": {
+          "date": "1986-11-28",
+          "place": "Anyama",
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "183 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26944.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 61922,
+        "name": "Sloan Privat",
+        "firstname": "Sloan",
+        "lastname": "Privat",
+        "age": 32,
+        "birth": {
+          "date": "1989-12-24",
+          "place": "Cayenne",
+          "country": "French Guiana"
+        },
+        "nationality": "French Guiana",
+        "height": "186 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/61922.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 83060,
+        "name": "Abdoul Razzagui Camara",
+        "firstname": "Abdoul Razzagui",
+        "lastname": "Camara",
+        "age": 28,
+        "birth": {
+          "date": "1990-02-20",
+          "place": "Mamou",
+          "country": "Guinea"
+        },
+        "nationality": "Guinea",
+        "height": "178 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/83060.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 12,
+            "minutes": 896,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 10,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 69,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85045,
+        "name": "Sullivan Martinet",
+        "firstname": "Sullivan",
+        "lastname": "Martinet",
+        "age": 26,
+        "birth": {
+          "date": "1996-07-01",
+          "place": "Saint-Brieuc",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "174 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85045.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85684,
+        "name": "Karim Achahbar",
+        "firstname": "Karim",
+        "lastname": "Achahbar",
+        "age": 26,
+        "birth": {
+          "date": "1996-01-03",
+          "place": "Guingamp",
+          "country": "France"
+        },
+        "nationality": "Morocco",
+        "height": "183 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85684.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 21,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85685,
+        "name": "Thibault Giresse",
+        "firstname": "Thibault",
+        "lastname": "Giresse",
+        "age": 37,
+        "birth": {
+          "date": "1981-05-25",
+          "place": "Talence",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "172 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85685.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 20,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 21
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

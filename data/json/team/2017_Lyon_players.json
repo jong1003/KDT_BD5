@@ -1,0 +1,5023 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "80",
+    "season": "2017"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 120,
+        "name": "W. Geubbels",
+        "firstname": "Willem",
+        "lastname": "Geubbels",
+        "age": 21,
+        "birth": {
+          "date": "2001-08-16",
+          "place": "Villeurbanne",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/120.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 31,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": 0,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 4,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 11,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 45,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 10,
+            "key": 0,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 5,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 647,
+        "name": "Anthony Lopes",
+        "firstname": "Anthony",
+        "lastname": "Lopes",
+        "age": 32,
+        "birth": {
+          "date": "1990-10-01",
+          "place": "Givors",
+          "country": "France"
+        },
+        "nationality": "Portugal",
+        "height": "184 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/647.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 34,
+            "minutes": 3060,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.976470",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 37,
+            "assists": null,
+            "saves": 106
+          },
+          "passes": {
+            "total": 666,
+            "key": 0,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 2
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 10,
+            "minutes": 900,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.980000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 8,
+            "assists": null,
+            "saves": 28
+          },
+          "passes": {
+            "total": 169,
+            "key": 1,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 6,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 648,
+        "name": "A. Racioppi",
+        "firstname": "Anthony",
+        "lastname": "Racioppi",
+        "age": 24,
+        "birth": {
+          "date": "1998-12-31",
+          "place": "Gen\u00e8ve",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "186 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/648.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 651,
+        "name": "Marcelo",
+        "firstname": "Marcelo Ant\u00f4nio",
+        "lastname": "Guedes Filho",
+        "age": 35,
+        "birth": {
+          "date": "1987-05-25",
+          "place": "S\u00e3o Vicente",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "191 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/651.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3107,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.182857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 22,
+            "on": 10
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1955,
+            "key": 6,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 6,
+            "interceptions": 55
+          },
+          "duels": {
+            "total": 278,
+            "won": 180
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 32
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 10,
+            "minutes": 900,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 505,
+            "key": 3,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 66,
+            "won": 47
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 653,
+        "name": "F. Mendy",
+        "firstname": "Ferland",
+        "lastname": "Mendy",
+        "age": 27,
+        "birth": {
+          "date": "1995-06-08",
+          "place": "Meulan-En-Yvelines",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/653.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 24,
+            "minutes": 2122,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.973076",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 3,
+            "bench": 8
+          },
+          "shots": {
+            "total": 18,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 1129,
+            "key": 28,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 2,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 289,
+            "won": 176
+          },
+          "dribbles": {
+            "attempts": 70,
+            "success": 48,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 46,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": 3,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 4,
+            "minutes": 386,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 3,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 230,
+            "key": 2,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 57,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 654,
+        "name": "J. Morel",
+        "firstname": "J\u00e9r\u00e9my",
+        "lastname": "Morel",
+        "age": 38,
+        "birth": {
+          "date": "1984-04-02",
+          "place": "Lorient",
+          "country": "France"
+        },
+        "nationality": "Madagascar",
+        "height": "172 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/654.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 32,
+            "minutes": 2915,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.966666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1782,
+            "key": 2,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 5,
+            "interceptions": 46
+          },
+          "duels": {
+            "total": 192,
+            "won": 122
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 2,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 134,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 496,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.133333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 203,
+            "key": 2,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 41,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 656,
+        "name": "O. Solet",
+        "firstname": "Oumar Micka\u00ebl",
+        "lastname": "Solet Bomawoko",
+        "age": 22,
+        "birth": {
+          "date": "2000-02-07",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "192 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/656.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 658,
+        "name": "H. Aouar",
+        "firstname": "Houssem",
+        "lastname": "Aouar",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-30",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/658.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 27,
+            "minutes": 2436,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.163333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 9,
+            "bench": 9
+          },
+          "shots": {
+            "total": 50,
+            "on": 18
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 1328,
+            "key": 39,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 0,
+            "interceptions": 39
+          },
+          "duels": {
+            "total": 397,
+            "won": 217
+          },
+          "dribbles": {
+            "attempts": 114,
+            "success": 82,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 46,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 4,
+            "minutes": 460,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.025000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 6
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 203,
+            "key": 11,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 88,
+            "won": 42
+          },
+          "dribbles": {
+            "attempts": 31,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 660,
+        "name": "P. Diop",
+        "firstname": "Pape Cheikh",
+        "lastname": "Diop Gueye",
+        "age": 25,
+        "birth": {
+          "date": "1997-08-08",
+          "place": "Dakar",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "180 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/660.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 9,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 63,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 662,
+        "name": "T. Ndomb\u00e8l\u00e9",
+        "firstname": "Tanguy",
+        "lastname": "Ndomb\u00e8l\u00e9 Alvaro",
+        "age": 26,
+        "birth": {
+          "date": "1996-12-28",
+          "place": "Longjumeau",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/662.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 28,
+            "minutes": 2364,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.166666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 16,
+            "bench": 5
+          },
+          "shots": {
+            "total": 5,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 86,
+            "key": 4,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 47,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 129,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 79,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 8,
+            "minutes": 707,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.355555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 405,
+            "key": 12,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 125,
+            "won": 73
+          },
+          "dribbles": {
+            "attempts": 37,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 667,
+        "name": "M. Depay",
+        "firstname": "Memphis",
+        "lastname": "Depay",
+        "age": 28,
+        "birth": {
+          "date": "1994-02-13",
+          "place": "Moordrecht",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "176 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/667.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 28,
+            "minutes": 2561,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.475000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 14,
+            "bench": 9
+          },
+          "shots": {
+            "total": 106,
+            "on": 46
+          },
+          "goals": {
+            "total": 19,
+            "conceded": null,
+            "assists": 13,
+            "saves": null
+          },
+          "passes": {
+            "total": 890,
+            "key": 78,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 332,
+            "won": 130
+          },
+          "dribbles": {
+            "attempts": 109,
+            "success": 59,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 50,
+            "committed": 37
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 70,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 335,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 8,
+            "minutes": 688,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.130000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 5,
+            "bench": 2
+          },
+          "shots": {
+            "total": 18,
+            "on": 10
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 233,
+            "key": 15,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 87,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 668,
+        "name": "N. Fekir",
+        "firstname": "Nabil",
+        "lastname": "Fekir",
+        "age": 29,
+        "birth": {
+          "date": "1993-07-18",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "173 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/668.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 28,
+            "minutes": 2480,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.656666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 6,
+            "bench": 3
+          },
+          "shots": {
+            "total": 89,
+            "on": 48
+          },
+          "goals": {
+            "total": 18,
+            "conceded": null,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 971,
+            "key": 59,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 0,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 491,
+            "won": 259
+          },
+          "dribbles": {
+            "attempts": 119,
+            "success": 90,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 105,
+            "committed": 72
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 3,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 660,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.625000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 20,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 298,
+            "key": 18,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 122,
+            "won": 74
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 760,
+        "name": "M. D\u00edaz",
+        "firstname": "Mariano",
+        "lastname": "D\u00edaz Mej\u00eda",
+        "age": 29,
+        "birth": {
+          "date": "1993-08-01",
+          "place": "Barcelona",
+          "country": "Spain"
+        },
+        "nationality": "Dominican Republic",
+        "height": "180 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/760.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 30,
+            "minutes": 2516,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.073529",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 14,
+            "bench": 4
+          },
+          "shots": {
+            "total": 99,
+            "on": 42
+          },
+          "goals": {
+            "total": 18,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 340,
+            "key": 29,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 293,
+            "won": 99
+          },
+          "dribbles": {
+            "attempts": 54,
+            "success": 29,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 34
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 86,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 8,
+            "minutes": 684,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.955555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 5,
+            "bench": 1
+          },
+          "shots": {
+            "total": 31,
+            "on": 18
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 96,
+            "key": 5,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 82,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 28,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 916,
+        "name": "M. Diakhaby",
+        "firstname": "Mouctar",
+        "lastname": "Diakhaby",
+        "age": 26,
+        "birth": {
+          "date": "1996-12-19",
+          "place": "Vend\u00f4me",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "189 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/916.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 8,
+            "minutes": 725,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.833333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 25
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 369,
+            "key": 0,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 69,
+            "won": 45
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 226,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.160000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 262,
+            "key": 2,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 46,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21010,
+        "name": "E. Owusu",
+        "firstname": "Elisha",
+        "lastname": "Owusu",
+        "age": 25,
+        "birth": {
+          "date": "1997-11-07",
+          "place": "Montreuil",
+          "country": "France"
+        },
+        "nationality": "Ghana",
+        "height": "182 cm",
+        "weight": "62 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21010.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21439,
+        "name": "J. Ferri",
+        "firstname": "Jordan",
+        "lastname": "Ferri",
+        "age": 30,
+        "birth": {
+          "date": "1992-03-12",
+          "place": "Cavaillon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "172 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21439.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 4,
+            "minutes": 623,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.660869",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 20,
+            "out": 2,
+            "bench": 31
+          },
+          "shots": {
+            "total": 7,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 474,
+            "key": 8,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 92,
+            "won": 47
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 241,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 3,
+            "minutes": 286,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 6
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 191,
+            "key": 6,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 35,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85041,
+        "name": "A. Gouiri",
+        "firstname": "Amine Ferid",
+        "lastname": "Gouiri",
+        "age": 22,
+        "birth": {
+          "date": "2000-02-16",
+          "place": "Bourgoin-Jallieu",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85041.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 0,
+            "minutes": 76,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 0,
+            "bench": 12
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 20,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 71,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 15,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 87259,
+        "name": "M. Yanga-Mbiwa",
+        "firstname": "Mapou",
+        "lastname": "Yanga-Mbiwa",
+        "age": 31,
+        "birth": {
+          "date": "1989-05-15",
+          "place": "Bangui",
+          "country": "Central African Republic"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/87259.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 127,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 95,
+            "key": 0,
+            "accuracy": 93
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 7,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 87332,
+        "name": "D. Grange",
+        "firstname": "Dorian",
+        "lastname": "Grange",
+        "age": 25,
+        "birth": {
+          "date": "1996-05-10",
+          "place": "Pierre-B\u00e9nite",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/87332.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 87658,
+        "name": "Dylan Mboumbouni",
+        "firstname": "Dylan",
+        "lastname": "Mboumbouni",
+        "age": 26,
+        "birth": {
+          "date": "1996-02-20",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "Central African Republic",
+        "height": "182 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/87658.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 80,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/football/teams/80.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

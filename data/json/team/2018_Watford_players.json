@@ -1,0 +1,4209 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "38",
+    "season": "2018"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 18789,
+        "name": "Gomes",
+        "firstname": "Heurelho",
+        "lastname": "da Silva Gomes",
+        "age": 40,
+        "birth": {
+          "date": "1981-02-15",
+          "place": "Jo\u00e3o Pinheiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "191 cm",
+        "weight": "91 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18789.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 38
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "5.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 0
+          },
+          "passes": {
+            "total": 20,
+            "key": 0,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 570,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 9,
+            "assists": null,
+            "saves": 16
+          },
+          "passes": {
+            "total": 88,
+            "key": 0,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 12,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18790,
+        "name": "Pontus Jacob Ragne Dahlberg",
+        "firstname": "Pontus Jacob Ragne",
+        "lastname": "Dahlberg",
+        "age": 23,
+        "birth": {
+          "date": "1999-01-21",
+          "place": "\u00c4lv\u00e4ngen",
+          "country": "Sweden"
+        },
+        "nationality": "Sweden",
+        "height": "194 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18790.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18791,
+        "name": "B. Foster",
+        "firstname": "Ben",
+        "lastname": "Foster",
+        "age": 39,
+        "birth": {
+          "date": "1983-04-03",
+          "place": "Leamington Spa",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "193 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18791.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 38,
+            "minutes": 3420,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.755263",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 59,
+            "assists": null,
+            "saves": 127
+          },
+          "passes": {
+            "total": 517,
+            "key": 6,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 30,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18792,
+        "name": "M. Britos",
+        "firstname": "Miguel \u00c1ngel",
+        "lastname": "Britos Cabrera",
+        "age": 36,
+        "birth": {
+          "date": "1985-07-17",
+          "place": "Montevideo",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "188 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18792.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 185,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.266666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 10
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 47,
+            "key": 0,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 20,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.233333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 116,
+            "key": 1,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 36,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18795,
+        "name": "Jos\u00e9 Holebas",
+        "firstname": "Jos\u00e9",
+        "lastname": "Holebas",
+        "age": 37,
+        "birth": {
+          "date": "1984-06-27",
+          "place": "Aschaffenburg",
+          "country": "Germany"
+        },
+        "nationality": "Greece",
+        "height": "184 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18795.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 27,
+            "minutes": 2394,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.935714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 17,
+            "on": 5
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 570,
+            "key": 38,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 69,
+            "blocks": 8,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 309,
+            "won": 164
+          },
+          "dribbles": {
+            "attempts": 44,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 34
+          },
+          "cards": {
+            "yellow": 12,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 324,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.650000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 96,
+            "key": 5,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 25,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18796,
+        "name": "Daryl Janmaat",
+        "firstname": "Daryl",
+        "lastname": "Janmaat",
+        "age": 33,
+        "birth": {
+          "date": "1989-07-22",
+          "place": "Leidschendam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "185 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18796.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 17,
+            "minutes": 1521,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.933333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 5
+          },
+          "shots": {
+            "total": 11,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 454,
+            "key": 13,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 6,
+            "interceptions": 32
+          },
+          "duels": {
+            "total": 127,
+            "won": 71
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 282,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.075000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 94,
+            "key": 2,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 24,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18798,
+        "name": "A. Mariappa",
+        "firstname": "Adrian Joseph",
+        "lastname": "Mariappa",
+        "age": 36,
+        "birth": {
+          "date": "1986-10-03",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "Jamaica",
+        "height": "180 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18798.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 20,
+            "minutes": 1921,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.682608",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 0,
+            "bench": 16
+          },
+          "shots": {
+            "total": 7,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 725,
+            "key": 5,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 35,
+            "blocks": 15,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 195,
+            "won": 99
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 27,
+            "key": 2,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 316,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.325000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 94,
+            "key": 0,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 3,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 33,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18800,
+        "name": "Marc Navarro",
+        "firstname": "Marc",
+        "lastname": "Navarro Ceciliano",
+        "age": 26,
+        "birth": {
+          "date": "1995-07-02",
+          "place": "Barcelona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "188 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18800.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 84,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 6
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 19,
+            "key": 0,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 9,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 167,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": 0,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 5,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 10,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": 0,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18801,
+        "name": "S. Pr\u00f6dl",
+        "firstname": "Sebastian",
+        "lastname": "Pr\u00f6dl",
+        "age": 34,
+        "birth": {
+          "date": "1987-06-21",
+          "place": "Graz",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "194 cm",
+        "weight": "92 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18801.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 13,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 3,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18802,
+        "name": "E. Capoue",
+        "firstname": "Etienne",
+        "lastname": "Capoue",
+        "age": 34,
+        "birth": {
+          "date": "1988-07-11",
+          "place": "Niort",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "189 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18802.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2947,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.048484",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 18,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1476,
+            "key": 12,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 90,
+            "blocks": 13,
+            "interceptions": 86
+          },
+          "duels": {
+            "total": 423,
+            "won": 243
+          },
+          "dribbles": {
+            "attempts": 42,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 58,
+            "committed": 47
+          },
+          "cards": {
+            "yellow": 14,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 6,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": 0,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 4,
+            "minutes": 398,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.940000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 177,
+            "key": 1,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 2,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 69,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18803,
+        "name": "N. Chalobah",
+        "firstname": "Nathaniel",
+        "lastname": "Chalobah",
+        "age": 28,
+        "birth": {
+          "date": "1994-12-12",
+          "place": "Freetown",
+          "country": "Sierra Leone"
+        },
+        "nationality": "England",
+        "height": "187 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18803.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 3,
+            "minutes": 266,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 2,
+            "bench": 17
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 84,
+            "key": 1,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 29,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 176,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": 3,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 172,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 84,
+            "key": 1,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 25,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18805,
+        "name": "A. Doucour\u00e9",
+        "firstname": "Abdoulaye",
+        "lastname": "Doucour\u00e9",
+        "age": 29,
+        "birth": {
+          "date": "1993-01-01",
+          "place": "Meulan-en-Yvelines",
+          "country": "France"
+        },
+        "nationality": "Mali",
+        "height": "184 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18805.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 34,
+            "minutes": 3062,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.834285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 52,
+            "on": 17
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 1619,
+            "key": 38,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 71,
+            "blocks": 8,
+            "interceptions": 34
+          },
+          "duels": {
+            "total": 331,
+            "won": 156
+          },
+          "dribbles": {
+            "attempts": 55,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 36
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 8,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 316,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.425000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 6,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 92,
+            "key": 0,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 30,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18806,
+        "name": "W. Hughes",
+        "firstname": "Will",
+        "lastname": "Hughes",
+        "age": 27,
+        "birth": {
+          "date": "1995-04-17",
+          "place": "Surrey",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "185 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18806.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 31,
+            "minutes": 2436,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.731250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 19,
+            "bench": 1
+          },
+          "shots": {
+            "total": 31,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 733,
+            "key": 28,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 73,
+            "blocks": 6,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 385,
+            "won": 193
+          },
+          "dribbles": {
+            "attempts": 42,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 71,
+            "committed": 54
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 25,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 4,
+            "key": 0,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 476,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.733333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 137,
+            "key": 8,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 92,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18807,
+        "name": "Domingos Quina",
+        "firstname": "Domingos",
+        "lastname": "Quina",
+        "age": 23,
+        "birth": {
+          "date": "1999-11-18",
+          "place": "Bissau",
+          "country": "Guinea-Bissau"
+        },
+        "nationality": "Portugal",
+        "height": "179 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18807.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 3,
+            "minutes": 335,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 2,
+            "bench": 16
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 194,
+            "key": 2,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 55,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 172,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "5.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 23,
+            "key": 0,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 186,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 92,
+            "key": 3,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 24,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18808,
+        "name": "T. Deeney",
+        "firstname": "Troy",
+        "lastname": "Deeney",
+        "age": 34,
+        "birth": {
+          "date": "1988-06-29",
+          "place": "Birmingham",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18808.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 28,
+            "minutes": 2548,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.003125",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 6,
+            "bench": 4
+          },
+          "shots": {
+            "total": 64,
+            "on": 30
+          },
+          "goals": {
+            "total": 9,
+            "conceded": null,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 503,
+            "key": 43,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": 24,
+            "blocks": 4,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 610,
+            "won": 269
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 36,
+            "committed": 42
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 4,
+            "minutes": 409,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.360000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 10,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 76,
+            "key": 6,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 92,
+            "won": 46
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18810,
+        "name": "A. Gray",
+        "firstname": "Andre Anthony",
+        "lastname": "Gray",
+        "age": 31,
+        "birth": {
+          "date": "1991-06-26",
+          "place": "Wolverhampton",
+          "country": "England"
+        },
+        "nationality": "Jamaica",
+        "height": "178 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18810.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 13,
+            "minutes": 1358,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.634482",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 8,
+            "bench": 17
+          },
+          "shots": {
+            "total": 35,
+            "on": 17
+          },
+          "goals": {
+            "total": 7,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 155,
+            "key": 14,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 140,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 299,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 33,
+            "key": 1,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 29,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18811,
+        "name": "A. Pe\u00f1aranda",
+        "firstname": "Adalberto",
+        "lastname": "Pe\u00f1aranda Maestre",
+        "age": 25,
+        "birth": {
+          "date": "1997-05-31",
+          "place": "San Crist\u00f3bal",
+          "country": "Venezuela"
+        },
+        "nationality": "Venezuela",
+        "height": "185 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18811.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 94,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 26,
+            "key": 2,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 17,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30800,
+        "name": "B. Wilmot",
+        "firstname": "Ben",
+        "lastname": "Wilmot",
+        "age": 23,
+        "birth": {
+          "date": "1999-11-04",
+          "place": "Stevenage",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "188 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30800.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 26,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": 0,
+            "accuracy": 33
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 20,
+            "key": 0,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 57,
+            "key": 1,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 21,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30816,
+        "name": "S. Okaka",
+        "firstname": "Stefano",
+        "lastname": "Okaka Chuka",
+        "age": 33,
+        "birth": {
+          "date": "1989-08-09",
+          "place": "Castiglione del Lago",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "186 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30816.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 22,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 10,
+            "key": 2,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 8,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 25,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 44775,
+        "name": "D. Bachmann",
+        "firstname": "Daniel",
+        "lastname": "Bachmann",
+        "age": 28,
+        "birth": {
+          "date": "1994-07-09",
+          "place": "Wien",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "191 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/44775.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 38,
+            "name": "Watford",
+            "logo": "https://media.api-sports.io/football/teams/38.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

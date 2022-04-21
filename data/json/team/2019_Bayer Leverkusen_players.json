@@ -1,0 +1,6725 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "168",
+    "season": "2019"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 536,
+        "name": "D. Sinkgraven",
+        "firstname": "Daley",
+        "lastname": "Sinkgraven",
+        "age": 27,
+        "birth": {
+          "date": "1995-07-04",
+          "place": "Assen",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "179 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/536.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 11,
+            "minutes": 913,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.753846",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 6,
+            "bench": 14
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 555,
+            "key": 9,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 32,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 175,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 155,
+            "key": 0,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 338,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.775000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 206,
+            "key": 0,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 12,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 100,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 71,
+            "key": 0,
+            "accuracy": 95
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 717,
+        "name": "K. Demirbay",
+        "firstname": "Kerem",
+        "lastname": "Demirbay",
+        "age": 29,
+        "birth": {
+          "date": "1993-07-03",
+          "place": "Herten",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/717.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 18,
+            "minutes": 1576,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.221739",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 9,
+            "bench": 14
+          },
+          "shots": {
+            "total": 30,
+            "on": 9
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 892,
+            "key": 42,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 32,
+            "blocks": 5,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 53,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 40,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 4,
+            "minutes": 423,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 14,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 301,
+            "key": 9,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 17,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 376,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 11,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 198,
+            "key": 7,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 351,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.166666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 9,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 148,
+            "key": 5,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 13,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 963,
+        "name": "L. Hr\u00e1deck\u00fd",
+        "firstname": "Luk\u00e1\u0161",
+        "lastname": "Hr\u00e1deck\u00fd",
+        "age": 33,
+        "birth": {
+          "date": "1989-11-24",
+          "place": "Bratislava",
+          "country": "Slovakia"
+        },
+        "nationality": "Finland",
+        "height": "192 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/963.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 34,
+            "minutes": 3060,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.930303",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 44,
+            "assists": null,
+            "saves": 97
+          },
+          "passes": {
+            "total": 983,
+            "key": 0,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.720000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 6,
+            "assists": null,
+            "saves": 14
+          },
+          "passes": {
+            "total": 133,
+            "key": 0,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 4,
+            "assists": null,
+            "saves": 11
+          },
+          "passes": {
+            "total": 109,
+            "key": 0,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.766666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 9,
+            "assists": null,
+            "saves": 19
+          },
+          "passes": {
+            "total": 161,
+            "key": 0,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 965,
+        "name": "R. \u00d6zcan",
+        "firstname": "Ramazan",
+        "lastname": "\u00d6zcan",
+        "age": 37,
+        "birth": {
+          "date": "1984-06-28",
+          "place": "Hohenems",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "184 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/965.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 34
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 30,
+            "key": 0,
+            "accuracy": 96
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 966,
+        "name": "S. Bender",
+        "firstname": "Sven",
+        "lastname": "Bender",
+        "age": 32,
+        "birth": {
+          "date": "1989-04-27",
+          "place": "Rosenheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "186 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/966.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2730,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.046875",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 1
+          },
+          "shots": {
+            "total": 17,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 2303,
+            "key": 4,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": 49,
+            "blocks": 13,
+            "interceptions": 66
+          },
+          "duels": {
+            "total": 67,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 378,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 421,
+            "key": 1,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 3,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 24,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 234,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 198,
+            "key": 0,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 0,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.233333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 427,
+            "key": 0,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 0,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 968,
+        "name": "Aleksandar Dragovi\u0107",
+        "firstname": "Aleksandar",
+        "lastname": "Dragovi\u0107",
+        "age": 31,
+        "birth": {
+          "date": "1991-03-06",
+          "place": "Wien",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "186 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/968.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 10,
+            "minutes": 1027,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.621428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 2,
+            "bench": 22
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 815,
+            "key": 2,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 3,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 35,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 298,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 342,
+            "key": 2,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 135,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 19,
+            "key": 1,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 92,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 45,
+            "key": 0,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 969,
+        "name": "T. Jedvaj",
+        "firstname": "Tin",
+        "lastname": "Jedvaj",
+        "age": 27,
+        "birth": {
+          "date": "1995-11-28",
+          "place": "Zagreb",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "184 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/969.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.783333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 14,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 776,
+            "key": 7,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 41,
+            "blocks": 17,
+            "interceptions": 59
+          },
+          "duels": {
+            "total": 64,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 970,
+        "name": "Wendell",
+        "firstname": "Wendell",
+        "lastname": "Nascimento Borges",
+        "age": 29,
+        "birth": {
+          "date": "1993-07-20",
+          "place": "Fortaleza",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "178 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/970.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 21,
+            "minutes": 1904,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.947826",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 3,
+            "bench": 8
+          },
+          "shots": {
+            "total": 9,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1370,
+            "key": 15,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 55,
+            "blocks": 3,
+            "interceptions": 35
+          },
+          "duels": {
+            "total": 48,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 275,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.025000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 170,
+            "key": 4,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 25,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 112,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 13,
+            "key": 0,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 351,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.225000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 267,
+            "key": 2,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 972,
+        "name": "J. Tah",
+        "firstname": "Jonathan",
+        "lastname": "Glao Tah",
+        "age": 26,
+        "birth": {
+          "date": "1996-02-11",
+          "place": "Hamburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "195 cm",
+        "weight": "98 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/972.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 22,
+            "minutes": 2090,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1788,
+            "key": 6,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 13,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 36,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 314,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 341,
+            "key": 0,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 2,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 283,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 107,
+            "key": 0,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 14,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.980000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 345,
+            "key": 2,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 973,
+        "name": "M. Weiser",
+        "firstname": "Mitchell",
+        "lastname": "Weiser",
+        "age": 28,
+        "birth": {
+          "date": "1994-04-21",
+          "place": "Troisdorf",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "177 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/973.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 14,
+            "minutes": 1171,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.941176",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 4,
+            "bench": 12
+          },
+          "shots": {
+            "total": 7,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 621,
+            "key": 6,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 1,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 54,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 323,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 189,
+            "key": 5,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 11,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 134,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": 0,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 153,
+            "key": 3,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 975,
+        "name": "J. Baumgartlinger",
+        "firstname": "Julian",
+        "lastname": "Baumgartlinger",
+        "age": 34,
+        "birth": {
+          "date": "1988-01-02",
+          "place": "Salzburg",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "181 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/975.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 20,
+            "minutes": 1791,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.865384",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 7,
+            "bench": 9
+          },
+          "shots": {
+            "total": 17,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 953,
+            "key": 17,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 35,
+            "blocks": 3,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 61,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 154,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 107,
+            "key": 0,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 3,
+            "minutes": 344,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.666666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 236,
+            "key": 1,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 117,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 89,
+            "key": 0,
+            "accuracy": 98
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 7,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 977,
+        "name": "L. Bender",
+        "firstname": "Lars",
+        "lastname": "Bender",
+        "age": 32,
+        "birth": {
+          "date": "1989-04-27",
+          "place": "Rosenheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "185 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/977.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 16,
+            "minutes": 1375,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.033333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 4
+          },
+          "shots": {
+            "total": 15,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 784,
+            "key": 18,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 6,
+            "interceptions": 24
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 112,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 57,
+            "key": 1,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 17,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 289,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.175000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 210,
+            "key": 3,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 15,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 216,
+            "key": 4,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 978,
+        "name": "K. Havertz",
+        "firstname": "Kai Lukas",
+        "lastname": "Havertz",
+        "age": 23,
+        "birth": {
+          "date": "1999-06-11",
+          "place": "Aachen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "188 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/978.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 29,
+            "minutes": 2462,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.996551",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 9,
+            "bench": 2
+          },
+          "shots": {
+            "total": 58,
+            "on": 25
+          },
+          "goals": {
+            "total": 12,
+            "conceded": null,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 1123,
+            "key": 59,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 94,
+            "won": 35
+          },
+          "dribbles": {
+            "attempts": 114,
+            "success": 55,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.820000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 11,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 209,
+            "key": 10,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 15,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 4,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 162,
+            "key": 9,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 434,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.540000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 216,
+            "key": 4,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 981,
+        "name": "A. Stanilewicz",
+        "firstname": "Adrian",
+        "lastname": "Stanilewicz",
+        "age": 22,
+        "birth": {
+          "date": "2000-02-22",
+          "place": "Solingen",
+          "country": "Germany"
+        },
+        "nationality": "Poland",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/981.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 12
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 3,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 986,
+        "name": "J. Pohjanpalo",
+        "firstname": "Joel Julius Ilmari",
+        "lastname": "Pohjanpalo",
+        "age": 28,
+        "birth": {
+          "date": "1994-09-13",
+          "place": "Helsinki",
+          "country": "Finland"
+        },
+        "nationality": "Finland",
+        "height": "185 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/986.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 1,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 0,
+            "key": 0,
+            "accuracy": 0
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 989,
+        "name": "K. Volland",
+        "firstname": "Kevin",
+        "lastname": "Volland",
+        "age": 30,
+        "birth": {
+          "date": "1992-07-30",
+          "place": "Marktoberdorf",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "178 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/989.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 24,
+            "minutes": 2051,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.137037",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 7,
+            "bench": 4
+          },
+          "shots": {
+            "total": 78,
+            "on": 32
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 386,
+            "key": 34,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 23,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 22,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 244,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.625000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 46,
+            "key": 1,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 6,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 265,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.166666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 47,
+            "key": 4,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 13,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 458,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.816666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 11,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 101,
+            "key": 6,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25168,
+        "name": "N. Lomb",
+        "firstname": "Niklas",
+        "lastname": "Lomb",
+        "age": 29,
+        "birth": {
+          "date": "1993-07-28",
+          "place": "K\u00f6ln",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "186 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25168.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41150,
+        "name": "E. Tapsoba",
+        "firstname": "Edmond Fay\u00e7al",
+        "lastname": "Tapsoba",
+        "age": 23,
+        "birth": {
+          "date": "1999-02-02",
+          "place": "Ouagadougou",
+          "country": "Burkina Faso"
+        },
+        "nationality": "Burkina Faso",
+        "height": "194 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41150.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 12,
+            "minutes": 1057,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.753846",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 931,
+            "key": 1,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 5,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 60,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 226,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 186,
+            "key": 1,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 3,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 428,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.225000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 269,
+            "key": 0,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 4,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 27,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 61162,
+        "name": "Tomasz Kucz",
+        "firstname": "Tomasz",
+        "lastname": "Kucz",
+        "age": 23,
+        "birth": {
+          "date": "1999-07-06",
+          "place": null,
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "184 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/61162.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": null,
+            "name": "Club Friendlies",
+            "country": null,
+            "logo": null,
+            "flag": null,
+            "season": "2019"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 158053,
+        "name": "A. Azhil",
+        "firstname": "Ayman",
+        "lastname": "Azhil",
+        "age": 21,
+        "birth": {
+          "date": "2001-04-10",
+          "place": "D\u00fcsseldorf",
+          "country": "Germany"
+        },
+        "nationality": "Morocco",
+        "height": "170 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/158053.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2019
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4283 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "169",
+    "season": "2018"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 3
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1800,
+        "name": "K. Trapp",
+        "firstname": "Kevin",
+        "lastname": "Trapp",
+        "age": 32,
+        "birth": {
+          "date": "1990-07-08",
+          "place": "Merzig",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "189 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1800.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2938,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.921875",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 48,
+            "assists": null,
+            "saves": 113
+          },
+          "passes": {
+            "total": 671,
+            "key": 0,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 23,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 1110,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.133333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 13,
+            "assists": null,
+            "saves": 44
+          },
+          "passes": {
+            "total": 256,
+            "key": 1,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 9,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 2
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1801,
+        "name": "J. Zimmermann",
+        "firstname": "Jan",
+        "lastname": "Zimmermann",
+        "age": 36,
+        "birth": {
+          "date": "1985-04-19",
+          "place": "Offenbach",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1801.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1802,
+        "name": "D. Abraham",
+        "firstname": "David \u00c1ngel",
+        "lastname": "Abraham",
+        "age": 35,
+        "birth": {
+          "date": "1986-07-15",
+          "place": "Chab\u00e1s",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "188 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1802.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 17,
+            "minutes": 1422,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.868750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 3
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 509,
+            "key": 5,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 12,
+            "interceptions": 24
+          },
+          "duels": {
+            "total": 126,
+            "won": 77
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 51,
+            "key": 0,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 10,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 728,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.762500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 200,
+            "key": 1,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 4,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 69,
+            "won": 40
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1803,
+        "name": "T. Chandler",
+        "firstname": "Timothy",
+        "lastname": "Chandler",
+        "age": 32,
+        "birth": {
+          "date": "1990-03-29",
+          "place": "Frankfurt am Main",
+          "country": "Germany"
+        },
+        "nationality": "USA",
+        "height": "187 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1803.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 16,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2,
+            "key": 1,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1807,
+        "name": "O. N&apos;Dicka",
+        "firstname": "Obite Evan",
+        "lastname": "N'Dicka",
+        "age": 23,
+        "birth": {
+          "date": "1999-08-20",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "192 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1807.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 24,
+            "minutes": 2302,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.651851",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 7
+          },
+          "shots": {
+            "total": 13,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 875,
+            "key": 4,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 11,
+            "interceptions": 29
+          },
+          "duels": {
+            "total": 242,
+            "won": 128
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 8,
+            "minutes": 708,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.555555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 291,
+            "key": 4,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 5,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 54,
+            "won": 31
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": 2,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1808,
+        "name": "M. Russ",
+        "firstname": "Marco",
+        "lastname": "Russ",
+        "age": 36,
+        "birth": {
+          "date": "1985-08-04",
+          "place": "Hanau",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1808.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 378,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.580000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 20
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 79,
+            "key": 2,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 45,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 292,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 105,
+            "key": 0,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 19,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1809,
+        "name": "Tuta",
+        "firstname": "Lucas",
+        "lastname": "Silva Melo",
+        "age": 23,
+        "birth": {
+          "date": "1999-07-04",
+          "place": "S\u00e3o Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "185 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1809.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1812,
+        "name": "D. da Costa",
+        "firstname": "Danny",
+        "lastname": "Vieira da Costa",
+        "age": 29,
+        "birth": {
+          "date": "1993-07-13",
+          "place": "Neuss",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1812.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 34,
+            "minutes": 3035,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.739393",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 18,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 554,
+            "key": 30,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": 8,
+            "interceptions": 32
+          },
+          "duels": {
+            "total": 315,
+            "won": 154
+          },
+          "dribbles": {
+            "attempts": 68,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 32
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 32,
+            "key": 2,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 12,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 14,
+            "minutes": 1257,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.885714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 15,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 226,
+            "key": 13,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 1,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 164,
+            "won": 80
+          },
+          "dribbles": {
+            "attempts": 28,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1813,
+        "name": "J. Willems",
+        "firstname": "Jetro",
+        "lastname": "Willems",
+        "age": 28,
+        "birth": {
+          "date": "1994-03-30",
+          "place": "Rotterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "169 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1813.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 7,
+            "minutes": 718,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.611111",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 3,
+            "bench": 23
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 182,
+            "key": 21,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 4,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 83,
+            "won": 42
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 70,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 14,
+            "key": 1,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 5,
+            "minutes": 508,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.788888",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 1,
+            "bench": 7
+          },
+          "shots": {
+            "total": 11,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 166,
+            "key": 14,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 63,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1815,
+        "name": "Jonathan  de Guzm\u00e1n",
+        "firstname": "Jonathan",
+        "lastname": "de Guzm\u00e1n",
+        "age": 35,
+        "birth": {
+          "date": "1987-09-13",
+          "place": "Toronto",
+          "country": "Canada"
+        },
+        "nationality": "Netherlands",
+        "height": "173 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1815.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 17,
+            "minutes": 1563,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.035714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 10,
+            "bench": 17
+          },
+          "shots": {
+            "total": 22,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 657,
+            "key": 37,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 24,
+            "blocks": 2,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 160,
+            "won": 88
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 48,
+            "key": 4,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 3,
+            "minutes": 371,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.975000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 2,
+            "bench": 10
+          },
+          "shots": {
+            "total": 5,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 153,
+            "key": 13,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 28,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1816,
+        "name": "G. Fernandes",
+        "firstname": "G\u00e9lson da Concei\u00e7\u00e3o Tavares",
+        "lastname": "Fernandes",
+        "age": 35,
+        "birth": {
+          "date": "1986-09-02",
+          "place": "Praia",
+          "country": "Cape Verde Islands"
+        },
+        "nationality": "Switzerland",
+        "height": "179 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1816.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 28,
+            "minutes": 2236,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.625925",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 10,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 657,
+            "key": 4,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 9,
+            "interceptions": 51
+          },
+          "duels": {
+            "total": 263,
+            "won": 108
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 54
+          },
+          "cards": {
+            "yellow": 10,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 772,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 253,
+            "key": 1,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 2,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 75,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1817,
+        "name": "P. Finger",
+        "firstname": "Patrick",
+        "lastname": "Finger",
+        "age": 19,
+        "birth": {
+          "date": "2001-01-01",
+          "place": "Riedstadt",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "166 cm",
+        "weight": "61 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1817.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1818,
+        "name": "Mijat Ga\u0107inovi\u0107",
+        "firstname": "Mijat",
+        "lastname": "Ga\u0107inovi\u0107",
+        "age": 27,
+        "birth": {
+          "date": "1995-02-08",
+          "place": "Novi Sad",
+          "country": "Serbia"
+        },
+        "nationality": "Serbia",
+        "height": "175 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1818.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 16,
+            "minutes": 1620,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.792592",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": 7,
+            "bench": 13
+          },
+          "shots": {
+            "total": 19,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 384,
+            "key": 17,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 1,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 223,
+            "won": 109
+          },
+          "dribbles": {
+            "attempts": 50,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 41,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 22,
+            "key": 1,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 15,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 13,
+            "minutes": 1126,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 6,
+            "bench": 1
+          },
+          "shots": {
+            "total": 27,
+            "on": 12
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 247,
+            "key": 19,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 1,
+            "interceptions": 24
+          },
+          "duels": {
+            "total": 143,
+            "won": 67
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1819,
+        "name": "M. Hasebe",
+        "firstname": "Makoto",
+        "lastname": "Hasebe",
+        "age": 38,
+        "birth": {
+          "date": "1984-01-18",
+          "place": "Fujieda",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1819.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 28,
+            "minutes": 2520,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.048148",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1166,
+            "key": 7,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": 21,
+            "interceptions": 37
+          },
+          "duels": {
+            "total": 191,
+            "won": 116
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 67,
+            "key": 0,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 7,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 14,
+            "minutes": 1232,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.985714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 534,
+            "key": 2,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 5,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 82,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1821,
+        "name": "F. Kosti\u0107",
+        "firstname": "Filip",
+        "lastname": "Kosti\u0107",
+        "age": 30,
+        "birth": {
+          "date": "1992-11-01",
+          "place": "Kragujevac",
+          "country": "Serbia"
+        },
+        "nationality": "Serbia",
+        "height": "184 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1821.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 33,
+            "minutes": 2961,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.081818",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 6,
+            "bench": 1
+          },
+          "shots": {
+            "total": 59,
+            "on": 18
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 634,
+            "key": 42,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 40,
+            "blocks": 6,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 383,
+            "won": 197
+          },
+          "dribbles": {
+            "attempts": 90,
+            "success": 56,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 38,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 11,
+            "minutes": 1034,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 23,
+            "on": 9
+          },
+          "goals": {
+            "total": 4,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 252,
+            "key": 36,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 2,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 119,
+            "won": 62
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1822,
+        "name": "S. Rode",
+        "firstname": "Sebastian",
+        "lastname": "Rode",
+        "age": 32,
+        "birth": {
+          "date": "1990-10-11",
+          "place": "Seeheim-Jugenheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1822.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 931,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 8,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 364,
+            "key": 13,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 0,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 121,
+            "won": 67
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 617,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 223,
+            "key": 7,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 1,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 88,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1827,
+        "name": "B. Hrgota",
+        "firstname": "Branimir",
+        "lastname": "Hrgota",
+        "age": 29,
+        "birth": {
+          "date": "1993-01-12",
+          "place": "Zenica",
+          "country": "Bosnia and Herzegovina"
+        },
+        "nationality": "Sweden",
+        "height": "185 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1827.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 4,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1829,
+        "name": "Nelson Mandela Mbouhom",
+        "firstname": "Nelson Mandela",
+        "lastname": "Mbouhom",
+        "age": 21,
+        "birth": {
+          "date": "1999-05-04",
+          "place": "Douala",
+          "country": "Cameroon"
+        },
+        "nationality": "Cameroon",
+        "height": "177 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1829.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1830,
+        "name": "Gon\u00e7alo Paci\u00eancia",
+        "firstname": "Gon\u00e7alo",
+        "lastname": "Mendes Paciencia",
+        "age": 28,
+        "birth": {
+          "date": "1994-08-01",
+          "place": "Porto",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "184 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1830.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 4,
+            "minutes": 387,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.057142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 4,
+            "bench": 15
+          },
+          "shots": {
+            "total": 17,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 4,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 77,
+            "won": 30
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 7,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": 0,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 0,
+            "minutes": 66,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.780000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 14,
+            "key": 1,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 25,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2877,
+        "name": "C. Salcedo",
+        "firstname": "Carlos Joel",
+        "lastname": "Salcedo Hern\u00e1ndez",
+        "age": 29,
+        "birth": {
+          "date": "1993-09-29",
+          "place": "Guadalajara",
+          "country": "Mexico"
+        },
+        "nationality": "Mexico",
+        "height": "183 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2877.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 461,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.716666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 212,
+            "key": 0,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 44,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 79,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": 0,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

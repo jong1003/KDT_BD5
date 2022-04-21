@@ -1,0 +1,3469 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "79",
+    "season": "2017"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 402,
+        "name": "H. Mendyl",
+        "firstname": "Hamza",
+        "lastname": "Mendyl",
+        "age": 25,
+        "birth": {
+          "date": "1997-10-21",
+          "place": "Casablanca",
+          "country": "Morocco"
+        },
+        "nationality": "Morocco",
+        "height": "179 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/402.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 9,
+            "minutes": 850,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.481818",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 15
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 252,
+            "key": 3,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 0,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 81,
+            "won": 40
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 612,
+        "name": "E. Ponce",
+        "firstname": "Ezequiel",
+        "lastname": "Ponce Mart\u00ednez",
+        "age": 25,
+        "birth": {
+          "date": "1997-03-29",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "180 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/612.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 8,
+            "minutes": 1084,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 20,
+            "out": 5,
+            "bench": 28
+          },
+          "shots": {
+            "total": 21,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 206,
+            "key": 12,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 191,
+            "won": 60
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 37
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 117,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 178,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1275,
+        "name": "N. de Pr\u00e9ville",
+        "firstname": "Nicolas",
+        "lastname": "de Pr\u00e9ville",
+        "age": 31,
+        "birth": {
+          "date": "1991-01-08",
+          "place": "Chambray-l\u00e8s-Tours",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "177 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1275.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 286,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.979310",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 58,
+            "on": 15
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 474,
+            "key": 23,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 390,
+            "won": 152
+          },
+          "dribbles": {
+            "attempts": 110,
+            "success": 53,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 37,
+            "committed": 57
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2049,
+        "name": "I. Amadou",
+        "firstname": "Ibrahim",
+        "lastname": "Amadou",
+        "age": 29,
+        "birth": {
+          "date": "1993-04-06",
+          "place": "Douala",
+          "country": "Cameroon"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2049.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 30,
+            "minutes": 2413,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.853333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 16,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1376,
+            "key": 10,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 41
+          },
+          "duels": {
+            "total": 178,
+            "won": 104
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3292,
+        "name": "L. Mothiba",
+        "firstname": "Lebo",
+        "lastname": "Mothiba",
+        "age": 26,
+        "birth": {
+          "date": "1996-01-28",
+          "place": "Johannesburg",
+          "country": "South Africa"
+        },
+        "nationality": "South Africa",
+        "height": "181 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3292.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 14,
+            "minutes": 1189,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.942857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 6,
+            "bench": 0
+          },
+          "shots": {
+            "total": 22,
+            "on": 11
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 254,
+            "key": 13,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 137,
+            "won": 52
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20608,
+        "name": "R. Kouam\u00e9",
+        "firstname": "N'Guessan Rominigue",
+        "lastname": "Kouam\u00e9",
+        "age": 26,
+        "birth": {
+          "date": "1996-12-17",
+          "place": null,
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "Mali",
+        "height": "177 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20608.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 1,
+            "minutes": 196,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 108,
+            "key": 6,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 30,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21085,
+        "name": "Edgar I\u00e9",
+        "firstname": "Edgar Miguel",
+        "lastname": "I\u00e9",
+        "age": 28,
+        "birth": {
+          "date": "1994-05-01",
+          "place": "Bissau",
+          "country": "Guinea-Bissau"
+        },
+        "nationality": "Guinea-Bissau",
+        "height": "182 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21085.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3147,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.808571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 13,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1467,
+            "key": 12,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 4,
+            "interceptions": 84
+          },
+          "duels": {
+            "total": 346,
+            "won": 198
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 165,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22219,
+        "name": "A. Jakubech",
+        "firstname": "Adam",
+        "lastname": "Jakubech",
+        "age": 25,
+        "birth": {
+          "date": "1997-01-02",
+          "place": "Presov",
+          "country": "Slovakia"
+        },
+        "nationality": "Slovakia",
+        "height": "188 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22219.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22220,
+        "name": "H. Koffi",
+        "firstname": "Herv\u00e9 Kouakou",
+        "lastname": "Koffi",
+        "age": 26,
+        "birth": {
+          "date": "1996-10-16",
+          "place": "Bobo-Dioulasso",
+          "country": "Burkina Faso"
+        },
+        "nationality": "Burkina Faso",
+        "height": "186 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22220.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.325000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 31
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 11,
+            "assists": null,
+            "saves": 10
+          },
+          "passes": {
+            "total": 72,
+            "key": 0,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22223,
+        "name": "K. Dabila",
+        "firstname": "Kouadio-Yves",
+        "lastname": "Dabila",
+        "age": 25,
+        "birth": {
+          "date": "1997-01-01",
+          "place": "Kouassi-Datekro",
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "183 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22223.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 10,
+            "minutes": 943,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.641666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 13
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 412,
+            "key": 4,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 2,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 75,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 109,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22228,
+        "name": "Xeka",
+        "firstname": "Miguel \u00c2ngelo",
+        "lastname": "da Silva Rocha",
+        "age": 28,
+        "birth": {
+          "date": "1994-11-10",
+          "place": "Paredes",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "185 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22228.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 14,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.923529",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 34,
+            "on": 10
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 548,
+            "key": 23,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 203,
+            "won": 84
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22232,
+        "name": "Thiago Mendes",
+        "firstname": "Thiago Henrique",
+        "lastname": "Mendes Ribeiro",
+        "age": 30,
+        "birth": {
+          "date": "1992-03-15",
+          "place": "S\u00e3o Lu\u00eds",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22232.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 27,
+            "minutes": 2300,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.964516",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 9,
+            "bench": 5
+          },
+          "shots": {
+            "total": 45,
+            "on": 15
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 1138,
+            "key": 43,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 0,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 249,
+            "won": 130
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 39,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 45,
+            "committed": 38
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 135,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 106,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22238,
+        "name": "Luiz Ara\u00fajo",
+        "firstname": "Luiz",
+        "lastname": "de Ara\u00fajo Guimar\u00e3es Neto",
+        "age": 26,
+        "birth": {
+          "date": "1996-06-02",
+          "place": "Taquaritinga",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22238.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 24,
+            "minutes": 2022,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.827272",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 14,
+            "bench": 13
+          },
+          "shots": {
+            "total": 51,
+            "on": 16
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 513,
+            "key": 23,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 0,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 307,
+            "won": 147
+          },
+          "dribbles": {
+            "attempts": 107,
+            "success": 76,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 68,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24119,
+        "name": "Val\u00e8re Pollet",
+        "firstname": "Val\u00e8re",
+        "lastname": "Pollet",
+        "age": 24,
+        "birth": {
+          "date": "1997-06-27",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "177 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24119.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 84067,
+        "name": "Ruben Droehnl\u00e9",
+        "firstname": "Ruben",
+        "lastname": "Droehnl\u00e9",
+        "age": 24,
+        "birth": {
+          "date": "1998-07-11",
+          "place": "Stra\u00dfburg",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/84067.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85072,
+        "name": "Far\u00e8s Bahlouli",
+        "firstname": "Far\u00e8s",
+        "lastname": "Bahlouli",
+        "age": 27,
+        "birth": {
+          "date": "1995-04-08",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85072.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 2,
+            "minutes": 299,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.680000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 2,
+            "bench": 19
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 85,
+            "key": 11,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 84,
+            "won": 35
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 153,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 74,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85779,
+        "name": "Imad Faraj",
+        "firstname": "Imad",
+        "lastname": "Faraj",
+        "age": 23,
+        "birth": {
+          "date": "1999-02-11",
+          "place": "Croix",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "177 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85779.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 1,
+            "minutes": 157,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.816666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 1,
+            "bench": 18
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 51,
+            "key": 3,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 34,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 2,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85780,
+        "name": "Chahreddine Boukholda",
+        "firstname": "Chahreddine",
+        "lastname": "Boukholda",
+        "age": 26,
+        "birth": {
+          "date": "1996-05-24",
+          "place": "Marseille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "179 cm",
+        "weight": "60 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85780.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 66,
+            "name": "Coupe de France",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/66.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 87323,
+        "name": "Benjamin V\u00e9rit\u00e9",
+        "firstname": "Benjamin",
+        "lastname": "V\u00e9rit\u00e9",
+        "age": 23,
+        "birth": {
+          "date": "1999-04-21",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/87323.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 61,
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/61.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 87324,
+        "name": "A. Flips",
+        "firstname": "Alexis Laurent Patrice",
+        "lastname": "Roge Flips",
+        "age": 22,
+        "birth": {
+          "date": "2000-01-18",
+          "place": "Villeneuve-d'Ascq",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "173 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/87324.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 79,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/football/teams/79.png"
+          },
+          "league": {
+            "id": 65,
+            "name": "Coupe de la Ligue",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/65.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2017
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

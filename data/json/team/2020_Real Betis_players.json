@@ -1,0 +1,3247 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "543",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 134,
+        "name": "Juan Miranda",
+        "firstname": "Juan",
+        "lastname": "Miranda Gonz\u00e1lez",
+        "age": 22,
+        "birth": {
+          "date": "2000-01-19",
+          "place": "Olivares",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/134.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 18,
+            "minutes": 1651,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.736363",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 15
+          },
+          "shots": {
+            "total": 7,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 714,
+            "key": 12,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 2,
+            "interceptions": 29
+          },
+          "duels": {
+            "total": 177,
+            "won": 80
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 285,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 123,
+            "key": 1,
+            "accuracy": 51
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 14,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 614,
+        "name": "C. Bravo",
+        "firstname": "Claudio Andr\u00e9s",
+        "lastname": "Bravo Mu\u00f1oz",
+        "age": 39,
+        "birth": {
+          "date": "1983-04-13",
+          "place": "Buin",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "184 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/614.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 20,
+            "minutes": 1800,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 25,
+            "assists": null,
+            "saves": 52
+          },
+          "passes": {
+            "total": 565,
+            "key": 3,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 25,
+            "key": null,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1558,
+        "name": "Joel Robles",
+        "firstname": "Joel",
+        "lastname": "Robles Bl\u00e1zquez",
+        "age": 32,
+        "birth": {
+          "date": "1990-06-17",
+          "place": "Legan\u00e9s",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "195 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1558.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 18,
+            "minutes": 1620,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.694444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 20
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 25,
+            "assists": null,
+            "saves": 38
+          },
+          "passes": {
+            "total": 475,
+            "key": 1,
+            "accuracy": 15
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 420,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 6
+          },
+          "passes": {
+            "total": 65,
+            "key": 1,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1561,
+        "name": "Marc Bartra",
+        "firstname": "Marc",
+        "lastname": "Bartra Aregall",
+        "age": 31,
+        "birth": {
+          "date": "1991-01-15",
+          "place": "Sant Jaume dels Domenys",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1561.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 19,
+            "minutes": 1695,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.736842",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 6
+          },
+          "shots": {
+            "total": 8,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 958,
+            "key": 3,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 5,
+            "interceptions": 40
+          },
+          "duels": {
+            "total": 188,
+            "won": 107
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1568,
+        "name": "P. Akouokou",
+        "firstname": "Edgar Paul",
+        "lastname": "Akouokou",
+        "age": 25,
+        "birth": {
+          "date": "1997-12-20",
+          "place": null,
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "190 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1568.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 4,
+            "minutes": 375,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.675000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 2,
+            "bench": 27
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 185,
+            "key": 2,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 51,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 265,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 55,
+            "key": null,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 11,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1570,
+        "name": "Sergio Canales",
+        "firstname": "Sergio",
+        "lastname": "Canales Madrazo",
+        "age": 31,
+        "birth": {
+          "date": "1991-02-16",
+          "place": "Santander",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "176 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1570.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 28,
+            "minutes": 2502,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.187096",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 8,
+            "bench": 3
+          },
+          "shots": {
+            "total": 30,
+            "on": 13
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 1656,
+            "key": 59,
+            "accuracy": 46
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": null,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 170,
+            "won": 77
+          },
+          "dribbles": {
+            "attempts": 43,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 286,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.450000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 151,
+            "key": 3,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 23,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1573,
+        "name": "A. Guardado",
+        "firstname": "Jos\u00e9 Andr\u00e9s",
+        "lastname": "Guardado Hern\u00e1ndez",
+        "age": 36,
+        "birth": {
+          "date": "1986-09-28",
+          "place": "Guadalajara",
+          "country": "Mexico"
+        },
+        "nationality": "Mexico",
+        "height": "169 cm",
+        "weight": "60 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1573.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 17,
+            "minutes": 1321,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.752380",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 12,
+            "bench": 8
+          },
+          "shots": {
+            "total": 9,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 774,
+            "key": 8,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": 3,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 143,
+            "won": 71
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 166,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 125,
+            "key": 2,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 16,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1574,
+        "name": "Francis",
+        "firstname": "Francisco Javier",
+        "lastname": "Guerrero Mart\u00edn",
+        "age": 24,
+        "birth": {
+          "date": "1996-03-11",
+          "place": "Co\u00edn",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1574.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": null,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1576,
+        "name": "W. Kaptoum",
+        "firstname": "Wilfrid Jaures",
+        "lastname": "Kaptoum",
+        "age": 26,
+        "birth": {
+          "date": "1996-07-07",
+          "place": "Douala",
+          "country": "Cameroon"
+        },
+        "nationality": "Cameroon",
+        "height": "174 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1576.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1579,
+        "name": "Joaqu\u00edn",
+        "firstname": "Joaqu\u00edn",
+        "lastname": "S\u00e1nchez Rodr\u00edguez",
+        "age": 41,
+        "birth": {
+          "date": "1981-07-21",
+          "place": "El Puerto de Santa Mar\u00eda",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "179 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1579.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 16,
+            "minutes": 1295,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.946153",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 15,
+            "bench": 20
+          },
+          "shots": {
+            "total": 6,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 674,
+            "key": 32,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": null,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 116,
+            "won": 54
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 156,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.066666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 85,
+            "key": 4,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 15,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1580,
+        "name": "William Carvalho",
+        "firstname": "William",
+        "lastname": "Silva de Carvalho",
+        "age": 30,
+        "birth": {
+          "date": "1992-04-07",
+          "place": "Luanda",
+          "country": "Angola"
+        },
+        "nationality": "Portugal",
+        "height": "187 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1580.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 12,
+            "minutes": 1219,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.664000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 8,
+            "bench": 19
+          },
+          "shots": {
+            "total": 12,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 959,
+            "key": 9,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 3,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 148,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 186,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.066666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 156,
+            "key": 1,
+            "accuracy": 44
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 21,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1693,
+        "name": "V\u00edctor Ru\u00edz",
+        "firstname": "V\u00edctor",
+        "lastname": "Ru\u00edz Torre",
+        "age": 33,
+        "birth": {
+          "date": "1989-01-25",
+          "place": "Esplugues de Llobregat",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "95 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1693.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 24,
+            "minutes": 2157,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.766666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 10
+          },
+          "shots": {
+            "total": 4,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1294,
+            "key": 2,
+            "accuracy": 41
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 13,
+            "interceptions": 46
+          },
+          "duels": {
+            "total": 162,
+            "won": 87
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 364,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 195,
+            "key": null,
+            "accuracy": 58
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 25,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18965,
+        "name": "Mart\u00edn Montoya",
+        "firstname": "Mart\u00edn",
+        "lastname": "Montoya Torralbo",
+        "age": 31,
+        "birth": {
+          "date": "1991-04-14",
+          "place": "Barcelona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18965.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 2,
+            "minutes": 237,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 25
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 131,
+            "key": 4,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 30,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 315,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.166666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 182,
+            "key": 3,
+            "accuracy": 49
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 35,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46871,
+        "name": "Dani Mart\u00edn",
+        "firstname": "Daniel",
+        "lastname": "Mart\u00edn Fern\u00e1ndez",
+        "age": 24,
+        "birth": {
+          "date": "1998-07-08",
+          "place": "Gij\u00f3n",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "187 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46871.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47547,
+        "name": "\u00c1lex Moreno",
+        "firstname": "Alexandre",
+        "lastname": "Moreno Lopera",
+        "age": 29,
+        "birth": {
+          "date": "1993-06-08",
+          "place": "Sant Sadurn\u00ed d'Anoia",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "179 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47547.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 20,
+            "minutes": 1786,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.760869",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 3,
+            "bench": 16
+          },
+          "shots": {
+            "total": 10,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 946,
+            "key": 18,
+            "accuracy": 32
+          },
+          "tackles": {
+            "total": 42,
+            "blocks": 4,
+            "interceptions": 35
+          },
+          "duels": {
+            "total": 207,
+            "won": 113
+          },
+          "dribbles": {
+            "attempts": 43,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 65,
+            "key": null,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 16,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 104804,
+        "name": "Dani Rebollo",
+        "firstname": "Daniel",
+        "lastname": "Rebollo Franco",
+        "age": 23,
+        "birth": {
+          "date": "1999-12-10",
+          "place": "Lepe",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/104804.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 17
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 116438,
+        "name": "Carlos Mar\u00edn Tom\u00e1s",
+        "firstname": "Carlos",
+        "lastname": "Mar\u00edn Tom\u00e1s",
+        "age": 25,
+        "birth": {
+          "date": "1997-02-20",
+          "place": "Almer\u00eda",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "187 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/116438.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 185599,
+        "name": "Jos\u00e9 Manuel Calder\u00f3n Portillo",
+        "firstname": "Jos\u00e9 Manuel",
+        "lastname": "Calder\u00f3n Portillo",
+        "age": 22,
+        "birth": {
+          "date": "2000-01-07",
+          "place": "Paradas",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/185599.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 188408,
+        "name": "Geovanni Barba Jim\u00e9nez",
+        "firstname": "Geovanni",
+        "lastname": "Barba Jim\u00e9nez",
+        "age": 21,
+        "birth": {
+          "date": "2001-05-17",
+          "place": "Puerto de Santamar\u00eda",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/188408.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 188409,
+        "name": "Fran Delgado",
+        "firstname": "Francisco Javier",
+        "lastname": "Delgado Rojano",
+        "age": 21,
+        "birth": {
+          "date": "2001-07-11",
+          "place": null,
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "177 cm",
+        "weight": "62 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/188409.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 10
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 16,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

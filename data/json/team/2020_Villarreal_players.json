@@ -1,0 +1,4357 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "533",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 166,
+        "name": "J. Foyth",
+        "firstname": "Juan Marcos",
+        "lastname": "Foyth",
+        "age": 24,
+        "birth": {
+          "date": "1998-01-12",
+          "place": "La Plata",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "179 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/166.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 13,
+            "minutes": 1169,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.812500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 10
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 692,
+            "key": 4,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": 40,
+            "blocks": 6,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 173,
+            "won": 105
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 22,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 378,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 113,
+            "key": null,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 21,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 10,
+            "minutes": 903,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.141666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 542,
+            "key": 6,
+            "accuracy": 44
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 1,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 126,
+            "won": 74
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288,
+        "name": "Alberto Moreno",
+        "firstname": "Alberto",
+        "lastname": "Moreno P\u00e9rez",
+        "age": 30,
+        "birth": {
+          "date": "1992-07-05",
+          "place": "Sevilla",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "171 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 2,
+            "minutes": 192,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.625000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 9
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 82,
+            "key": null,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 22,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 0,
+            "minutes": 41,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 18,
+            "key": null,
+            "accuracy": 5
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 314,
+        "name": "Albiol",
+        "firstname": "Ra\u00fal",
+        "lastname": "Albiol Tortajada",
+        "age": 37,
+        "birth": {
+          "date": "1985-09-04",
+          "place": "Villamarchante",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "187 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/314.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3119,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.882857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 8,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2051,
+            "key": 4,
+            "accuracy": 52
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 22,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 175,
+            "won": 107
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 120,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 81,
+            "key": null,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 11,
+            "minutes": 1020,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.209090",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 697,
+            "key": 2,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 5,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 58,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 928,
+        "name": "Dani Parejo",
+        "firstname": "Daniel",
+        "lastname": "Parejo Mu\u00f1oz",
+        "age": 33,
+        "birth": {
+          "date": "1989-04-16",
+          "place": "Coslada",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/928.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 36,
+            "minutes": 3120,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 8,
+            "bench": 0
+          },
+          "shots": {
+            "total": 22,
+            "on": 9
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 2669,
+            "key": 45,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 65,
+            "blocks": 8,
+            "interceptions": 45
+          },
+          "duels": {
+            "total": 322,
+            "won": 186
+          },
+          "dribbles": {
+            "attempts": 49,
+            "success": 37,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 60,
+            "committed": 32
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 1,
+            "minutes": 225,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.166666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 126,
+            "key": 3,
+            "accuracy": 39
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 22,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 10,
+            "minutes": 942,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.383333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 687,
+            "key": 20,
+            "accuracy": 51
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 5,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 59,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1682,
+        "name": "Asenjo",
+        "firstname": "Sergio",
+        "lastname": "Asenjo Andr\u00e9s",
+        "age": 33,
+        "birth": {
+          "date": "1989-06-28",
+          "place": "Palencia",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "189 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1682.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 36,
+            "minutes": 3240,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.791666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 40,
+            "assists": null,
+            "saves": 80
+          },
+          "passes": {
+            "total": 1115,
+            "key": null,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 13
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 37,
+            "key": null,
+            "accuracy": 32
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1688,
+        "name": "Jos\u00e9 Ramiro Funes Mori",
+        "firstname": "Jos\u00e9 Ramiro",
+        "lastname": "Funes Mori",
+        "age": 31,
+        "birth": {
+          "date": "1991-03-05",
+          "place": "Mendoza",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "186 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1688.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 8,
+            "minutes": 726,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 28
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 477,
+            "key": null,
+            "accuracy": 41
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 5,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 65,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 132,
+            "key": null,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 10,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 4,
+            "minutes": 404,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.020000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 352,
+            "key": null,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 28,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1691,
+        "name": "Mario Gaspar",
+        "firstname": "Mario Gaspar",
+        "lastname": "P\u00e9rez Mart\u00ednez",
+        "age": 32,
+        "birth": {
+          "date": "1990-11-24",
+          "place": "Novelda",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1691.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 21,
+            "minutes": 1851,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.913043",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 5
+          },
+          "shots": {
+            "total": 13,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 884,
+            "key": 12,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": 55,
+            "blocks": 4,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 195,
+            "won": 110
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": null,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 3,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 169,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.875000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 11
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 76,
+            "key": 2,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 24,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1703,
+        "name": "A. Ra\u021biu",
+        "firstname": "Andrei Florin",
+        "lastname": "Ra\u021biu",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-20",
+          "place": "Aiud",
+          "country": "Romania"
+        },
+        "nationality": "Romania",
+        "height": "183 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1703.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18802,
+        "name": "E. Capoue",
+        "firstname": "Etienne",
+        "lastname": "Capoue",
+        "age": 34,
+        "birth": {
+          "date": "1988-07-11",
+          "place": "Niort",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "189 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18802.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 15,
+            "minutes": 1195,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.781250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 10,
+            "bench": 3
+          },
+          "shots": {
+            "total": 7,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 761,
+            "key": 3,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 1,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 139,
+            "won": 77
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 186,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 58,
+            "key": 1,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 13,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 724,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.975000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 389,
+            "key": 2,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 1,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 77,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46731,
+        "name": "P. Estupi\u00f1\u00e1n",
+        "firstname": "Pervis Josu\u00e9",
+        "lastname": "Estupi\u00f1\u00e1n Tenorio",
+        "age": 24,
+        "birth": {
+          "date": "1998-01-21",
+          "place": "Esmeraldas",
+          "country": "Ecuador"
+        },
+        "nationality": "Ecuador",
+        "height": "175 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46731.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 12,
+            "minutes": 1161,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.840000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": 5,
+            "bench": 19
+          },
+          "shots": {
+            "total": 9,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 503,
+            "key": 17,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 2,
+            "interceptions": 35
+          },
+          "duels": {
+            "total": 148,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 317,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 56,
+            "key": null,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 224,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 7
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 112,
+            "key": 2,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 25,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46815,
+        "name": "Pau Torres",
+        "firstname": "Pau",
+        "lastname": "Francisco Torres",
+        "age": 25,
+        "birth": {
+          "date": "1997-01-16",
+          "place": "Villarreal",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "191 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46815.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2970,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.015151",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 2058,
+            "key": 6,
+            "accuracy": 54
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 25,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 180,
+            "won": 113
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 25,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 123,
+            "key": null,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 10,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 796,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.911111",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 462,
+            "key": 1,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 8,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 26,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46832,
+        "name": "Javi Ontiveros",
+        "firstname": "Javier",
+        "lastname": "Ontiveros Parra",
+        "age": 25,
+        "birth": {
+          "date": "1997-09-09",
+          "place": "Marbella",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "170 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46832.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.870000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 28,
+            "on": 10
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 428,
+            "key": 18,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": null,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 192,
+            "won": 96
+          },
+          "dribbles": {
+            "attempts": 61,
+            "success": 35,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47296,
+        "name": "G. Rulli",
+        "firstname": "Ger\u00f3nimo",
+        "lastname": "Rulli",
+        "age": 30,
+        "birth": {
+          "date": "1992-05-20",
+          "place": "La Plata",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "189 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47296.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 33
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 4,
+            "assists": null,
+            "saves": 4
+          },
+          "passes": {
+            "total": 79,
+            "key": null,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 480,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 9
+          },
+          "passes": {
+            "total": 118,
+            "key": null,
+            "accuracy": 33
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 13,
+            "minutes": 1200,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.930769",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 9,
+            "assists": null,
+            "saves": 20
+          },
+          "passes": {
+            "total": 498,
+            "key": null,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 7,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 122737,
+        "name": "S. Chakla",
+        "firstname": "Soufiane",
+        "lastname": "Chakla Mrioued",
+        "age": 29,
+        "birth": {
+          "date": "1993-09-02",
+          "place": "Kenitra",
+          "country": "Morocco"
+        },
+        "nationality": "Morocco",
+        "height": "188 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/122737.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 12,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.536363",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 244,
+            "key": 1,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 2,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 88,
+            "won": 58
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "8.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 55,
+            "key": null,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 6,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 169256,
+        "name": "Iker \u00c1lvarez",
+        "firstname": "Iker",
+        "lastname": "\u00c1lvarez De Eulate Molne",
+        "age": 21,
+        "birth": {
+          "date": "2001-07-25",
+          "place": "Andorra la Vella",
+          "country": "Andorra"
+        },
+        "nationality": "Andorra",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/169256.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182150,
+        "name": "Sergio Lozano Lluch",
+        "firstname": "Sergio",
+        "lastname": "Lozano Lluch",
+        "age": 23,
+        "birth": {
+          "date": "1999-03-24",
+          "place": "Benimuslem",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182150.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182219,
+        "name": "\u00c1lex Baena",
+        "firstname": "Alejandro",
+        "lastname": "Baena Rodr\u00edguez",
+        "age": 21,
+        "birth": {
+          "date": "2001-07-20",
+          "place": "Roquetas de Mar",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182219.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 2,
+            "minutes": 135,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 36
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 51,
+            "key": 2,
+            "accuracy": 8
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 20,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 4,
+            "minutes": 376,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.466666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 90,
+            "key": 11,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 26,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 4,
+            "minutes": 286,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.833333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 4,
+            "bench": 9
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 156,
+            "key": 5,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 30,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182668,
+        "name": "\u00c1lex Mill\u00e1n",
+        "firstname": "Alejandro",
+        "lastname": "Mill\u00e1n Iranzo",
+        "age": 23,
+        "birth": {
+          "date": "1999-11-07",
+          "place": "Zaragoza",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182668.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 1,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 12,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2,
+            "key": null,
+            "accuracy": 1
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 184364,
+        "name": "Lanchi Cabrera",
+        "firstname": "Jos\u00e9 Manuel",
+        "lastname": "Cabrera L\u00f3pez",
+        "age": 21,
+        "birth": {
+          "date": "2001-06-23",
+          "place": "Puerto Real",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/184364.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 286616,
+        "name": "F. J\u00f6rgensen",
+        "firstname": "Filip",
+        "lastname": "J\u00f6rgensen",
+        "age": 20,
+        "birth": {
+          "date": "2002-04-16",
+          "place": null,
+          "country": "Sweden"
+        },
+        "nationality": "Denmark",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/286616.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/143.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 3,
+            "name": "UEFA Europa League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/3.png",
+            "flag": null,
+            "season": 2020
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    }
+  ]
+}

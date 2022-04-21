@@ -1,0 +1,3839 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "51",
+    "season": "2018"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 2700,
+        "name": "A. Jahanbakhsh",
+        "firstname": "Alireza",
+        "lastname": "Jahanbakhsh Jirandeh",
+        "age": 29,
+        "birth": {
+          "date": "1993-08-11",
+          "place": "Jirandeh",
+          "country": "Iran"
+        },
+        "nationality": "Iran",
+        "height": "180 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2700.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 12,
+            "minutes": 1022,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.473684",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 9,
+            "bench": 12
+          },
+          "shots": {
+            "total": 21,
+            "on": 6
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 192,
+            "key": 5,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 32,
+            "blocks": 0,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 164,
+            "won": 62
+          },
+          "dribbles": {
+            "attempts": 36,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 20,
+            "key": 0,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 10,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 328,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 67,
+            "key": 3,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 38,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2741,
+        "name": "M. Ryan",
+        "firstname": "Mathew David",
+        "lastname": "Ryan",
+        "age": 30,
+        "birth": {
+          "date": "1992-04-08",
+          "place": "Plumpton",
+          "country": "Australia"
+        },
+        "nationality": "Australia",
+        "height": "184 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2741.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 34,
+            "minutes": 3060,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.635294",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 55,
+            "assists": null,
+            "saves": 97
+          },
+          "passes": {
+            "total": 464,
+            "key": 0,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 15,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 3
+          },
+          "passes": {
+            "total": 6,
+            "key": 0,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2767,
+        "name": "L. Balogun",
+        "firstname": "Leon Aderemi",
+        "lastname": "Balogun",
+        "age": 34,
+        "birth": {
+          "date": "1988-06-28",
+          "place": "Berlin",
+          "country": "Germany"
+        },
+        "nationality": "Nigeria",
+        "height": "190 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2767.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 5,
+            "minutes": 591,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.612500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 20
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 164,
+            "key": 0,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 3,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 46,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 210,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 75,
+            "key": 0,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 3,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 14,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3398,
+        "name": "G. Bong",
+        "firstname": "Ga\u00ebtan",
+        "lastname": "Bong Songo",
+        "age": 34,
+        "birth": {
+          "date": "1988-04-25",
+          "place": "Sakbayeme",
+          "country": "Cameroon"
+        },
+        "nationality": "Cameroon",
+        "height": "187 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3398.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 19,
+            "minutes": 1805,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.381818",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 19
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 447,
+            "key": 9,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 6,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 129,
+            "won": 55
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 2,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 105,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": 1,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 6,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18002,
+        "name": "Benjamin Philip Barclay",
+        "firstname": "Benjamin Philip",
+        "lastname": "Barclay",
+        "age": 26,
+        "birth": {
+          "date": "1996-10-07",
+          "place": "Manchester",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "187 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18002.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 46,
+            "key": 0,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18958,
+        "name": "D. Button",
+        "firstname": "David",
+        "lastname": "Button",
+        "age": 33,
+        "birth": {
+          "date": "1989-02-27",
+          "place": "Stevenage",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "191 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18958.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 25
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 5,
+            "assists": null,
+            "saves": 14
+          },
+          "passes": {
+            "total": 37,
+            "key": 0,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 7
+          },
+          "passes": {
+            "total": 28,
+            "key": 0,
+            "accuracy": 59
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.033333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": null,
+            "saves": 10
+          },
+          "passes": {
+            "total": 35,
+            "key": 0,
+            "accuracy": 52
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18964,
+        "name": "Bernardo",
+        "firstname": "Bernardo",
+        "lastname": "Fernandes da Silva Junior",
+        "age": 27,
+        "birth": {
+          "date": "1995-05-14",
+          "place": "S\u00e3o Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "186 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18964.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 19,
+            "minutes": 1750,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.940909",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 15
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 571,
+            "key": 10,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 62,
+            "blocks": 14,
+            "interceptions": 34
+          },
+          "duels": {
+            "total": 222,
+            "won": 143
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 42,
+            "key": 0,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 8,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 420,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 93,
+            "key": 2,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 24,
+            "won": 19
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18965,
+        "name": "Mart\u00edn Montoya",
+        "firstname": "Mart\u00edn",
+        "lastname": "Montoya Torralbo",
+        "age": 31,
+        "birth": {
+          "date": "1991-04-14",
+          "place": "Barcelona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18965.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 24,
+            "minutes": 2166,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.652000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 8,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 686,
+            "key": 18,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 58,
+            "blocks": 10,
+            "interceptions": 48
+          },
+          "duels": {
+            "total": 206,
+            "won": 108
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 303,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 59,
+            "key": 1,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18966,
+        "name": "Bruno Saltor",
+        "firstname": "Bruno",
+        "lastname": "Saltor Grau",
+        "age": 41,
+        "birth": {
+          "date": "1980-10-01",
+          "place": "El Masnou",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "181 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18966.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 14,
+            "minutes": 1136,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.735714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 9
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 420,
+            "key": 7,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": 2,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 74,
+            "won": 46
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 372,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.225000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 168,
+            "key": 5,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 20,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18969,
+        "name": "William Guy Collar",
+        "firstname": "William Guy",
+        "lastname": "Collar",
+        "age": 25,
+        "birth": {
+          "date": "1997-02-03",
+          "place": "Horsham",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18969.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 31,
+            "key": 0,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 5,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18971,
+        "name": "Beram Kayal",
+        "firstname": "Beram",
+        "lastname": "Kayal",
+        "age": 34,
+        "birth": {
+          "date": "1988-05-02",
+          "place": "Jadeidi",
+          "country": "Israel"
+        },
+        "nationality": "Israel",
+        "height": "178 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18971.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 9,
+            "minutes": 934,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.633333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 2,
+            "bench": 28
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 193,
+            "key": 4,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 10,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 139,
+            "won": 61
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": 3,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 12,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 463,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.875000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 212,
+            "key": 9,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 35,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18972,
+        "name": "A. Knockaert",
+        "firstname": "Anthony",
+        "lastname": "Knockaert",
+        "age": 31,
+        "birth": {
+          "date": "1991-11-20",
+          "place": "Roubaix",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "172 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18972.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 18,
+            "minutes": 1832,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 7,
+            "bench": 16
+          },
+          "shots": {
+            "total": 27,
+            "on": 9
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 474,
+            "key": 35,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 0,
+            "interceptions": 29
+          },
+          "duels": {
+            "total": 209,
+            "won": 100
+          },
+          "dribbles": {
+            "attempts": 65,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 553,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.860000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 12,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 189,
+            "key": 19,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 49,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18974,
+        "name": "J. Molumby",
+        "firstname": "Jayson Patrick",
+        "lastname": "Molumby",
+        "age": 23,
+        "birth": {
+          "date": "1999-08-06",
+          "place": "Waterford",
+          "country": "Republic of Ireland"
+        },
+        "nationality": "Republic of Ireland",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18974.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18975,
+        "name": "D. Pr\u00f6pper",
+        "firstname": "David Petrus Wenceslaus Henri",
+        "lastname": "Pr\u00f6pper",
+        "age": 31,
+        "birth": {
+          "date": "1991-09-02",
+          "place": "Arnhem",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "185 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18975.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 30,
+            "minutes": 2551,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.690000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 15,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 971,
+            "key": 19,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 50,
+            "blocks": 6,
+            "interceptions": 53
+          },
+          "duels": {
+            "total": 273,
+            "won": 134
+          },
+          "dribbles": {
+            "attempts": 50,
+            "success": 30,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 33
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 269,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.066666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 84,
+            "key": 2,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 15,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 27,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 11,
+            "key": 0,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18978,
+        "name": "F. Andone",
+        "firstname": "Florin",
+        "lastname": "Andone",
+        "age": 29,
+        "birth": {
+          "date": "1993-04-11",
+          "place": "Boto\u0219ani",
+          "country": "Romania"
+        },
+        "nationality": "Romania",
+        "height": "180 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18978.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 8,
+            "minutes": 874,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.465217",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 8,
+            "bench": 20
+          },
+          "shots": {
+            "total": 19,
+            "on": 8
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 111,
+            "key": 2,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 240,
+            "won": 75
+          },
+          "dribbles": {
+            "attempts": 37,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 317,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.825000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 12,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 47,
+            "key": 1,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 60,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18979,
+        "name": "V. Gy\u00f6keres",
+        "firstname": "Viktor Einar",
+        "lastname": "Gy\u00f6keres",
+        "age": 24,
+        "birth": {
+          "date": "1998-06-04",
+          "place": null,
+          "country": "Sweden"
+        },
+        "nationality": "Sweden",
+        "height": "187 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18979.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": 1,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 10,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 106,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.633333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 28,
+            "key": 2,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 12,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18980,
+        "name": "J. Izquierdo",
+        "firstname": "Jos\u00e9 Heriberto",
+        "lastname": "Izquierdo Mena",
+        "age": 30,
+        "birth": {
+          "date": "1992-07-07",
+          "place": "Pereira",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "171 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18980.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 9,
+            "minutes": 794,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.520000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 5,
+            "bench": 9
+          },
+          "shots": {
+            "total": 15,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 153,
+            "key": 6,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 90,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 67,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 0,
+            "key": 0,
+            "accuracy": 0
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18982,
+        "name": "G. Murray",
+        "firstname": "Glenn",
+        "lastname": "Murray",
+        "age": 38,
+        "birth": {
+          "date": "1983-09-25",
+          "place": "Maryport",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18982.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 30,
+            "minutes": 2513,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.778947",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 14,
+            "bench": 8
+          },
+          "shots": {
+            "total": 54,
+            "on": 21
+          },
+          "goals": {
+            "total": 13,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 353,
+            "key": 12,
+            "accuracy": 58
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 3,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 563,
+            "won": 249
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 54,
+            "committed": 80
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": 1,
+            "scored": 4,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 45,
+            "name": "FA Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/45.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 212,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.233333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": 0,
+            "accuracy": 33
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 19,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19772,
+        "name": "A. Connolly",
+        "firstname": "Aaron Anthony",
+        "lastname": "Connolly",
+        "age": 22,
+        "birth": {
+          "date": "2000-01-28",
+          "place": "Galway",
+          "country": "Republic of Ireland"
+        },
+        "nationality": "Republic of Ireland",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19772.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": 0,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 3,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25454,
+        "name": "M. Suttner",
+        "firstname": "Markus",
+        "lastname": "Suttner",
+        "age": 35,
+        "birth": {
+          "date": "1987-04-16",
+          "place": "Hollabrunn",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "179 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25454.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 48,
+            "name": "League Cup",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/48.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 31,
+            "key": 0,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

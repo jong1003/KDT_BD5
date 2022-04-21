@@ -1,0 +1,3321 @@
+{
+  "get": "players",
+  "parameters": {
+    "team": "163",
+    "season": "2018"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 2
+  },
+  "response": [
+    {
+      "player": {
+        "id": 2802,
+        "name": "Y. Sommer",
+        "firstname": "Yann",
+        "lastname": "Sommer",
+        "age": 34,
+        "birth": {
+          "date": "1988-12-17",
+          "place": "Morges",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "183 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2802.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 34,
+            "minutes": 3060,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.047058",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 42,
+            "assists": null,
+            "saves": 114
+          },
+          "passes": {
+            "total": 1093,
+            "key": 1,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 19,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "4.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 5,
+            "assists": null,
+            "saves": 1
+          },
+          "passes": {
+            "total": 18,
+            "key": 0,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 2,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2803,
+        "name": "N. Elvedi",
+        "firstname": "Nico",
+        "lastname": "Elvedi",
+        "age": 26,
+        "birth": {
+          "date": "1996-09-30",
+          "place": "Z\u00fcrich",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "189 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2803.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 30,
+            "minutes": 2626,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.026666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 14,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1916,
+            "key": 3,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 13,
+            "interceptions": 49
+          },
+          "duels": {
+            "total": 231,
+            "won": 145
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 90,
+            "key": 0,
+            "accuracy": 95
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 6,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2805,
+        "name": "M. Lang",
+        "firstname": "Michael",
+        "lastname": "Lang",
+        "age": 31,
+        "birth": {
+          "date": "1991-02-08",
+          "place": "Egnach",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "185 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2805.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 15,
+            "minutes": 1260,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.756250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 7,
+            "bench": 11
+          },
+          "shots": {
+            "total": 11,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 547,
+            "key": 4,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 3,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 85,
+            "won": 42
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 50,
+            "key": 1,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 3,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2915,
+        "name": "M. Ginter",
+        "firstname": "Matthias Lukas",
+        "lastname": "Ginter",
+        "age": 28,
+        "birth": {
+          "date": "1994-01-19",
+          "place": "Freiburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "191 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2915.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2380,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.944444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 23,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1524,
+            "key": 9,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 19,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 178,
+            "won": 107
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 160,
+            "key": 0,
+            "accuracy": 94
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2929,
+        "name": "T. Hazard",
+        "firstname": "Thorgan Ganael Francis",
+        "lastname": "Hazard",
+        "age": 29,
+        "birth": {
+          "date": "1993-03-29",
+          "place": "La Louvi\u00e8re",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "175 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2929.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2878,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.515151",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 75,
+            "on": 26
+          },
+          "goals": {
+            "total": 10,
+            "conceded": null,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 882,
+            "key": 75,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": 2,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 434,
+            "won": 205
+          },
+          "dribbles": {
+            "attempts": 121,
+            "success": 72,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 61,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 3,
+            "missed": 2,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "8.350000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 10,
+            "on": 3
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 72,
+            "key": 7,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 18,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24962,
+        "name": "L. B\u00e9nes",
+        "firstname": "L\u00e1szl\u00f3",
+        "lastname": "B\u00e9nes",
+        "age": 25,
+        "birth": {
+          "date": "1997-09-09",
+          "place": "Dunajsk\u00e1 Streda",
+          "country": "Slovakia"
+        },
+        "nationality": "Slovakia",
+        "height": "181 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24962.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 26,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 8,
+            "key": 0,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 4,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1,
+            "key": 0,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25627,
+        "name": "T. Sippel",
+        "firstname": "Tobias",
+        "lastname": "Sippel",
+        "age": 34,
+        "birth": {
+          "date": "1988-03-22",
+          "place": "Bad D\u00fcrkheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25627.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 34
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": null,
+            "saves": 0
+          },
+          "passes": {
+            "total": 22,
+            "key": 0,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 0,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25628,
+        "name": "L. Beyer",
+        "firstname": "Louis Jordan",
+        "lastname": "Beyer",
+        "age": 22,
+        "birth": {
+          "date": "2000-05-19",
+          "place": "Kempen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "187 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25628.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 8,
+            "minutes": 720,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.133333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 6
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 376,
+            "key": 2,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 6,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 92,
+            "won": 57
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 49,
+            "key": 2,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 4,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25629,
+        "name": "M. Doucour\u00e9",
+        "firstname": "Mamadou",
+        "lastname": "Doucour\u00e9",
+        "age": 24,
+        "birth": {
+          "date": "1998-05-21",
+          "place": "Dakar",
+          "country": "Senegal"
+        },
+        "nationality": "France",
+        "height": "183 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25629.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25630,
+        "name": "T. Jantschke",
+        "firstname": "Tony",
+        "lastname": "Jantschke",
+        "age": 32,
+        "birth": {
+          "date": "1990-04-07",
+          "place": "Hoyerswerda",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "177 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25630.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 10,
+            "minutes": 931,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 21
+          },
+          "shots": {
+            "total": 4,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 724,
+            "key": 1,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 7,
+            "interceptions": 27
+          },
+          "duels": {
+            "total": 91,
+            "won": 58
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 83,
+            "key": 2,
+            "accuracy": 95
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25631,
+        "name": "Florian Mayer",
+        "firstname": "Florian",
+        "lastname": "Mayer",
+        "age": 24,
+        "birth": {
+          "date": "1998-03-04",
+          "place": "Essen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25631.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25633,
+        "name": "O. Wendt",
+        "firstname": "Oscar Joakim",
+        "lastname": "Wendt",
+        "age": 37,
+        "birth": {
+          "date": "1985-10-24",
+          "place": "Sk\u00f6vde",
+          "country": "Sweden"
+        },
+        "nationality": "Sweden",
+        "height": "181 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25633.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 30,
+            "minutes": 2730,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.812500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 8,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1240,
+            "key": 29,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": 11,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 188,
+            "won": 95
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 148,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 109,
+            "key": 3,
+            "accuracy": 89
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25635,
+        "name": "J. Hofmann",
+        "firstname": "Jonas",
+        "lastname": "Hofmann",
+        "age": 30,
+        "birth": {
+          "date": "1992-07-14",
+          "place": "Heidelberg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "176 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25635.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 21,
+            "minutes": 1914,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.955555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 9,
+            "bench": 7
+          },
+          "shots": {
+            "total": 36,
+            "on": 10
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 874,
+            "key": 35,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 2,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 201,
+            "won": 80
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 165,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "8.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 90,
+            "key": 10,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 22,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25636,
+        "name": "F. Johnson",
+        "firstname": "Fabian",
+        "lastname": "Johnson",
+        "age": 34,
+        "birth": {
+          "date": "1987-12-11",
+          "place": "M\u00fcnchen",
+          "country": "Germany"
+        },
+        "nationality": "USA",
+        "height": "183 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25636.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 11,
+            "minutes": 1010,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.538888",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 5,
+            "bench": 16
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 403,
+            "key": 4,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 3,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 71,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25637,
+        "name": "C. Kramer",
+        "firstname": "Christoph",
+        "lastname": "Kramer",
+        "age": 31,
+        "birth": {
+          "date": "1991-02-19",
+          "place": "Solingen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "191 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25637.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 13,
+            "minutes": 1136,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 5,
+            "bench": 14
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 652,
+            "key": 9,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 4,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 178,
+            "won": 79
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 72,
+            "key": 3,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 19,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25639,
+        "name": "L. Stindl",
+        "firstname": "Lars",
+        "lastname": "Edi Stindl",
+        "age": 34,
+        "birth": {
+          "date": "1988-08-26",
+          "place": "Speyer",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "181 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25639.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 19,
+            "minutes": 1513,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.115789",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 7,
+            "bench": 3
+          },
+          "shots": {
+            "total": 34,
+            "on": 12
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 618,
+            "key": 23,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 2,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 162,
+            "won": 87
+          },
+          "dribbles": {
+            "attempts": 28,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 33,
+            "key": 2,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 6,
+            "won": 0
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25642,
+        "name": "Raffael Caetano de Ara\u00fajo",
+        "firstname": "Raffael",
+        "lastname": "Caetano de Ara\u00fajo",
+        "age": 37,
+        "birth": {
+          "date": "1985-03-28",
+          "place": "Fortaleza",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "174 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25642.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 5,
+            "minutes": 540,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 5,
+            "bench": 10
+          },
+          "shots": {
+            "total": 11,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 176,
+            "key": 16,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 66,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 68,
+            "number": null,
+            "position": "Attacker",
+            "rating": "9.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": 0,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25643,
+        "name": "Josip Drmic",
+        "firstname": "Josip",
+        "lastname": "Drmic",
+        "age": 30,
+        "birth": {
+          "date": "1992-08-08",
+          "place": "Freienbach",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "183 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25643.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 2,
+            "minutes": 219,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.860000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 7,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 1,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 24,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25645,
+        "name": "T. M\u00fcsel",
+        "firstname": "Torben",
+        "lastname": "M\u00fcsel",
+        "age": 23,
+        "birth": {
+          "date": "1999-07-25",
+          "place": "Gr\u00fcnstadt",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "185 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25645.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25647,
+        "name": "I. Traor\u00e9",
+        "firstname": "Ibrahima",
+        "lastname": "Traor\u00e9",
+        "age": 33,
+        "birth": {
+          "date": "1988-04-21",
+          "place": "Villepinte",
+          "country": "France"
+        },
+        "nationality": "Guinea",
+        "height": "171 cm",
+        "weight": "61 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25647.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 5,
+            "minutes": 546,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.086666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 5,
+            "bench": 18
+          },
+          "shots": {
+            "total": 15,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 188,
+            "key": 16,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 62,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 81,
+            "name": "DFB Pokal",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/81.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2018
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 19,
+            "key": 1,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
